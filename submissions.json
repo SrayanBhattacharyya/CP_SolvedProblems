@@ -4824,6 +4824,22 @@
     ],
     "timestamp": "Jun/10/2022 22:23"
   },
+  "CF96820035": {
+    "contest_id": 282,
+    "language": "Python 3",
+    "path": "codeforces\\282\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bit++",
+    "problem_url": "https://codeforces.com/contest/282/problem/A",
+    "submission_id": "CF96820035",
+    "submission_url": "https://codeforces.com/contest/282/submission/96820035",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/27/2020 07:54"
+  },
   "CF96820382": {
     "contest_id": 112,
     "language": "Python 3",
