@@ -4824,6 +4824,22 @@
     ],
     "timestamp": "Jun/10/2022 22:23"
   },
+  "CF96951972": {
+    "contest_id": 116,
+    "language": "Python 3",
+    "path": "codeforces\\116\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tram",
+    "problem_url": "https://codeforces.com/contest/116/problem/A",
+    "submission_id": "CF96951972",
+    "submission_url": "https://codeforces.com/contest/116/submission/96951972",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/28/2020 08:35"
+  },
   "CF97044311": {
     "contest_id": 977,
     "language": "Python 3",
