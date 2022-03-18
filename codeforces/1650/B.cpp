@@ -9,13 +9,19 @@ int mo(int x, int y)
     return (x/y) + (x % y);
 }
 int main()
+
 {
     int t; cin >> t;
     while (t--)
     {
         int l, r, a; cin >> l >> r >> a;
         if (r/a == l/a) cout << mo(r, a) << endl;
-        else cout << max(mo(r,a), ((r/a) - 1) + (a - 1)) << endl;
+        else 
+        {
+            cout << max(mo(r,a), ((r/a) - 1) + (a - 1)) << endl;
+        }
+
+
     }
     return 0;
 }
