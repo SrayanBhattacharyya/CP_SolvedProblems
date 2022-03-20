@@ -1,21 +1,33 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define rep(i,n) for(int i=0;i<n;i++)
-#define rev(i,n) for(int i=n;i>=0;i--)
-#define rep_a(i,a,n) for(int i=a;i<n;i++)
-//Srayan Bhattacharyya JU EE
+#define ll long long
 int main()
 {
-    int t; cin >> t;
-    while (t--)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    
+    ll t, a, b, c, m;
+    
+    cin>>t;
+    
+    for(;t--;)
     {
-        int a, b, c; cin >> a >> b >> c;
-        int t1 = 2*b - c;
-        int t2 = a  + (c -a)/2; int t3 = 2*(b - a) + a;
-        if (t1 >= a && t1 % a == 0 && t1 > 0) cout << "YES" << "\n";
-        else if (t2 >= b && t2 % b == 0 && t2 > 0 && (c-a) % 2 == 0) cout << "YES" << "\n";
-        else if (t3 >= c && t3 % c == 0 && t3 > 0) cout << "YES" << "\n";
-        else cout << "NO" << "\n";  
+        cin>>a>>b>>c;
+        m=-1;
+        
+        if((2*b-c)%a==0 && (2*b-c)>0){
+            m=(2*b-c)/a;
+        }else if((a+c)%(2*b)==0){
+            m=(a+c)/(2*b);
+        }else if((2*b-a)%c==0 && (2*b-a)>0){
+            m=(2*b-a)/c;
+        }
+        
+        if(m==-1){
+            cout<<"NO\n";
+        }else{
+            cout<<"YES\n";
+        }
     }
-    return 0;
 }
