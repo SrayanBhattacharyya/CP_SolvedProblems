@@ -30,8 +30,12 @@ int main()
         taxi += grpcnt[3];
         grpcnt[3] = 0;
     }
-    taxi += grpcnt[2]/2;
-    grpcnt[2] = grpcnt[2]%2;
+    //change
+    if(grpcnt[2] > 0){
+        taxi += grpcnt[2]/2;
+        grpcnt[2] = grpcnt[2]%2;
+    }
+
     int remain = grpcnt[1] + (grpcnt[2]*2); 
     if(remain <= 4 && remain > 0){
         taxi += 1;
