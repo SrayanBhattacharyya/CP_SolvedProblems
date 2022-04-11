@@ -1,4 +1,20 @@
 {
+  "CF153350585": {
+    "contest_id": 1569,
+    "language": "GNU C++17",
+    "path": "codeforces\\1569\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chess Tournament",
+    "problem_url": "https://codeforces.com/contest/1569/problem/B",
+    "submission_id": "CF153350585",
+    "submission_url": "https://codeforces.com/contest/1569/submission/153350585",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Apr/11/2022 11:05"
+  },
   "CF153358449": {
     "contest_id": 1569,
     "language": "GNU C++17",
