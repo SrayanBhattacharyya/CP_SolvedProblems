@@ -1,4 +1,21 @@
 {
+  "CF153486169": {
+    "contest_id": 1661,
+    "language": "GNU C++17",
+    "path": "codeforces\\1661\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Balancing",
+    "problem_url": "https://codeforces.com/contest/1661/problem/A",
+    "submission_id": "CF153486169",
+    "submission_url": "https://codeforces.com/contest/1661/submission/153486169",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/12/2022 23:27"
+  },
   "CF153533327": {
     "contest_id": 469,
     "language": "GNU C++17",
