@@ -1,4 +1,21 @@
 {
+  "CF153533327": {
+    "contest_id": 469,
+    "language": "GNU C++17",
+    "path": "codeforces\\469\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF153533327",
+    "submission_url": "https://codeforces.com/contest/469/submission/153533327",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/13/2022 13:48"
+  },
   "CF153542552": {
     "contest_id": 1476,
     "language": "GNU C++17",
