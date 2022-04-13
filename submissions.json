@@ -1,4 +1,21 @@
 {
+  "CF153566625": {
+    "contest_id": 1642,
+    "language": "GNU C++17",
+    "path": "codeforces\\1642\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Great Sequence",
+    "problem_url": "https://codeforces.com/contest/1642/problem/C",
+    "submission_id": "CF153566625",
+    "submission_url": "https://codeforces.com/contest/1642/submission/153566625",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/13/2022 19:11"
+  },
   "CF153608552": {
     "contest_id": 1300,
     "language": "GNU C++17",
