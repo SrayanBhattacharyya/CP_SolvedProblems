@@ -1,4 +1,22 @@
 {
+  "CF153608552": {
+    "contest_id": 1300,
+    "language": "GNU C++17",
+    "path": "codeforces\\1300\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Assigning to Classes",
+    "problem_url": "https://codeforces.com/contest/1300/problem/B",
+    "submission_id": "CF153608552",
+    "submission_url": "https://codeforces.com/contest/1300/submission/153608552",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Apr/14/2022 10:51"
+  },
   "CF153610874": {
     "contest_id": 1567,
     "language": "GNU C++17",
