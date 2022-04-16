@@ -1,4 +1,21 @@
 {
+  "CF153825863": {
+    "contest_id": 841,
+    "language": "GNU C++17",
+    "path": "codeforces\\841\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Godsend",
+    "problem_url": "https://codeforces.com/contest/841/problem/B",
+    "submission_id": "CF153825863",
+    "submission_url": "https://codeforces.com/contest/841/submission/153825863",
+    "tags": [
+      "games",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/16/2022 22:53"
+  },
   "CF153828381": {
     "contest_id": 755,
     "language": "GNU C++17",
