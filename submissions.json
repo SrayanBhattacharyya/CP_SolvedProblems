@@ -1,4 +1,19 @@
 {
+  "CF154223173": {
+    "contest_id": 1604,
+    "language": "GNU C++17",
+    "path": "codeforces\\1604\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XOR Specia-LIS-t",
+    "problem_url": "https://codeforces.com/contest/1604/problem/B",
+    "submission_id": "CF154223173",
+    "submission_url": "https://codeforces.com/contest/1604/submission/154223173",
+    "tags": [
+      "*1100"
+    ],
+    "timestamp": "Apr/21/2022 00:03"
+  },
   "CF154297528": {
     "contest_id": 1669,
     "language": "GNU C++17",
