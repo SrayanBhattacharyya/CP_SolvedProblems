@@ -1,4 +1,21 @@
 {
+  "CF154779754": {
+    "contest_id": 1669,
+    "language": "GNU C++17",
+    "path": "codeforces\\1669\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Fall Down",
+    "problem_url": "https://codeforces.com/contest/1669/problem/G",
+    "submission_id": "CF154779754",
+    "submission_url": "https://codeforces.com/contest/1669/submission/154779754",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/23/2022 23:58"
+  },
   "CF154819867": {
     "contest_id": 1669,
     "language": "GNU C++17",
