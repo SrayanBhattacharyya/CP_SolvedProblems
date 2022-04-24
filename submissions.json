@@ -1,4 +1,22 @@
 {
+  "CF154819867": {
+    "contest_id": 1669,
+    "language": "GNU C++17",
+    "path": "codeforces\\1669\\H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Maximal AND",
+    "problem_url": "https://codeforces.com/contest/1669/problem/H",
+    "submission_id": "CF154819867",
+    "submission_url": "https://codeforces.com/contest/1669/submission/154819867",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/24/2022 12:46"
+  },
   "CF154872382": {
     "contest_id": 1672,
     "language": "GNU C++17",
