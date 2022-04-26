@@ -1,4 +1,23 @@
 {
+  "CF155007880": {
+    "contest_id": 1660,
+    "language": "GNU C++17",
+    "path": "codeforces\\1660\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Matrix and Shifts",
+    "problem_url": "https://codeforces.com/contest/1660/problem/E",
+    "submission_id": "CF155007880",
+    "submission_url": "https://codeforces.com/contest/1660/submission/155007880",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Apr/26/2022 13:05"
+  },
   "CF155016448": {
     "contest_id": 1660,
     "language": "GNU C++17",
