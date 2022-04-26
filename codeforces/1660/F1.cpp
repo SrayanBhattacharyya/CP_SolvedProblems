@@ -1,105 +1,53 @@
-#include <bits/stdc++.h>
+//Srayan Bhattacharyya JU EE
+#include<bits/stdc++.h>
 using namespace std;
+#define rep(i,n) for(int i=0;i<n;i++)
+#define rev(i,n) for(int i=n;i>=0;i--)
+#define rep_a(i,a,n) for(int i=a;i<n;i++)
+#define mods 998244353
 typedef long long ll;
+typedef pair <int, int> pii;
+typedef vector <int> vi;
+typedef vector <string> vs;
+typedef vector <ll> vll;
+#define max3(a,b,c) max(max((a),(b)),(c))
+#define min3(a,b,c) min(min((a),(b)),(c))
+#define st(s) sort(s.begin(),s.end())
+#define dst(s) sort(s.begin() , s.end() , greater<int>())
+const ll mod = 1000000007;
+ll gcd(ll a, ll b) { if (b == 0) return a; return gcd(b, a % b);}
+ll ceil_div(ll a, ll b) {return a % b == 0 ? a / b : a / b + 1;}
+ll mod_mul(ll a, ll b) {a = a % mod; b = b % mod; return (((a * b) % mod) + mod) % mod;}
+ll mod_add(ll a, ll b) {a = a % mod; b = b % mod; return (((a + b) % mod) + mod) % mod;}
+ll inv(ll i) {if (i == 1) return 1; return (mod - ((mod / i) * inv(mod % i)) % mod) % mod;}
+ll pwr(ll a, ll b) { ll res = 1; while (b > 0) {if (b & 1) res = res * a ; a = a * a; b >>= 1;} return res;}
 
-// zero-indexed Segment Tree
-struct segTree {
- 
-    // default value for empty tree nodes
-    static constexpr ll unit = 0;
- 
-    // (any associative function)
-    ll merge(ll a, ll b) { return a+b; }
-    
-    vector<ll> t; ll n;
-    segTree(ll n = 0, ll def = unit) : t(2*n, def), n(n) {}
-    
-    void update(ll pos, ll val) {
-        for (t[pos += n] = val; pos /= 2;)
-            t[pos] = merge(t[pos * 2], t[pos * 2 + 1]);
-    }
- 
-    // queries [b,e)
-    ll query(ll b, ll e) {
-        ll ra = unit, rb = unit;
-        for (b += n, e += n; b < e; b /= 2, e /= 2) {
-            if (b % 2) ra = merge(ra, t[b++]);
-            if (e % 2) rb = merge(t[--e], rb);
-        }
-        return merge(ra, rb);
-    }
-};
- 
-void add_one(segTree& T, ll idx){
-    ll curr = T.query(idx,idx+1);
-    T.update(idx,curr+1);
-}
- 
-bool solve()
-{
-    ll n,ans=0;
-    cin >> n;
-    string s;
-    cin >> s;
- 
-    ll maxn = 2*n+10;
-    segTree rem0(maxn), rem1(maxn), rem2(maxn);
- 
-    if(n%3==0)
-        add_one(rem0,n);
-    else if(n%3==1)
-        add_one(rem1,n);
-    else
-        add_one(rem2,n);
- 
-    ll pcnt = 0, mcnt = 0;
-    for(ll i=0 ; i<n ; ++i)
-    {
-        if(s[i]=='+') pcnt++;
-        else mcnt++;
-        
-        ll diff = n + mcnt - pcnt;
- 
-        ll curr_mod = diff%3;
- 
-        if(curr_mod == 0)
-            ans += rem0.query(0,diff+1);
-        else if(curr_mod==1)
-            ans += rem1.query(0,diff+1);
-        else
-            ans += rem2.query(0,diff+1);
- 
-        if(curr_mod == 0)
-            add_one(rem0, diff);
-        else if(curr_mod == 1)
-            add_one(rem1, diff);
-        else 
-            add_one(rem2,diff);
-    }
- 
-    cout << ans << endl;
-    
-    return true;    
-}
- 
 int main()
 {
-    ios_base :: sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    ll t=1;
-    cin >> t;
-    while(t--)
-    {
-        if(solve())
-        {
-            // cout << "YES" << endl;
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+    int t; cin >> t;
+    while (t--){
+        int n; cin >> n; 
+        string s; cin >> s;
+        int p = 0,  m = 0;
+        int cnt[n + 1][2];
+        cnt[0][0] = 0; cnt[0][1] = 0; //First Row --> (+) and Second Row --> (-)
+        for (int i = 1; i <= n; i++){
+            if (s[i - 1] == '+') p++;
+            else m++;
+            cnt[i][0] = p; cnt[i][1] = m;
         }
-        else
-        {
-            // cout << "NO" << endl;
+        int ans = 0;
+        rep_a(i, 1, n+1){
+            rep_a(j, i+1, n+1){
+                p = cnt[j][0] - cnt[i-1][0];
+                m = cnt[j][1] - cnt[i-1][1];
+                if (m >= p && (m- p) % 3 == 0) ans++;
+            }
         }
+        cout << ans << "\n";
     }
- 
     return 0;
-} 
+}
