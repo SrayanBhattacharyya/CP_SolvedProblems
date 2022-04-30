@@ -1,4 +1,23 @@
 {
+  "CF155394469": {
+    "contest_id": 1672,
+    "language": "GNU C++17",
+    "path": "codeforces\\1672\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cyclic Rotation",
+    "problem_url": "https://codeforces.com/contest/1672/problem/D",
+    "submission_id": "CF155394469",
+    "submission_url": "https://codeforces.com/contest/1672/submission/155394469",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Apr/30/2022 19:16"
+  },
   "CF155396406": {
     "contest_id": 1659,
     "language": "GNU C++17",
