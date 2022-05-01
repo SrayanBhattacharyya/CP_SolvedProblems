@@ -1,4 +1,21 @@
 {
+  "CF155531034": {
+    "contest_id": 1635,
+    "language": "GNU C++17",
+    "path": "codeforces\\1635\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Min Or Sum",
+    "problem_url": "https://codeforces.com/contest/1635/problem/A",
+    "submission_id": "CF155531034",
+    "submission_url": "https://codeforces.com/contest/1635/submission/155531034",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/01/2022 23:58"
+  },
   "CF155532301": {
     "contest_id": 1542,
     "language": "GNU C++17",
