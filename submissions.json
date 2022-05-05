@@ -1986,6 +1986,22 @@
     ],
     "timestamp": "May/02/2022 21:48"
   },
+  "CF156001147": {
+    "contest_id": 1675,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1675\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Detective Task",
+    "problem_url": "https://codeforces.com/contest/1675/problem/C",
+    "submission_id": "CF156001147",
+    "submission_url": "https://codeforces.com/contest/1675/submission/156001147",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/05/2022 22:04"
+  },
   "CF156129458": {
     "contest_id": 1670,
     "language": "GNU C++20 (64)",
