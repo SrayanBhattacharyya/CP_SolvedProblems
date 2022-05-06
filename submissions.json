@@ -1986,6 +1986,24 @@
     ],
     "timestamp": "May/02/2022 21:48"
   },
+  "CF156131055": {
+    "contest_id": 1670,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1670\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prof. Slim",
+    "problem_url": "https://codeforces.com/contest/1670/problem/A",
+    "submission_id": "CF156131055",
+    "submission_url": "https://codeforces.com/contest/1670/submission/156131055",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/07/2022 00:00"
+  },
   "CF156957056": {
     "contest_id": 1661,
     "language": "GNU C++20 (64)",
