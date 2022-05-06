@@ -1986,6 +1986,24 @@
     ],
     "timestamp": "May/02/2022 21:48"
   },
+  "CF156129458": {
+    "contest_id": 1670,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1670\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dorms War",
+    "problem_url": "https://codeforces.com/contest/1670/problem/B",
+    "submission_id": "CF156129458",
+    "submission_url": "https://codeforces.com/contest/1670/submission/156129458",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/06/2022 23:42"
+  },
   "CF156131055": {
     "contest_id": 1670,
     "language": "GNU C++20 (64)",
