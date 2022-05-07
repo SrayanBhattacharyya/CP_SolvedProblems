@@ -30,7 +30,7 @@ ll mod_add(ll a, ll b) {a = a % mod; b = b % mod; return (((a + b) % mod) + mod)
 ll inv(ll i) {if (i == 1) return 1; return (mod - ((mod / i) * inv(mod % i)) % mod) % mod;}
 ll pwr(ll a, ll b) { ll res = 1; while (b > 0) {if (b & 1) res = res * a ; a = a * a; b >>= 1;} return res;}
 
-vs split(string s, string del = " "){            
+vs split(string s, string del = " "){
     vs ans; ll start = 0; ll end = s.find(del);
     while (end != -1) {
         cout << s.substr(start, end - start) << "\n";
@@ -82,34 +82,30 @@ signed main(){
     cout.tie(0);
     int t; cin >> t;
     while (t--){
-        int n;
-        cin >> n;
-        int array[n];
-        int count = 0;
-        for(int i = 0; i < n; i++)  {
-            cin >> array[i];
-            if(array[i] < 0)    {
-                count++;
+        int n; cin >> n;
+        vi v(n); rep(i, n) cin >> v[i];
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            if (v[low] == 0) low++;
+            else if (v[high] == 0) high--;
+            else if (v[low] < 0 && v[high]>0){ 
+                low++;
+                high--;
             }
-            array[i] = abs(array[i]);
-        }
-        for(int i = 0; i < n; i++)  {
-            if(count == 0)  {
-                break;
+            else if (v[low] > 0 && v[high] < 0){
+                v[low] *= -1;
+                v[high] *= -1;
+                low++;
+                high--;
             }
-            count--;
-            array[i] = -array[i];
-            
-        }
-        int flag = 0;
-        for(int i = 1; i < n; i++)  {
-            if(array[i] < array[i-1])   {
-                flag = 1;
-                break;
+            else if (v[low] > 0 && v[high] > 0){
+                high--;
+            }
+            else if (v[low] < 0 && v[high] < 0){ 
+                low++;
             }
         }
-        if(flag) cout << "NO\n";
-        else cout << "YES" << "\n";
+        cout << (is_sorted(v.begin(), v.end()) ? "YES\n" : "NO\n");
     }
     return 0;
 }
