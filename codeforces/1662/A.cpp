@@ -85,7 +85,7 @@ signed main(){
     cin >> t;
     while (t--){
         int n; cin >> n;
-        unordered_map <int, int> m;  //Difficulty --> Beauty
+        map <int, int> m;  //Difficulty --> Beauty
         while(n--){
             int beauty, diff; 
             cin >> beauty >> diff;
