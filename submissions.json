@@ -2107,6 +2107,27 @@
     ],
     "timestamp": "May/07/2022 00:00"
   },
+  "CF156860220": {
+    "contest_id": 1648,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1648\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Weird Sum",
+    "problem_url": "https://codeforces.com/contest/1648/problem/A",
+    "submission_id": "CF156860220",
+    "submission_url": "https://codeforces.com/contest/1648/submission/156860220",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "math",
+      "matrices",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/11/2022 23:56"
+  },
   "CF156861793": {
     "contest_id": 776,
     "language": "GNU C++20 (64)",
