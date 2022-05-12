@@ -2107,6 +2107,23 @@
     ],
     "timestamp": "May/07/2022 00:00"
   },
+  "CF156923267": {
+    "contest_id": 1045,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1045\\I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Palindrome Pairs",
+    "problem_url": "https://codeforces.com/contest/1045/problem/I",
+    "submission_id": "CF156923267",
+    "submission_url": "https://codeforces.com/contest/1045/submission/156923267",
+    "tags": [
+      "hashing",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/12/2022 18:43"
+  },
   "CF156926121": {
     "contest_id": 1487,
     "language": "GNU C++20 (64)",
