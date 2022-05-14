@@ -3045,6 +3045,24 @@
     ],
     "timestamp": "May/14/2022 01:49"
   },
+  "CF157216183": {
+    "contest_id": 1466,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1466\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Apollo versus Pan",
+    "problem_url": "https://codeforces.com/contest/1466/problem/E",
+    "submission_id": "CF157216183",
+    "submission_url": "https://codeforces.com/contest/1466/submission/157216183",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/14/2022 19:53"
+  },
   "CF157228074": {
     "contest_id": 1644,
     "language": "GNU C++20 (64)",
