@@ -3045,6 +3045,23 @@
     ],
     "timestamp": "May/14/2022 01:49"
   },
+  "CF157266655": {
+    "contest_id": 1679,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1679\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Stone Age Problem",
+    "problem_url": "https://codeforces.com/contest/1679/problem/B",
+    "submission_id": "CF157266655",
+    "submission_url": "https://codeforces.com/contest/1679/submission/157266655",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/15/2022 12:00"
+  },
   "CF157273220": {
     "contest_id": 1342,
     "language": "GNU C++20 (64)",
