@@ -3045,6 +3045,24 @@
     ],
     "timestamp": "May/14/2022 01:49"
   },
+  "CF157330615": {
+    "contest_id": 1620,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1620\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Triangles on a Rectangle",
+    "problem_url": "https://codeforces.com/contest/1620/problem/B",
+    "submission_id": "CF157330615",
+    "submission_url": "https://codeforces.com/contest/1620/submission/157330615",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/15/2022 22:16"
+  },
   "CF157333265": {
     "contest_id": 1607,
     "language": "GNU C++20 (64)",
