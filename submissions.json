@@ -3045,6 +3045,22 @@
     ],
     "timestamp": "May/14/2022 01:49"
   },
+  "CF157334780": {
+    "contest_id": 1607,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1607\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Robot on the Board 1",
+    "problem_url": "https://codeforces.com/contest/1607/problem/E",
+    "submission_id": "CF157334780",
+    "submission_url": "https://codeforces.com/contest/1607/submission/157334780",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/15/2022 23:16"
+  },
   "CF157337259": {
     "contest_id": 1296,
     "language": "GNU C++20 (64)",
