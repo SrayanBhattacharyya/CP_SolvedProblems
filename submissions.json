@@ -3170,6 +3170,22 @@
     ],
     "timestamp": "May/18/2022 00:38"
   },
+  "CF157514774": {
+    "contest_id": 618,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\618\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Guess the Permutation",
+    "problem_url": "https://codeforces.com/contest/618/problem/B",
+    "submission_id": "CF157514774",
+    "submission_url": "https://codeforces.com/contest/618/submission/157514774",
+    "tags": [
+      "constructive algorithms",
+      "*1100"
+    ],
+    "timestamp": "May/18/2022 02:29"
+  },
   "CF157515250": {
     "contest_id": 611,
     "language": "GNU C++20 (64)",
