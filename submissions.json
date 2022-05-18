@@ -2124,6 +2124,25 @@
     ],
     "timestamp": "May/13/2022 01:55"
   },
+  "CF157606917": {
+    "contest_id": 1541,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1541\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pleasant Pairs",
+    "problem_url": "https://codeforces.com/contest/1541/problem/B",
+    "submission_id": "CF157606917",
+    "submission_url": "https://codeforces.com/contest/1541/submission/157606917",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "May/19/2022 01:02"
+  },
   "CF157608896": {
     "contest_id": 1541,
     "language": "GNU C++20 (64)",
