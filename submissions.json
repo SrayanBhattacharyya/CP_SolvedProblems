@@ -3170,6 +3170,25 @@
     ],
     "timestamp": "May/18/2022 00:38"
   },
+  "CF157589677": {
+    "contest_id": 1615,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1615\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Menorah",
+    "problem_url": "https://codeforces.com/contest/1615/problem/C",
+    "submission_id": "CF157589677",
+    "submission_url": "https://codeforces.com/contest/1615/submission/157589677",
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/18/2022 21:52"
+  },
   "CF157591823": {
     "contest_id": 1632,
     "language": "GNU C++20 (64)",
