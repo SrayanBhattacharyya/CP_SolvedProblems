@@ -1,4 +1,21 @@
 {
+  "CF157612649": {
+    "contest_id": 1526,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1526\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mean Inequality",
+    "problem_url": "https://codeforces.com/contest/1526/problem/A",
+    "submission_id": "CF157612649",
+    "submission_url": "https://codeforces.com/contest/1526/submission/157612649",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/19/2022 03:32"
+  },
   "CF157625489": {
     "contest_id": 1526,
     "language": "GNU C++20 (64)",
