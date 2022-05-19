@@ -1,4 +1,21 @@
 {
+  "CF157625489": {
+    "contest_id": 1526,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1526\\C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Potions (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1526/problem/C2",
+    "submission_id": "CF157625489",
+    "submission_url": "https://codeforces.com/contest/1526/submission/157625489",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/19/2022 10:24"
+  },
   "CF157625498": {
     "contest_id": 1526,
     "language": "GNU C++20 (64)",
