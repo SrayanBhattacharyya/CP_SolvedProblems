@@ -1,4 +1,21 @@
 {
+  "CF157804245": {
+    "contest_id": 1514,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1514\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Product 1 Modulo N",
+    "problem_url": "https://codeforces.com/contest/1514/problem/C",
+    "submission_id": "CF157804245",
+    "submission_url": "https://codeforces.com/contest/1514/submission/157804245",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/20/2022 18:13"
+  },
   "CF157805379": {
     "contest_id": 1514,
     "language": "GNU C++20 (64)",
