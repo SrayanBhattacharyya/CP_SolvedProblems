@@ -1,4 +1,20 @@
 {
+  "CF157838020": {
+    "contest_id": 1509,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1509\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Average Height",
+    "problem_url": "https://codeforces.com/contest/1509/problem/A",
+    "submission_id": "CF157838020",
+    "submission_url": "https://codeforces.com/contest/1509/submission/157838020",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "May/21/2022 00:09"
+  },
   "CF157840336": {
     "contest_id": 1509,
     "language": "GNU C++20 (64)",
