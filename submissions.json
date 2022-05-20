@@ -1,4 +1,20 @@
 {
+  "CF157776549": {
+    "contest_id": 1519,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1519\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Red and Blue Beans",
+    "problem_url": "https://codeforces.com/contest/1519/problem/A",
+    "submission_id": "CF157776549",
+    "submission_url": "https://codeforces.com/contest/1519/submission/157776549",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/20/2022 12:52"
+  },
   "CF157776715": {
     "contest_id": 1519,
     "language": "GNU C++20 (64)",
