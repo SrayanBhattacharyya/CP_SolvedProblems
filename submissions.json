@@ -1,4 +1,20 @@
 {
+  "CF157877349": {
+    "contest_id": 1496,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1496\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Max and Mex",
+    "problem_url": "https://codeforces.com/contest/1496/problem/B",
+    "submission_id": "CF157877349",
+    "submission_url": "https://codeforces.com/contest/1496/submission/157877349",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/21/2022 13:51"
+  },
   "CF157897481": {
     "contest_id": 1496,
     "language": "GNU C++20 (64)",
