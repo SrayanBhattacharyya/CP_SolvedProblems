@@ -1,4 +1,21 @@
 {
+  "CF157936198": {
+    "contest_id": 975,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\975\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ghosts",
+    "problem_url": "https://codeforces.com/contest/975/problem/D",
+    "submission_id": "CF157936198",
+    "submission_url": "https://codeforces.com/contest/975/submission/157936198",
+    "tags": [
+      "geometry",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/22/2022 00:40"
+  },
   "CF157938644": {
     "contest_id": 1393,
     "language": "GNU C++20 (64)",
