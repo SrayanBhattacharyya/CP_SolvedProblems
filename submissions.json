@@ -1,4 +1,24 @@
 {
+  "CF157961327": {
+    "contest_id": 1552,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1552\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maximize the Intersections",
+    "problem_url": "https://codeforces.com/contest/1552/problem/C",
+    "submission_id": "CF157961327",
+    "submission_url": "https://codeforces.com/contest/1552/submission/157961327",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/22/2022 12:11"
+  },
   "CF157963647": {
     "contest_id": 1375,
     "language": "GNU C++20 (64)",
