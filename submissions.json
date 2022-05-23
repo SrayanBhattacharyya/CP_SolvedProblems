@@ -3523,6 +3523,25 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158176598": {
+    "contest_id": 1626,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1626\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Martial Arts Tournament",
+    "problem_url": "https://codeforces.com/contest/1626/problem/D",
+    "submission_id": "CF158176598",
+    "submission_url": "https://codeforces.com/contest/1626/submission/158176598",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/23/2022 20:30"
+  },
   "CF158207576": {
     "contest_id": 1631,
     "language": "GNU C++20 (64)",
