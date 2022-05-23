@@ -3523,6 +3523,22 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158126189": {
+    "contest_id": 1633,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1633\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minority",
+    "problem_url": "https://codeforces.com/contest/1633/problem/B",
+    "submission_id": "CF158126189",
+    "submission_url": "https://codeforces.com/contest/1633/submission/158126189",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/23/2022 14:03"
+  },
   "CF158126995": {
     "contest_id": 1631,
     "language": "GNU C++20 (64)",
