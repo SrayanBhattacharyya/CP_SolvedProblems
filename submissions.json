@@ -3523,6 +3523,23 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158238304": {
+    "contest_id": 1627,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1627\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Not Shading",
+    "problem_url": "https://codeforces.com/contest/1627/problem/A",
+    "submission_id": "CF158238304",
+    "submission_url": "https://codeforces.com/contest/1627/submission/158238304",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2022 00:18"
+  },
   "CF158239555": {
     "contest_id": 1608,
     "language": "GNU C++20 (64)",
