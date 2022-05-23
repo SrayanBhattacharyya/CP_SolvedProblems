@@ -3523,6 +3523,23 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158118482": {
+    "contest_id": 1633,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1633\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kill the Monster",
+    "problem_url": "https://codeforces.com/contest/1633/problem/C",
+    "submission_id": "CF158118482",
+    "submission_url": "https://codeforces.com/contest/1633/submission/158118482",
+    "tags": [
+      "brute force",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/23/2022 12:08"
+  },
   "CF158118775": {
     "contest_id": 1632,
     "language": "GNU C++20 (64)",
