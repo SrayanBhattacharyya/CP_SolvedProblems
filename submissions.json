@@ -3523,6 +3523,25 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158207576": {
+    "contest_id": 1631,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1631\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Range and Partition",
+    "problem_url": "https://codeforces.com/contest/1631/problem/D",
+    "submission_id": "CF158207576",
+    "submission_url": "https://codeforces.com/contest/1631/submission/158207576",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/23/2022 21:24"
+  },
   "CF158237420": {
     "contest_id": 1627,
     "language": "GNU C++20 (64)",
