@@ -3402,6 +3402,25 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158306734": {
+    "contest_id": 1485,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1485\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Multiples and Power Differences",
+    "problem_url": "https://codeforces.com/contest/1485/problem/D",
+    "submission_id": "CF158306734",
+    "submission_url": "https://codeforces.com/contest/1485/submission/158306734",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/24/2022 19:48"
+  },
   "CF158330416": {
     "contest_id": 1478,
     "language": "GNU C++20 (64)",
