@@ -3523,6 +3523,24 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158278167": {
+    "contest_id": 1485,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1485\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Replace and Keep Sorted",
+    "problem_url": "https://codeforces.com/contest/1485/problem/B",
+    "submission_id": "CF158278167",
+    "submission_url": "https://codeforces.com/contest/1485/submission/158278167",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/24/2022 13:55"
+  },
   "CF158280339": {
     "contest_id": 1375,
     "language": "GNU C++20 (64)",
