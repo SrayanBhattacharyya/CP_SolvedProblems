@@ -3402,6 +3402,23 @@
     ],
     "timestamp": "May/22/2022 13:17"
   },
+  "CF158657011": {
+    "contest_id": 1560,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1560\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Infinity Table",
+    "problem_url": "https://codeforces.com/contest/1560/problem/C",
+    "submission_id": "CF158657011",
+    "submission_url": "https://codeforces.com/contest/1560/submission/158657011",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/28/2022 07:26"
+  },
   "CF158657087": {
     "contest_id": 1560,
     "language": "GNU C++20 (64)",
