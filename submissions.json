@@ -3419,6 +3419,26 @@
     ],
     "timestamp": "May/29/2022 07:08"
   },
+  "CF158895397": {
+    "contest_id": 1686,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1686\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Linguistics",
+    "problem_url": "https://codeforces.com/contest/1686/problem/D",
+    "submission_id": "CF158895397",
+    "submission_url": "https://codeforces.com/contest/1686/submission/158895397",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/30/2022 22:16"
+  },
   "CF158897189": {
     "contest_id": 1665,
     "language": "GNU C++20 (64)",
