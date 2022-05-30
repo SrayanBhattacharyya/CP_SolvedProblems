@@ -3419,6 +3419,22 @@
     ],
     "timestamp": "May/29/2022 07:08"
   },
+  "CF158892747": {
+    "contest_id": 1686,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1686\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everything Everywhere All But One",
+    "problem_url": "https://codeforces.com/contest/1686/problem/A",
+    "submission_id": "CF158892747",
+    "submission_url": "https://codeforces.com/contest/1686/submission/158892747",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/30/2022 21:47"
+  },
   "CF158892917": {
     "contest_id": 1686,
     "language": "GNU C++20 (64)",
