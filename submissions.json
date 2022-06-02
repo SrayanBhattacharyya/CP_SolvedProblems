@@ -3419,6 +3419,24 @@
     ],
     "timestamp": "May/29/2022 07:08"
   },
+  "CF159277330": {
+    "contest_id": 1462,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1462\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last Year's Substring",
+    "problem_url": "https://codeforces.com/contest/1462/problem/B",
+    "submission_id": "CF159277330",
+    "submission_url": "https://codeforces.com/contest/1462/submission/159277330",
+    "tags": [
+      "dp",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2022 22:45"
+  },
   "CF159278837": {
     "contest_id": 1462,
     "language": "GNU C++20 (64)",
