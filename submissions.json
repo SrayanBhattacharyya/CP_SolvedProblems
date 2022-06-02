@@ -3419,6 +3419,24 @@
     ],
     "timestamp": "May/29/2022 07:08"
   },
+  "CF159252962": {
+    "contest_id": 1478,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1478\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nezzar and Board",
+    "problem_url": "https://codeforces.com/contest/1478/problem/D",
+    "submission_id": "CF159252962",
+    "submission_url": "https://codeforces.com/contest/1478/submission/159252962",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Jun/02/2022 18:29"
+  },
   "CF159256615": {
     "contest_id": 1476,
     "language": "GNU C++20 (64)",
