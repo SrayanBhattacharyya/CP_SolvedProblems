@@ -3419,6 +3419,23 @@
     ],
     "timestamp": "May/29/2022 07:08"
   },
+  "CF159313406": {
+    "contest_id": 1472,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1472\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Long Jumps",
+    "problem_url": "https://codeforces.com/contest/1472/problem/C",
+    "submission_id": "CF159313406",
+    "submission_url": "https://codeforces.com/contest/1472/submission/159313406",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1100"
+    ],
+    "timestamp": "Jun/03/2022 11:50"
+  },
   "CF159313700": {
     "contest_id": 1472,
     "language": "GNU C++20 (64)",
