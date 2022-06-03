@@ -1,4 +1,23 @@
 {
+  "CF159318018": {
+    "contest_id": 1472,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1472\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Even-Odd Game",
+    "problem_url": "https://codeforces.com/contest/1472/problem/D",
+    "submission_id": "CF159318018",
+    "submission_url": "https://codeforces.com/contest/1472/submission/159318018",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/03/2022 12:57"
+  },
   "CF159323303": {
     "contest_id": 1462,
     "language": "GNU C++20 (64)",
