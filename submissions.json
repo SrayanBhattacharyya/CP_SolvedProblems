@@ -1,4 +1,24 @@
 {
+  "CF159347396": {
+    "contest_id": 1472,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1472\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year's Puzzle",
+    "problem_url": "https://codeforces.com/contest/1472/problem/F",
+    "submission_id": "CF159347396",
+    "submission_url": "https://codeforces.com/contest/1472/submission/159347396",
+    "tags": [
+      "brute force",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Jun/03/2022 19:06"
+  },
   "CF159413470": {
     "contest_id": 1459,
     "language": "GNU C++20 (64)",
