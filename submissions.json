@@ -1,4 +1,21 @@
 {
+  "CF159816065": {
+    "contest_id": 1690,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1690\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Decrements",
+    "problem_url": "https://codeforces.com/contest/1690/problem/B",
+    "submission_id": "CF159816065",
+    "submission_url": "https://codeforces.com/contest/1690/submission/159816065",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/07/2022 21:20"
+  },
   "CF159825742": {
     "contest_id": 1690,
     "language": "GNU C++20 (64)",
