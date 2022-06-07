@@ -131,7 +131,7 @@ int main(){
     //cin >> t;
     while (t--){
         ll n; cin >> n;
-        vll a(n, -1); vll b(n, -1);
+        vll a(n, -1), b(n, -1);
         rep(i, n){
             ll x; cin>>x;
             ll k = -1;
