@@ -1,4 +1,19 @@
 {
+  "CF159958729": {
+    "contest_id": 1247,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1247\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "p-binary",
+    "problem_url": "https://codeforces.com/contest/1247/problem/C",
+    "submission_id": "CF159958729",
+    "submission_url": "https://codeforces.com/contest/1247/submission/159958729",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "Jun/08/2022 22:34"
+  },
   "CF159990388": {
     "contest_id": 1247,
     "language": "GNU C++20 (64)",
