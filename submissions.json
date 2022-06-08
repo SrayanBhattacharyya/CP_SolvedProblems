@@ -1,4 +1,20 @@
 {
+  "CF159947060": {
+    "contest_id": 1247,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1247\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forgetting Things",
+    "problem_url": "https://codeforces.com/contest/1247/problem/A",
+    "submission_id": "CF159947060",
+    "submission_url": "https://codeforces.com/contest/1247/submission/159947060",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/08/2022 19:58"
+  },
   "CF159948573": {
     "contest_id": 1247,
     "language": "GNU C++20 (64)",
