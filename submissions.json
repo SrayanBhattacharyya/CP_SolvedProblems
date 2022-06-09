@@ -1,4 +1,20 @@
 {
+  "CF159990388": {
+    "contest_id": 1247,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1247\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Power Products",
+    "problem_url": "https://codeforces.com/contest/1247/problem/D",
+    "submission_id": "CF159990388",
+    "submission_url": "https://codeforces.com/contest/1247/submission/159990388",
+    "tags": [
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Jun/09/2022 11:38"
+  },
   "CF159992357": {
     "contest_id": 1688,
     "language": "GNU C++20 (64)",
