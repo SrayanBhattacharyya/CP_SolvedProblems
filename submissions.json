@@ -1,4 +1,20 @@
 {
+  "CF160043511": {
+    "contest_id": 1243,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1243\\B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Character Swap (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1243/problem/B1",
+    "submission_id": "CF160043511",
+    "submission_url": "https://codeforces.com/contest/1243/submission/160043511",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jun/09/2022 23:30"
+  },
   "CF160049946": {
     "contest_id": 1243,
     "language": "GNU C++20 (64)",
