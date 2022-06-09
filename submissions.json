@@ -1,4 +1,26 @@
 {
+  "CF159995247": {
+    "contest_id": 1688,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1688\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Railway System",
+    "problem_url": "https://codeforces.com/contest/1688/problem/E",
+    "submission_id": "CF159995247",
+    "submission_url": "https://codeforces.com/contest/1688/submission/159995247",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jun/09/2022 12:48"
+  },
   "CF159995582": {
     "contest_id": 1301,
     "language": "GNU C++20 (64)",
