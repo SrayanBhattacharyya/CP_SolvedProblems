@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+576 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++20 (64)](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jun/11/2022 02:41 | 
 575 | [D1 - The World Is Just a Programming Task (Easy Version)](https://codeforces.com/contest/1248/problem/D1) | [GNU C++20 (64)](./codeforces/1248/D1.cpp) | `brute force` `dp` `greedy` `implementation` `*2000` | Jun/10/2022 22:23 | 
 574 | [C - Ivan the Fool and the Probability Theory](https://codeforces.com/contest/1248/problem/C) | [GNU C++20 (64)](./codeforces/1248/C.cpp) | `combinatorics` `dp` `math` `*1700` | Jun/10/2022 20:47 | 
 573 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++20 (64)](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Jun/10/2022 20:30 | 
@@ -405,8 +406,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 185 | [E - Apollo versus Pan](https://codeforces.com/contest/1466/problem/E) | [GNU C++20 (64)](./codeforces/1466/E.cpp) | `bitmasks` `brute force` `math` `*1800` | May/14/2022 19:53 | 
 184 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [GNU C++20 (64)](./codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | May/14/2022 18:45 | 
 183 | [C - Killjoy](https://codeforces.com/contest/1419/problem/C) | [GNU C++20 (64)](./codeforces/1419/C.cpp) | `greedy` `implementation` `math` `*1500` | May/14/2022 14:29 | 
-182 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [GNU C++20 (64)](./codeforces/1419/D1.cpp) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | May/14/2022 13:43 | 
-181 | [D2 - Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | [GNU C++20 (64)](./codeforces/1419/D2.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | May/14/2022 13:43 | 
+182 | [D2 - Sage's Birthday (hard version)](https://codeforces.com/contest/1419/problem/D2) | [GNU C++20 (64)](./codeforces/1419/D2.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `two pointers` `*1500` | May/14/2022 13:43 | 
+181 | [D1 - Sage's Birthday (easy version)](https://codeforces.com/contest/1419/problem/D1) | [GNU C++20 (64)](./codeforces/1419/D1.cpp) | `binary search` `constructive algorithms` `greedy` `sortings` `*1000` | May/14/2022 13:43 | 
 180 | [B - Square Difference](https://codeforces.com/contest/1033/problem/B) | [GNU C++20 (64)](./codeforces/1033/B.cpp) | `math` `number theory` `*1100` | May/14/2022 13:01 | 
 179 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [GNU C++20 (64)](./codeforces/1382/B.cpp) | `dp` `games` `*1100` | May/14/2022 12:28 | 
 178 | [D - Twist the Permutation](https://codeforces.com/contest/1650/problem/D) | [GNU C++20 (64)](./codeforces/1650/D.cpp) | `brute force` `constructive algorithms` `implementation` `math` `*1300` | May/14/2022 02:10 | 
