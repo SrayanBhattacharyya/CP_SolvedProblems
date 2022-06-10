@@ -10143,6 +10143,21 @@
     ],
     "timestamp": "Jun/10/2022 22:23"
   },
+  "CF160145942": {
+    "contest_id": 1689,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1689\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mystic Permutation",
+    "problem_url": "https://codeforces.com/contest/1689/problem/B",
+    "submission_id": "CF160145942",
+    "submission_url": "https://codeforces.com/contest/1689/submission/160145942",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Jun/11/2022 02:16"
+  },
   "CF160146199": {
     "contest_id": 1316,
     "language": "GNU C++20 (64)",

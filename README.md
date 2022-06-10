@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-577 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++20 (64)](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jun/11/2022 02:41 | 
-576 | [A - Grade Allocation](https://codeforces.com/contest/1316/problem/A) | [GNU C++20 (64)](./codeforces/1316/A.cpp) | `implementation` `*800` | Jun/11/2022 02:22 | 
+578 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++20 (64)](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jun/11/2022 02:41 | 
+577 | [A - Grade Allocation](https://codeforces.com/contest/1316/problem/A) | [GNU C++20 (64)](./codeforces/1316/A.cpp) | `implementation` `*800` | Jun/11/2022 02:22 | 
+576 | [B - Mystic Permutation](https://codeforces.com/contest/1689/problem/B) | [GNU C++20 (64)](./codeforces/1689/B.cpp) | `greedy` | Jun/11/2022 02:16 | 
 575 | [D1 - The World Is Just a Programming Task (Easy Version)](https://codeforces.com/contest/1248/problem/D1) | [GNU C++20 (64)](./codeforces/1248/D1.cpp) | `brute force` `dp` `greedy` `implementation` `*2000` | Jun/10/2022 22:23 | 
 574 | [C - Ivan the Fool and the Probability Theory](https://codeforces.com/contest/1248/problem/C) | [GNU C++20 (64)](./codeforces/1248/C.cpp) | `combinatorics` `dp` `math` `*1700` | Jun/10/2022 20:47 | 
 573 | [C - Berry Jam](https://codeforces.com/contest/1278/problem/C) | [GNU C++20 (64)](./codeforces/1278/C.cpp) | `data structures` `dp` `greedy` `implementation` `*1700` | Jun/10/2022 20:30 | 
