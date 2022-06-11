@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-583 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) | `dp` `greedy` `implementation` `*1300` | Jun/11/2022 14:42 | 
-582 | [A - Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | [GNU C++20 (64)](./codeforces/1285/A.cpp) | `math` `*800` | Jun/11/2022 14:36 | 
-581 | [D - Lena and Matrix](https://codeforces.com/contest/1689/problem/D) | [GNU C++20 (64)](./codeforces/1689/D.cpp) | `brute force` `data structures` `dp` `shortest paths` | Jun/11/2022 14:28 | 
-580 | [C - Primitive Primes](https://codeforces.com/contest/1316/problem/C) | [GNU C++20 (64)](./codeforces/1316/C.cpp) | `constructive algorithms` `math` `ternary search` `*1800` | Jun/11/2022 13:35 | 
+584 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) | `dp` `greedy` `implementation` `*1300` | Jun/11/2022 14:42 | 
+583 | [A - Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | [GNU C++20 (64)](./codeforces/1285/A.cpp) | `math` `*800` | Jun/11/2022 14:36 | 
+582 | [D - Lena and Matrix](https://codeforces.com/contest/1689/problem/D) | [GNU C++20 (64)](./codeforces/1689/D.cpp) | `brute force` `data structures` `dp` `shortest paths` | Jun/11/2022 14:28 | 
+581 | [C - Primitive Primes](https://codeforces.com/contest/1316/problem/C) | [GNU C++20 (64)](./codeforces/1316/C.cpp) | `constructive algorithms` `math` `ternary search` `*1800` | Jun/11/2022 13:35 | 
+580 | [E - Delete a Segment](https://codeforces.com/contest/1285/problem/E) | [GNU C++20 (64)](./codeforces/1285/E.cpp) | `brute force` `constructive algorithms` `data structures` `dp` `graphs` `sortings` `trees` `two pointers` `*2300` | Jun/11/2022 12:41 | 
 579 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++20 (64)](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jun/11/2022 02:41 | 
 578 | [A - Grade Allocation](https://codeforces.com/contest/1316/problem/A) | [GNU C++20 (64)](./codeforces/1316/A.cpp) | `implementation` `*800` | Jun/11/2022 02:22 | 
 577 | [B - Mystic Permutation](https://codeforces.com/contest/1689/problem/B) | [GNU C++20 (64)](./codeforces/1689/B.cpp) | `greedy` | Jun/11/2022 02:16 | 
