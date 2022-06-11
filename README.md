@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-595 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
-594 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
-593 | [C - Adding Powers](https://codeforces.com/contest/1312/problem/C) | [GNU C++20 (64)](./codeforces/1312/C.cpp) | `bitmasks` `greedy` `implementation` `math` `number theory` `ternary search` `*1400` | Jun/12/2022 01:43 | 
-592 | [A - Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | [GNU C++20 (64)](./codeforces/1623/A.cpp) | `brute force` `implementation` `math` `*800` | Jun/12/2022 01:34 | 
-591 | [B - Game on Ranges](https://codeforces.com/contest/1623/problem/B) | [GNU C++20 (64)](./codeforces/1623/B.cpp) | `brute force` `dfs and similar` `implementation` `sortings` `*1100` | Jun/12/2022 01:28 | 
-590 | [C - Balanced Stone Heaps](https://codeforces.com/contest/1623/problem/C) | [GNU C++20 (64)](./codeforces/1623/C.cpp) | `binary search` `greedy` `*1600` | Jun/12/2022 01:11 | 
+596 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
+595 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
+594 | [C - Adding Powers](https://codeforces.com/contest/1312/problem/C) | [GNU C++20 (64)](./codeforces/1312/C.cpp) | `bitmasks` `greedy` `implementation` `math` `number theory` `ternary search` `*1400` | Jun/12/2022 01:43 | 
+593 | [A - Robot Cleaner](https://codeforces.com/contest/1623/problem/A) | [GNU C++20 (64)](./codeforces/1623/A.cpp) | `brute force` `implementation` `math` `*800` | Jun/12/2022 01:34 | 
+592 | [B - Game on Ranges](https://codeforces.com/contest/1623/problem/B) | [GNU C++20 (64)](./codeforces/1623/B.cpp) | `brute force` `dfs and similar` `implementation` `sortings` `*1100` | Jun/12/2022 01:28 | 
+591 | [C - Balanced Stone Heaps](https://codeforces.com/contest/1623/problem/C) | [GNU C++20 (64)](./codeforces/1623/C.cpp) | `binary search` `greedy` `*1600` | Jun/12/2022 01:11 | 
+590 | [D - Robot Cleaner Revisit](https://codeforces.com/contest/1623/problem/D) | [GNU C++20 (64)](./codeforces/1623/D.cpp) | `implementation` `math` `probabilities` `*2300` | Jun/12/2022 00:59 | 
 589 | [C - Meaningless Operations](https://codeforces.com/contest/1110/problem/C) | [GNU C++20 (64)](./codeforces/1110/C.cpp) | `constructive algorithms` `math` `number theory` `*1500` | Jun/11/2022 19:51 | 
 588 | [B - Tape](https://codeforces.com/contest/1110/problem/B) | [GNU C++20 (64)](./codeforces/1110/B.cpp) | `greedy` `sortings` `*1400` | Jun/11/2022 19:39 | 
 587 | [A - Parity](https://codeforces.com/contest/1110/problem/A) | [GNU C++20 (64)](./codeforces/1110/A.cpp) | `math` `*900` | Jun/11/2022 19:08 | 
