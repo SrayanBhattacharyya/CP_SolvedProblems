@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+586 | [D - Dr. Evil Underscores](https://codeforces.com/contest/1285/problem/D) | [GNU C++20 (64)](./codeforces/1285/D.cpp) | `bitmasks` `brute force` `dfs and similar` `divide and conquer` `dp` `greedy` `strings` `trees` `*1900` | Jun/11/2022 15:37 | 
 585 | [C - Fadi and LCM](https://codeforces.com/contest/1285/problem/C) | [GNU C++20 (64)](./codeforces/1285/C.cpp) | `brute force` `math` `number theory` `*1400` | Jun/11/2022 14:51 | 
 584 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) | `dp` `greedy` `implementation` `*1300` | Jun/11/2022 14:42 | 
 583 | [A - Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | [GNU C++20 (64)](./codeforces/1285/A.cpp) | `math` `*800` | Jun/11/2022 14:36 | 
