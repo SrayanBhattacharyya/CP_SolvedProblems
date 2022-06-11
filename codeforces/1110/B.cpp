@@ -128,9 +128,9 @@ int main(){
         cin >> x;
         a.emplace_back(x);
         rep_a(i, 1, n){
-            cin >> x;
-            b.emplace_back(x - a.back() - 1);
-            a.emplace_back(x);
+        cin >> x;
+        b.emplace_back(x - a.back() - 1);
+        a.emplace_back(x);
         }
         ll ans = a[n - 1] - a[0] + 1;
         st(b);
