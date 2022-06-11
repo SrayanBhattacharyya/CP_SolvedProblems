@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+580 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) | `dp` `greedy` `implementation` `*1300` | Jun/11/2022 14:42 | 
 579 | [B - String Modification](https://codeforces.com/contest/1316/problem/B) | [GNU C++20 (64)](./codeforces/1316/B.cpp) | `brute force` `constructive algorithms` `implementation` `sortings` `strings` `*1400` | Jun/11/2022 02:41 | 
 578 | [A - Grade Allocation](https://codeforces.com/contest/1316/problem/A) | [GNU C++20 (64)](./codeforces/1316/A.cpp) | `implementation` `*800` | Jun/11/2022 02:22 | 
 577 | [B - Mystic Permutation](https://codeforces.com/contest/1689/problem/B) | [GNU C++20 (64)](./codeforces/1689/B.cpp) | `greedy` | Jun/11/2022 02:16 | 
