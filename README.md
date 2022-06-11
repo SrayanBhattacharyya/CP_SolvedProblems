@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-591 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
-590 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
+592 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
+591 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
+590 | [C - Adding Powers](https://codeforces.com/contest/1312/problem/C) | [GNU C++20 (64)](./codeforces/1312/C.cpp) | `bitmasks` `greedy` `implementation` `math` `number theory` `ternary search` `*1400` | Jun/12/2022 01:43 | 
 589 | [C - Meaningless Operations](https://codeforces.com/contest/1110/problem/C) | [GNU C++20 (64)](./codeforces/1110/C.cpp) | `constructive algorithms` `math` `number theory` `*1500` | Jun/11/2022 19:51 | 
 588 | [B - Tape](https://codeforces.com/contest/1110/problem/B) | [GNU C++20 (64)](./codeforces/1110/B.cpp) | `greedy` `sortings` `*1400` | Jun/11/2022 19:39 | 
 587 | [A - Parity](https://codeforces.com/contest/1110/problem/A) | [GNU C++20 (64)](./codeforces/1110/A.cpp) | `math` `*900` | Jun/11/2022 19:08 | 
