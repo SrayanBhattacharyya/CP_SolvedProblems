@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-601 | [A - Playoff](https://codeforces.com/contest/1651/problem/A) | [GNU C++20 (64)](./codeforces/1651/A.cpp) | `implementation` `*800` | Jun/12/2022 14:47 | 
-600 | [B - Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | [GNU C++20 (64)](./codeforces/1651/B.cpp) | `constructive algorithms` `greedy` `*800` | Jun/12/2022 14:44 | 
-599 | [C - Fault-tolerant Network](https://codeforces.com/contest/1651/problem/C) | [GNU C++20 (64)](./codeforces/1651/C.cpp) | `brute force` `data structures` `implementation` `*1500` | Jun/12/2022 14:38 | 
-598 | [A - Primal Sport](https://codeforces.com/contest/923/problem/A) | [GNU C++20 (64)](./codeforces/923/A.cpp) | `math` `number theory` `*1700` | Jun/12/2022 14:12 | 
-597 | [B - Producing Snow](https://codeforces.com/contest/923/problem/B) | [GNU C++20 (64)](./codeforces/923/B.cpp) | `binary search` `data structures` `*1600` | Jun/12/2022 13:51 | 
+602 | [A - Playoff](https://codeforces.com/contest/1651/problem/A) | [GNU C++20 (64)](./codeforces/1651/A.cpp) | `implementation` `*800` | Jun/12/2022 14:47 | 
+601 | [B - Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | [GNU C++20 (64)](./codeforces/1651/B.cpp) | `constructive algorithms` `greedy` `*800` | Jun/12/2022 14:44 | 
+600 | [C - Fault-tolerant Network](https://codeforces.com/contest/1651/problem/C) | [GNU C++20 (64)](./codeforces/1651/C.cpp) | `brute force` `data structures` `implementation` `*1500` | Jun/12/2022 14:38 | 
+599 | [A - Primal Sport](https://codeforces.com/contest/923/problem/A) | [GNU C++20 (64)](./codeforces/923/A.cpp) | `math` `number theory` `*1700` | Jun/12/2022 14:12 | 
+598 | [B - Producing Snow](https://codeforces.com/contest/923/problem/B) | [GNU C++20 (64)](./codeforces/923/B.cpp) | `binary search` `data structures` `*1600` | Jun/12/2022 13:51 | 
+597 | [A - Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | [GNU C++20 (64)](./codeforces/959/A.cpp) | `games` `math` `*800` | Jun/12/2022 12:14 | 
 596 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
 595 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
 594 | [C - Adding Powers](https://codeforces.com/contest/1312/problem/C) | [GNU C++20 (64)](./codeforces/1312/C.cpp) | `bitmasks` `greedy` `implementation` `math` `number theory` `ternary search` `*1400` | Jun/12/2022 01:43 | 
