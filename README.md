@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-597 | [A - Playoff](https://codeforces.com/contest/1651/problem/A) | [GNU C++20 (64)](./codeforces/1651/A.cpp) | `implementation` `*800` | Jun/12/2022 14:47 | 
+598 | [A - Playoff](https://codeforces.com/contest/1651/problem/A) | [GNU C++20 (64)](./codeforces/1651/A.cpp) | `implementation` `*800` | Jun/12/2022 14:47 | 
+597 | [B - Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | [GNU C++20 (64)](./codeforces/1651/B.cpp) | `constructive algorithms` `greedy` `*800` | Jun/12/2022 14:44 | 
 596 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [GNU C++20 (64)](./codeforces/1312/A.cpp) | `geometry` `greedy` `math` `number theory` `*800` | Jun/12/2022 01:49 | 
 595 | [B - Bogosort](https://codeforces.com/contest/1312/problem/B) | [GNU C++20 (64)](./codeforces/1312/B.cpp) | `constructive algorithms` `sortings` `*1000` | Jun/12/2022 01:45 | 
 594 | [C - Adding Powers](https://codeforces.com/contest/1312/problem/C) | [GNU C++20 (64)](./codeforces/1312/C.cpp) | `bitmasks` `greedy` `implementation` `math` `number theory` `ternary search` `*1400` | Jun/12/2022 01:43 | 
