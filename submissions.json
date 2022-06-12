@@ -10543,6 +10543,24 @@
     ],
     "timestamp": "Jun/12/2022 01:49"
   },
+  "CF160245598": {
+    "contest_id": 959,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\959\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mahmoud and Ehab and the message",
+    "problem_url": "https://codeforces.com/contest/959/problem/B",
+    "submission_id": "CF160245598",
+    "submission_url": "https://codeforces.com/contest/959/submission/160245598",
+    "tags": [
+      "dsu",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/12/2022 12:08"
+  },
   "CF160245956": {
     "contest_id": 959,
     "language": "GNU C++20 (64)",
