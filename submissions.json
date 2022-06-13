@@ -10699,6 +10699,27 @@
     ],
     "timestamp": "Jun/12/2022 14:47"
   },
+  "CF160390322": {
+    "contest_id": 1697,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1697\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "awoo's Favorite Problem",
+    "problem_url": "https://codeforces.com/contest/1697/problem/C",
+    "submission_id": "CF160390322",
+    "submission_url": "https://codeforces.com/contest/1697/submission/160390322",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/13/2022 08:21"
+  },
   "CF160390860": {
     "contest_id": 1447,
     "language": "GNU C++20 (64)",
