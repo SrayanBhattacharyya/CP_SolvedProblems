@@ -10805,6 +10805,23 @@
     ],
     "timestamp": "Jun/13/2022 08:45"
   },
+  "CF160449943": {
+    "contest_id": 80,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\80\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Depression",
+    "problem_url": "https://codeforces.com/contest/80/problem/B",
+    "submission_id": "CF160449943",
+    "submission_url": "https://codeforces.com/contest/80/submission/160449943",
+    "tags": [
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/13/2022 22:26"
+  },
   "CF160450327": {
     "contest_id": 80,
     "language": "GNU C++20 (64)",
