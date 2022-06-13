@@ -10805,6 +10805,23 @@
     ],
     "timestamp": "Jun/13/2022 08:45"
   },
+  "CF160447725": {
+    "contest_id": 80,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\80\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Heroes",
+    "problem_url": "https://codeforces.com/contest/80/problem/C",
+    "submission_id": "CF160447725",
+    "submission_url": "https://codeforces.com/contest/80/submission/160447725",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/13/2022 21:58"
+  },
   "CF160449943": {
     "contest_id": 80,
     "language": "GNU C++20 (64)",
