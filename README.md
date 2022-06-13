@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+612 | [A - Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | [GNU C++20 (64)](./codeforces/80/A.cpp) | `brute force` `*800` | Jun/13/2022 22:31 | 
 611 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [GNU C++20 (64)](./codeforces/1447/A.cpp) | `constructive algorithms` `math` `*800` | Jun/13/2022 08:45 | 
 610 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [GNU C++20 (64)](./codeforces/1447/B.cpp) | `greedy` `math` `*1000` | Jun/13/2022 08:42 | 
 609 | [C - Knapsack](https://codeforces.com/contest/1447/problem/C) | [GNU C++20 (64)](./codeforces/1447/C.cpp) | `constructive algorithms` `greedy` `math` `sortings` `*1300` | Jun/13/2022 08:35 | 
