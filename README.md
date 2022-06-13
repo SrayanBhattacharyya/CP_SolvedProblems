@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-606 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [GNU C++20 (64)](./codeforces/1447/A.cpp) | `constructive algorithms` `math` `*800` | Jun/13/2022 08:45 | 
+607 | [A - Add Candies](https://codeforces.com/contest/1447/problem/A) | [GNU C++20 (64)](./codeforces/1447/A.cpp) | `constructive algorithms` `math` `*800` | Jun/13/2022 08:45 | 
+606 | [B - Numbers Box](https://codeforces.com/contest/1447/problem/B) | [GNU C++20 (64)](./codeforces/1447/B.cpp) | `greedy` `math` `*1000` | Jun/13/2022 08:42 | 
 605 | [A - Playoff](https://codeforces.com/contest/1651/problem/A) | [GNU C++20 (64)](./codeforces/1651/A.cpp) | `implementation` `*800` | Jun/12/2022 14:47 | 
 604 | [B - Prove Him Wrong](https://codeforces.com/contest/1651/problem/B) | [GNU C++20 (64)](./codeforces/1651/B.cpp) | `constructive algorithms` `greedy` `*800` | Jun/12/2022 14:44 | 
 603 | [C - Fault-tolerant Network](https://codeforces.com/contest/1651/problem/C) | [GNU C++20 (64)](./codeforces/1651/C.cpp) | `brute force` `data structures` `implementation` `*1500` | Jun/12/2022 14:38 | 
