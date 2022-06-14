@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-628 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
-627 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
-626 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
-625 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++20 (64)](./codeforces/1692/D.cpp) | `brute force` `dfs and similar` `implementation` | Jun/14/2022 21:54 | 
-624 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++20 (64)](./codeforces/1692/F.cpp) | `brute force` | Jun/14/2022 21:38 | 
-623 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++20 (64)](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 20:56 | 
-622 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++20 (64)](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 20:45 | 
-621 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++20 (64)](./codeforces/1692/B.cpp) | `greedy` `sortings` | Jun/14/2022 20:11 | 
+629 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
+628 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
+627 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
+626 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++20 (64)](./codeforces/1692/D.cpp) | `brute force` `dfs and similar` `implementation` | Jun/14/2022 21:54 | 
+625 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++20 (64)](./codeforces/1692/F.cpp) | `brute force` | Jun/14/2022 21:38 | 
+624 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++20 (64)](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 20:56 | 
+623 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++20 (64)](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` | Jun/14/2022 20:45 | 
+622 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++20 (64)](./codeforces/1692/B.cpp) | `greedy` `sortings` | Jun/14/2022 20:11 | 
+621 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++20 (64)](./codeforces/1692/A.cpp) | `implementation` `implementation` `implementation` | Jun/14/2022 20:07 | 
 620 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
 619 | [B - Number Circle](https://codeforces.com/contest/1189/problem/B) | [GNU C++20 (64)](./codeforces/1189/B.cpp) | `greedy` `math` `sortings` `*1100` | Jun/14/2022 10:50 | 
 618 | [C - Candies!](https://codeforces.com/contest/1189/problem/C) | [GNU C++20 (64)](./codeforces/1189/C.cpp) | `data structures` `dp` `implementation` `math` `*1400` | Jun/14/2022 10:23 | 
