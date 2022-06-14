@@ -10960,6 +10960,24 @@
     ],
     "timestamp": "Jun/14/2022 10:51"
   },
+  "CF160665506": {
+    "contest_id": 1692,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1692\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "2^Sort",
+    "problem_url": "https://codeforces.com/contest/1692/problem/G",
+    "submission_id": "CF160665506",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160665506",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/15/2022 00:11"
+  },
   "CF160666275": {
     "contest_id": 1437,
     "language": "GNU C++20 (64)",
