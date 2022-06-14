@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-623 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
-622 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
-621 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
+624 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
+623 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
+622 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
+621 | [D - The Clock](https://codeforces.com/contest/1692/problem/D) | [GNU C++20 (64)](./codeforces/1692/D.cpp) | `brute force` `dfs and similar` `implementation` | Jun/14/2022 21:54 | 
 620 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
 619 | [B - Number Circle](https://codeforces.com/contest/1189/problem/B) | [GNU C++20 (64)](./codeforces/1189/B.cpp) | `greedy` `math` `sortings` `*1100` | Jun/14/2022 10:50 | 
 618 | [C - Candies!](https://codeforces.com/contest/1189/problem/C) | [GNU C++20 (64)](./codeforces/1189/C.cpp) | `data structures` `dp` `implementation` `math` `*1400` | Jun/14/2022 10:23 | 
