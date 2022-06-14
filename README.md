@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-619 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
-618 | [B - Number Circle](https://codeforces.com/contest/1189/problem/B) | [GNU C++20 (64)](./codeforces/1189/B.cpp) | `greedy` `math` `sortings` `*1100` | Jun/14/2022 10:50 | 
-617 | [C - Candies!](https://codeforces.com/contest/1189/problem/C) | [GNU C++20 (64)](./codeforces/1189/C.cpp) | `data structures` `dp` `implementation` `math` `*1400` | Jun/14/2022 10:23 | 
-616 | [A - Help Farmer](https://codeforces.com/contest/142/problem/A) | [GNU C++20 (64)](./codeforces/142/A.cpp) | `brute force` `math` `*1600` | Jun/14/2022 10:13 | 
+620 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
+619 | [B - Number Circle](https://codeforces.com/contest/1189/problem/B) | [GNU C++20 (64)](./codeforces/1189/B.cpp) | `greedy` `math` `sortings` `*1100` | Jun/14/2022 10:50 | 
+618 | [C - Candies!](https://codeforces.com/contest/1189/problem/C) | [GNU C++20 (64)](./codeforces/1189/C.cpp) | `data structures` `dp` `implementation` `math` `*1400` | Jun/14/2022 10:23 | 
+617 | [A - Help Farmer](https://codeforces.com/contest/142/problem/A) | [GNU C++20 (64)](./codeforces/142/A.cpp) | `brute force` `math` `*1600` | Jun/14/2022 10:13 | 
+616 | [B - Help General](https://codeforces.com/contest/142/problem/B) | [GNU C++20 (64)](./codeforces/142/B.cpp) | `constructive algorithms` `greedy` `implementation` `*1800` | Jun/14/2022 09:35 | 
 615 | [A - Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | [GNU C++20 (64)](./codeforces/80/A.cpp) | `brute force` `*800` | Jun/13/2022 22:31 | 
 614 | [B - Depression](https://codeforces.com/contest/80/problem/B) | [GNU C++20 (64)](./codeforces/80/B.cpp) | `geometry` `math` `*1200` | Jun/13/2022 22:26 | 
 613 | [C - Heroes](https://codeforces.com/contest/80/problem/C) | [GNU C++20 (64)](./codeforces/80/C.cpp) | `brute force` `implementation` `*1400` | Jun/13/2022 21:58 | 
