@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-616 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
+617 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++20 (64)](./codeforces/1189/A.cpp) | `strings` `*800` | Jun/14/2022 10:51 | 
+616 | [B - Number Circle](https://codeforces.com/contest/1189/problem/B) | [GNU C++20 (64)](./codeforces/1189/B.cpp) | `greedy` `math` `sortings` `*1100` | Jun/14/2022 10:50 | 
 615 | [A - Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | [GNU C++20 (64)](./codeforces/80/A.cpp) | `brute force` `*800` | Jun/13/2022 22:31 | 
 614 | [B - Depression](https://codeforces.com/contest/80/problem/B) | [GNU C++20 (64)](./codeforces/80/B.cpp) | `geometry` `math` `*1200` | Jun/13/2022 22:26 | 
 613 | [C - Heroes](https://codeforces.com/contest/80/problem/C) | [GNU C++20 (64)](./codeforces/80/C.cpp) | `brute force` `implementation` `*1400` | Jun/13/2022 21:58 | 
