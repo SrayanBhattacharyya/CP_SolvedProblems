@@ -10960,6 +10960,22 @@
     ],
     "timestamp": "Jun/14/2022 10:51"
   },
+  "CF160537150": {
+    "contest_id": 1692,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1692\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "All Distinct",
+    "problem_url": "https://codeforces.com/contest/1692/problem/B",
+    "submission_id": "CF160537150",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160537150",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jun/14/2022 20:11"
+  },
   "CF160581314": {
     "contest_id": 1692,
     "language": "GNU C++20 (64)",
