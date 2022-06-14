@@ -10872,6 +10872,25 @@
     ],
     "timestamp": "Jun/13/2022 22:31"
   },
+  "CF160478407": {
+    "contest_id": 1189,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1189\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Candies!",
+    "problem_url": "https://codeforces.com/contest/1189/problem/C",
+    "submission_id": "CF160478407",
+    "submission_url": "https://codeforces.com/contest/1189/submission/160478407",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/14/2022 10:23"
+  },
   "CF160479679": {
     "contest_id": 1189,
     "language": "GNU C++20 (64)",
