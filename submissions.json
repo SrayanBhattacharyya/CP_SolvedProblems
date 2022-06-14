@@ -10960,6 +10960,21 @@
     ],
     "timestamp": "Jun/14/2022 10:51"
   },
+  "CF160622588": {
+    "contest_id": 1692,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1692\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "3SUM",
+    "problem_url": "https://codeforces.com/contest/1692/problem/F",
+    "submission_id": "CF160622588",
+    "submission_url": "https://codeforces.com/contest/1692/submission/160622588",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Jun/14/2022 21:38"
+  },
   "CF160633304": {
     "contest_id": 1692,
     "language": "GNU C++20 (64)",
