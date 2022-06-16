@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+632 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++20 (64)](./codeforces/1436/A.cpp) | `math` `*800` | Jun/16/2022 10:12 | 
 631 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
 630 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
 629 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
