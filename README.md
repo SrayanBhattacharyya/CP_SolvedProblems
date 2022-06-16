@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-634 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++20 (64)](./codeforces/1436/A.cpp) | `math` `*800` | Jun/16/2022 10:12 | 
-633 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [GNU C++20 (64)](./codeforces/1436/B.cpp) | `constructive algorithms` `math` `*900` | Jun/16/2022 10:09 | 
-632 | [C - Binary Search](https://codeforces.com/contest/1436/problem/C) | [GNU C++20 (64)](./codeforces/1436/C.cpp) | `binary search` `combinatorics` `*1500` | Jun/16/2022 09:50 | 
+635 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++20 (64)](./codeforces/1436/A.cpp) | `math` `*800` | Jun/16/2022 10:12 | 
+634 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [GNU C++20 (64)](./codeforces/1436/B.cpp) | `constructive algorithms` `math` `*900` | Jun/16/2022 10:09 | 
+633 | [C - Binary Search](https://codeforces.com/contest/1436/problem/C) | [GNU C++20 (64)](./codeforces/1436/C.cpp) | `binary search` `combinatorics` `*1500` | Jun/16/2022 09:50 | 
+632 | [C - Minimum Extraction](https://codeforces.com/contest/1607/problem/C) | [GNU C++20 (64)](./codeforces/1607/C.cpp) | `brute force` `sortings` `*1000` | Jun/16/2022 09:12 | 
 631 | [B - Falling Anvils](https://codeforces.com/contest/77/problem/B) | [GNU C++20 (64)](./codeforces/77/B.cpp) | `math` `probabilities` `*1800` | Jun/15/2022 00:24 | 
 630 | [A - Marketing Scheme](https://codeforces.com/contest/1437/problem/A) | [GNU C++20 (64)](./codeforces/1437/A.cpp) | `brute force` `constructive algorithms` `greedy` `math` `*800` | Jun/15/2022 00:21 | 
 629 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` | Jun/15/2022 00:11 | 
