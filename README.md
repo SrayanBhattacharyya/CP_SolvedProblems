@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+639 | [A - Malek Dance Club](https://codeforces.com/contest/319/problem/A) | [GNU C++20 (64)](./codeforces/319/A.cpp) | `combinatorics` `math` `*1600` | Jun/16/2022 19:13 | 
 638 | [A - Reorder](https://codeforces.com/contest/1436/problem/A) | [GNU C++20 (64)](./codeforces/1436/A.cpp) | `math` `*800` | Jun/16/2022 10:12 | 
 637 | [B - Prime Square](https://codeforces.com/contest/1436/problem/B) | [GNU C++20 (64)](./codeforces/1436/B.cpp) | `constructive algorithms` `math` `*900` | Jun/16/2022 10:09 | 
 636 | [C - Binary Search](https://codeforces.com/contest/1436/problem/C) | [GNU C++20 (64)](./codeforces/1436/C.cpp) | `binary search` `combinatorics` `*1500` | Jun/16/2022 09:50 | 
