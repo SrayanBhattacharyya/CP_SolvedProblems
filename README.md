@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-645 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++20 (64)](./codeforces/1015/A.cpp) | `implementation` `*800` | Jun/17/2022 19:08 | 
-644 | [C - Songs Compression](https://codeforces.com/contest/1015/problem/C) | [GNU C++20 (64)](./codeforces/1015/C.cpp) | `sortings` `*1100` | Jun/17/2022 19:02 | 
-643 | [B - Obtaining the String](https://codeforces.com/contest/1015/problem/B) | [GNU C++20 (64)](./codeforces/1015/B.cpp) | `implementation` `*1200` | Jun/17/2022 18:55 | 
-642 | [D - Walking Between Houses](https://codeforces.com/contest/1015/problem/D) | [GNU C++20 (64)](./codeforces/1015/D.cpp) | `constructive algorithms` `greedy` `*1600` | Jun/17/2022 18:36 | 
+646 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++20 (64)](./codeforces/1015/A.cpp) | `implementation` `*800` | Jun/17/2022 19:08 | 
+645 | [C - Songs Compression](https://codeforces.com/contest/1015/problem/C) | [GNU C++20 (64)](./codeforces/1015/C.cpp) | `sortings` `*1100` | Jun/17/2022 19:02 | 
+644 | [B - Obtaining the String](https://codeforces.com/contest/1015/problem/B) | [GNU C++20 (64)](./codeforces/1015/B.cpp) | `implementation` `*1200` | Jun/17/2022 18:55 | 
+643 | [D - Walking Between Houses](https://codeforces.com/contest/1015/problem/D) | [GNU C++20 (64)](./codeforces/1015/D.cpp) | `constructive algorithms` `greedy` `*1600` | Jun/17/2022 18:36 | 
+642 | [E1 - Stars Drawing (Easy Edition)](https://codeforces.com/contest/1015/problem/E1) | [GNU C++20 (64)](./codeforces/1015/E1.cpp) | `brute force` `dp` `greedy` `*1700` | Jun/17/2022 18:13 | 
 641 | [A - Malek Dance Club](https://codeforces.com/contest/319/problem/A) | [GNU C++20 (64)](./codeforces/319/A.cpp) | `combinatorics` `math` `*1600` | Jun/16/2022 19:13 | 
 640 | [B - Psychos in a Line](https://codeforces.com/contest/319/problem/B) | [GNU C++20 (64)](./codeforces/319/B.cpp) | `data structures` `implementation` `*1900` | Jun/16/2022 18:54 | 
 639 | [D - Bandit in a City](https://codeforces.com/contest/1436/problem/D) | [GNU C++20 (64)](./codeforces/1436/D.cpp) | `binary search` `dfs and similar` `graphs` `greedy` `trees` `*1900` | Jun/16/2022 18:28 | 
