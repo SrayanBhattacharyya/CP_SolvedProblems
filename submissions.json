@@ -11322,6 +11322,22 @@
     ],
     "timestamp": "Jun/16/2022 19:13"
   },
+  "CF160962740": {
+    "contest_id": 1015,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1015\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Obtaining the String",
+    "problem_url": "https://codeforces.com/contest/1015/problem/B",
+    "submission_id": "CF160962740",
+    "submission_url": "https://codeforces.com/contest/1015/submission/160962740",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jun/17/2022 18:55"
+  },
   "CF160963519": {
     "contest_id": 1015,
     "language": "GNU C++20 (64)",
