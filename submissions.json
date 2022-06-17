@@ -11322,6 +11322,22 @@
     ],
     "timestamp": "Jun/16/2022 19:13"
   },
+  "CF160963519": {
+    "contest_id": 1015,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1015\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Songs Compression",
+    "problem_url": "https://codeforces.com/contest/1015/problem/C",
+    "submission_id": "CF160963519",
+    "submission_url": "https://codeforces.com/contest/1015/submission/160963519",
+    "tags": [
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/17/2022 19:02"
+  },
   "CF160964136": {
     "contest_id": 1015,
     "language": "GNU C++20 (64)",
