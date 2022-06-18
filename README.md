@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-663 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
-662 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++20 (64)](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jun/20/2022 22:17 | 
-661 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++20 (64)](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Jun/20/2022 22:02 | 
-660 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [GNU C++20 (64)](./codeforces/1700/D.cpp) | `binary search` `dp` `greedy` `math` `*1900` | Jun/20/2022 21:39 | 
-659 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:25 | 
-658 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [GNU C++20 (64)](./codeforces/1700/B.cpp) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:28 | 
-657 | [A - Optimal Path](https://codeforces.com/contest/1700/problem/A) | [GNU C++20 (64)](./codeforces/1700/A.cpp) | `dp` `greedy` `math` `*800` | Jun/19/2022 15:09 | 
-656 | [A - Distance](https://codeforces.com/contest/1612/problem/A) | [GNU C++20 (64)](./codeforces/1612/A.cpp) | `brute force` `constructive algorithms` `*800` | Jun/19/2022 00:55 | 
-655 | [B - Special Permutation](https://codeforces.com/contest/1612/problem/B) | [GNU C++20 (64)](./codeforces/1612/B.cpp) | `constructive algorithms` `greedy` `*900` | Jun/19/2022 00:49 | 
+664 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
+663 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++20 (64)](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jun/20/2022 22:17 | 
+662 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++20 (64)](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Jun/20/2022 22:02 | 
+661 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [GNU C++20 (64)](./codeforces/1700/D.cpp) | `binary search` `dp` `greedy` `math` `*1900` | Jun/20/2022 21:39 | 
+660 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:25 | 
+659 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [GNU C++20 (64)](./codeforces/1700/B.cpp) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:28 | 
+658 | [A - Optimal Path](https://codeforces.com/contest/1700/problem/A) | [GNU C++20 (64)](./codeforces/1700/A.cpp) | `dp` `greedy` `math` `*800` | Jun/19/2022 15:09 | 
+657 | [A - Distance](https://codeforces.com/contest/1612/problem/A) | [GNU C++20 (64)](./codeforces/1612/A.cpp) | `brute force` `constructive algorithms` `*800` | Jun/19/2022 00:55 | 
+656 | [B - Special Permutation](https://codeforces.com/contest/1612/problem/B) | [GNU C++20 (64)](./codeforces/1612/B.cpp) | `constructive algorithms` `greedy` `*900` | Jun/19/2022 00:49 | 
+655 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [GNU C++20 (64)](./codeforces/1612/C.cpp) | `binary search` `math` `*1300` | Jun/19/2022 00:37 | 
 654 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++20 (64)](./codeforces/1015/A.cpp) | `implementation` `*800` | Jun/17/2022 19:08 | 
 653 | [C - Songs Compression](https://codeforces.com/contest/1015/problem/C) | [GNU C++20 (64)](./codeforces/1015/C.cpp) | `sortings` `*1100` | Jun/17/2022 19:02 | 
 652 | [B - Obtaining the String](https://codeforces.com/contest/1015/problem/B) | [GNU C++20 (64)](./codeforces/1015/B.cpp) | `implementation` `*1200` | Jun/17/2022 18:55 | 
