@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-659 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
-658 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++20 (64)](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jun/20/2022 22:17 | 
-657 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++20 (64)](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Jun/20/2022 22:02 | 
-656 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [GNU C++20 (64)](./codeforces/1700/D.cpp) | `binary search` `dp` `greedy` `math` `*1900` | Jun/20/2022 21:39 | 
-655 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:25 | 
+660 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
+659 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++20 (64)](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jun/20/2022 22:17 | 
+658 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++20 (64)](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Jun/20/2022 22:02 | 
+657 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [GNU C++20 (64)](./codeforces/1700/D.cpp) | `binary search` `dp` `greedy` `math` `*1900` | Jun/20/2022 21:39 | 
+656 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:25 | 
+655 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [GNU C++20 (64)](./codeforces/1700/B.cpp) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:28 | 
 654 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++20 (64)](./codeforces/1015/A.cpp) | `implementation` `*800` | Jun/17/2022 19:08 | 
 653 | [C - Songs Compression](https://codeforces.com/contest/1015/problem/C) | [GNU C++20 (64)](./codeforces/1015/C.cpp) | `sortings` `*1100` | Jun/17/2022 19:02 | 
 652 | [B - Obtaining the String](https://codeforces.com/contest/1015/problem/B) | [GNU C++20 (64)](./codeforces/1015/B.cpp) | `implementation` `*1200` | Jun/17/2022 18:55 | 
