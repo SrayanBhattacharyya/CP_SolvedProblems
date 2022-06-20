@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+655 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
 654 | [A - Points in Segments](https://codeforces.com/contest/1015/problem/A) | [GNU C++20 (64)](./codeforces/1015/A.cpp) | `implementation` `*800` | Jun/17/2022 19:08 | 
 653 | [C - Songs Compression](https://codeforces.com/contest/1015/problem/C) | [GNU C++20 (64)](./codeforces/1015/C.cpp) | `sortings` `*1100` | Jun/17/2022 19:02 | 
 652 | [B - Obtaining the String](https://codeforces.com/contest/1015/problem/B) | [GNU C++20 (64)](./codeforces/1015/B.cpp) | `implementation` `*1200` | Jun/17/2022 18:55 | 
