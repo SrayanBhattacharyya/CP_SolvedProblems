@@ -11541,6 +11541,23 @@
     ],
     "timestamp": "Jun/17/2022 19:08"
   },
+  "CF161324662": {
+    "contest_id": 1637,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1637\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting Parts",
+    "problem_url": "https://codeforces.com/contest/1637/problem/A",
+    "submission_id": "CF161324662",
+    "submission_url": "https://codeforces.com/contest/1637/submission/161324662",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2022 22:02"
+  },
   "CF161325885": {
     "contest_id": 1637,
     "language": "GNU C++20 (64)",
