@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-685 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [GNU C++20 (64)](./codeforces/1616/C.cpp) | `brute force` `geometry` `implementation` `math` `*1500` | Jun/22/2022 13:23 | 
-684 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++20 (64)](./codeforces/1692/A.cpp) | `implementation` `*800` | Jun/22/2022 12:50 | 
-683 | [B - Mirror in the String](https://codeforces.com/contest/1616/problem/B) | [GNU C++20 (64)](./codeforces/1616/B.cpp) | `greedy` `strings` `*1100` | Jun/22/2022 09:28 | 
-682 | [A - Integer Diversity](https://codeforces.com/contest/1616/problem/A) | [GNU C++20 (64)](./codeforces/1616/A.cpp) | `implementation` `*800` | Jun/22/2022 09:19 | 
-681 | [E - Subsequences (easy version)](https://codeforces.com/contest/1183/problem/E) | [GNU C++20 (64)](./codeforces/1183/E.cpp) | `dp` `graphs` `implementation` `shortest paths` `*2000` | Jun/21/2022 20:42 | 
-680 | [D - Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | [GNU C++20 (64)](./codeforces/1183/D.cpp) | `greedy` `sortings` `*1400` | Jun/21/2022 19:51 | 
-679 | [C - Computer Game](https://codeforces.com/contest/1183/problem/C) | [GNU C++20 (64)](./codeforces/1183/C.cpp) | `binary search` `math` `*1400` | Jun/21/2022 10:40 | 
-678 | [E - Bring Balance](https://codeforces.com/contest/1686/problem/E) | [GNU C++20 (64)](./codeforces/1686/E.cpp) | `constructive algorithms` `greedy` `*2600` | Jun/21/2022 10:25 | 
-677 | [B - Equalize Prices](https://codeforces.com/contest/1183/problem/B) | [GNU C++20 (64)](./codeforces/1183/B.cpp) | `math` `*900` | Jun/21/2022 10:22 | 
+686 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [GNU C++20 (64)](./codeforces/1616/C.cpp) | `brute force` `geometry` `implementation` `math` `*1500` | Jun/22/2022 13:23 | 
+685 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++20 (64)](./codeforces/1692/A.cpp) | `implementation` `*800` | Jun/22/2022 12:50 | 
+684 | [B - Mirror in the String](https://codeforces.com/contest/1616/problem/B) | [GNU C++20 (64)](./codeforces/1616/B.cpp) | `greedy` `strings` `*1100` | Jun/22/2022 09:28 | 
+683 | [A - Integer Diversity](https://codeforces.com/contest/1616/problem/A) | [GNU C++20 (64)](./codeforces/1616/A.cpp) | `implementation` `*800` | Jun/22/2022 09:19 | 
+682 | [E - Subsequences (easy version)](https://codeforces.com/contest/1183/problem/E) | [GNU C++20 (64)](./codeforces/1183/E.cpp) | `dp` `graphs` `implementation` `shortest paths` `*2000` | Jun/21/2022 20:42 | 
+681 | [D - Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | [GNU C++20 (64)](./codeforces/1183/D.cpp) | `greedy` `sortings` `*1400` | Jun/21/2022 19:51 | 
+680 | [C - Computer Game](https://codeforces.com/contest/1183/problem/C) | [GNU C++20 (64)](./codeforces/1183/C.cpp) | `binary search` `math` `*1400` | Jun/21/2022 10:40 | 
+679 | [E - Bring Balance](https://codeforces.com/contest/1686/problem/E) | [GNU C++20 (64)](./codeforces/1686/E.cpp) | `constructive algorithms` `greedy` `*2600` | Jun/21/2022 10:25 | 
+678 | [B - Equalize Prices](https://codeforces.com/contest/1183/problem/B) | [GNU C++20 (64)](./codeforces/1183/B.cpp) | `math` `*900` | Jun/21/2022 10:22 | 
+677 | [A - Nearest Interesting Number](https://codeforces.com/contest/1183/problem/A) | [GNU C++20 (64)](./codeforces/1183/A.cpp) | `implementation` `*800` | Jun/21/2022 09:36 | 
 676 | [C - Andrew and Stones](https://codeforces.com/contest/1637/problem/C) | [GNU C++20 (64)](./codeforces/1637/C.cpp) | `greedy` `implementation` `*1200` | Jun/20/2022 23:04 | 
 675 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++20 (64)](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Jun/20/2022 22:17 | 
 674 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++20 (64)](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Jun/20/2022 22:02 | 
