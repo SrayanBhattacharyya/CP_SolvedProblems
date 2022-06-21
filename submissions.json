@@ -11946,6 +11946,23 @@
     ],
     "timestamp": "Jun/20/2022 23:04"
   },
+  "CF161358852": {
+    "contest_id": 1686,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1686\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bring Balance",
+    "problem_url": "https://codeforces.com/contest/1686/problem/E",
+    "submission_id": "CF161358852",
+    "submission_url": "https://codeforces.com/contest/1686/submission/161358852",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "Jun/21/2022 10:25"
+  },
   "CF161359505": {
     "contest_id": 1183,
     "language": "GNU C++20 (64)",
