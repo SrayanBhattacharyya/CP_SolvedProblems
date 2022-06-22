@@ -112,6 +112,12 @@ bool isPalindrome(string S){
     else return false;
 }
 
+ll digitsum(ll x){
+	ll ans=0;
+	while(x > 0) ans += x % 10, x /= 10;
+	return ans;
+}
+
 void solve(){}
 
 int main(){
@@ -123,8 +129,7 @@ int main(){
     while (t--){
         ll a, b, c, d;
         cin >> a >> b >> c >> d;
-        ll ans = (b > a) + (c > a) + (d > a);
-        cout << ans << "\n";
+        cout << (b > a) + (c > a) + (d > a) << "\n";
     }    
     return 0;
 }
