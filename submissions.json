@@ -12189,6 +12189,26 @@
     ],
     "timestamp": "Jun/22/2022 20:51"
   },
+  "CF161574025": {
+    "contest_id": 1614,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1614\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Divan and bitwise operations",
+    "problem_url": "https://codeforces.com/contest/1614/problem/C",
+    "submission_id": "CF161574025",
+    "submission_url": "https://codeforces.com/contest/1614/submission/161574025",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/23/2022 22:10"
+  },
   "CF161575235": {
     "contest_id": 1614,
     "language": "GNU C++20 (64)",
