@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-702 | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++20 (64)](./codeforces/1656/C.cpp) | `constructive algorithms` `math` `number theory` `sortings` `*1200` | Jun/24/2022 11:56 | 
+703 | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++20 (64)](./codeforces/1656/C.cpp) | `constructive algorithms` `math` `number theory` `sortings` `*1200` | Jun/24/2022 11:56 | 
+702 | [B - Getting Zero](https://codeforces.com/contest/1661/problem/B) | [GNU C++20 (64)](./codeforces/1661/B.cpp) | `bitmasks` `brute force` `dfs and similar` `dp` `graphs` `greedy` `shortest paths` `*1300` | Jun/24/2022 11:41 | 
 701 | [A - Anti Light's Cell Guessing](https://codeforces.com/contest/1610/problem/A) | [GNU C++20 (64)](./codeforces/1610/A.cpp) | `math` `*900` | Jun/24/2022 11:22 | 
 700 | [B - Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | [GNU C++20 (64)](./codeforces/1610/B.cpp) | `greedy` `two pointers` `*1100` | Jun/24/2022 11:17 | 
 699 | [C - Keshi Is Throwing a Party](https://codeforces.com/contest/1610/problem/C) | [GNU C++20 (64)](./codeforces/1610/C.cpp) | `binary search` `greedy` `*1600` | Jun/24/2022 11:08 | 
