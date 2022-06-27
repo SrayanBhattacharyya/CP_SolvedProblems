@@ -12,17 +12,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-740 | [D - Fixed Point Guessing](https://codeforces.com/contest/1698/problem/D) | [GNU C++20 (64)](./codeforces/1698/D.cpp) | `binary search` `constructive algorithms` `interactive` | Jun/28/2022 21:37 | 
-739 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [GNU C++20 (64)](./codeforces/1698/C.cpp) | `brute force` `data structures` | Jun/28/2022 21:04 | 
-738 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++20 (64)](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:00 | 
-737 | [B - Rising Sand](https://codeforces.com/contest/1698/problem/B) | [GNU C++20 (64)](./codeforces/1698/B.cpp) | `constructive algorithms` `greedy` `implementation` | Jun/28/2022 20:49 | 
-736 | [C - Bargain](https://codeforces.com/contest/1422/problem/C) | [GNU C++20 (64)](./codeforces/1422/C.cpp) | `combinatorics` `dp` `math` `*1700` | Jun/28/2022 12:49 | 
-735 | [B - OR in Matrix](https://codeforces.com/contest/486/problem/B) | [GNU C++20 (64)](./codeforces/486/B.cpp) | `greedy` `hashing` `implementation` `*1300` | Jun/28/2022 11:52 | 
-734 | [D - String Deletion](https://codeforces.com/contest/1430/problem/D) | [GNU C++20 (64)](./codeforces/1430/D.cpp) | `binary search` `data structures` `greedy` `two pointers` `*1700` | Jun/28/2022 11:32 | 
-733 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [GNU C++20 (64)](./codeforces/486/C.cpp) | `brute force` `greedy` `implementation` `*1700` | Jun/27/2022 21:49 | 
-732 | [B - Eight Point Sets](https://codeforces.com/contest/334/problem/B) | [GNU C++20 (64)](./codeforces/334/B.cpp) | `sortings` `*1400` | Jun/27/2022 20:12 | 
-731 | [C - Secrets](https://codeforces.com/contest/334/problem/C) | [GNU C++20 (64)](./codeforces/334/C.cpp) | `math` `*1600` | Jun/27/2022 19:55 | 
-730 | [D - Chips](https://codeforces.com/contest/334/problem/D) | [GNU C++20 (64)](./codeforces/334/D.cpp) | `greedy` `implementation` `two pointers` `*1800` | Jun/27/2022 19:36 | 
+741 | [D - Fixed Point Guessing](https://codeforces.com/contest/1698/problem/D) | [GNU C++20 (64)](./codeforces/1698/D.cpp) | `binary search` `constructive algorithms` `interactive` | Jun/28/2022 21:37 | 
+740 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [GNU C++20 (64)](./codeforces/1698/C.cpp) | `brute force` `data structures` | Jun/28/2022 21:04 | 
+739 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++20 (64)](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:00 | 
+738 | [B - Rising Sand](https://codeforces.com/contest/1698/problem/B) | [GNU C++20 (64)](./codeforces/1698/B.cpp) | `constructive algorithms` `greedy` `implementation` | Jun/28/2022 20:49 | 
+737 | [C - Bargain](https://codeforces.com/contest/1422/problem/C) | [GNU C++20 (64)](./codeforces/1422/C.cpp) | `combinatorics` `dp` `math` `*1700` | Jun/28/2022 12:49 | 
+736 | [B - OR in Matrix](https://codeforces.com/contest/486/problem/B) | [GNU C++20 (64)](./codeforces/486/B.cpp) | `greedy` `hashing` `implementation` `*1300` | Jun/28/2022 11:52 | 
+735 | [D - String Deletion](https://codeforces.com/contest/1430/problem/D) | [GNU C++20 (64)](./codeforces/1430/D.cpp) | `binary search` `data structures` `greedy` `two pointers` `*1700` | Jun/28/2022 11:32 | 
+734 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [GNU C++20 (64)](./codeforces/486/C.cpp) | `brute force` `greedy` `implementation` `*1700` | Jun/27/2022 21:49 | 
+733 | [B - Eight Point Sets](https://codeforces.com/contest/334/problem/B) | [GNU C++20 (64)](./codeforces/334/B.cpp) | `sortings` `*1400` | Jun/27/2022 20:12 | 
+732 | [C - Secrets](https://codeforces.com/contest/334/problem/C) | [GNU C++20 (64)](./codeforces/334/C.cpp) | `math` `*1600` | Jun/27/2022 19:55 | 
+731 | [D - Chips](https://codeforces.com/contest/334/problem/D) | [GNU C++20 (64)](./codeforces/334/D.cpp) | `greedy` `implementation` `two pointers` `*1800` | Jun/27/2022 19:36 | 
+730 | [G - Encoded message](https://codeforces.com/contest/1505/problem/G) | [GNU C++20 (64)](./codeforces/1505/G.cpp) | `*special problem` `implementation` `*2600` | Jun/27/2022 18:56 | 
 729 | [D - PriceFixed](https://codeforces.com/contest/1539/problem/D) | [GNU C++20 (64)](./codeforces/1539/D.cpp) | `binary search` `greedy` `implementation` `sortings` `two pointers` `*1600` | Jun/26/2022 12:22 | 
 728 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++20 (64)](./codeforces/1505/F.cpp) | `*special problem` `math` `*2200` | Jun/26/2022 11:44 | 
 727 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++20 (64)](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Jun/26/2022 01:03 | 
