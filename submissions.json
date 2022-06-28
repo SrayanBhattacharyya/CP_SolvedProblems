@@ -12902,6 +12902,22 @@
     ],
     "timestamp": "Jun/26/2022 12:22"
   },
+  "CF162108299": {
+    "contest_id": 1698,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1698\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "XOR Mixup",
+    "problem_url": "https://codeforces.com/contest/1698/problem/A",
+    "submission_id": "CF162108299",
+    "submission_url": "https://codeforces.com/contest/1698/submission/162108299",
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ],
+    "timestamp": "Jun/28/2022 21:00"
+  },
   "CF162111480": {
     "contest_id": 1698,
     "language": "GNU C++20 (64)",
