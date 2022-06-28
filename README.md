@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-732 | [D - Fixed Point Guessing](https://codeforces.com/contest/1698/problem/D) | [GNU C++20 (64)](./codeforces/1698/D.cpp) | `binary search` `constructive algorithms` `interactive` | Jun/28/2022 21:37 | 
-731 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [GNU C++20 (64)](./codeforces/1698/C.cpp) | `brute force` `data structures` | Jun/28/2022 21:04 | 
-730 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++20 (64)](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:00 | 
+733 | [D - Fixed Point Guessing](https://codeforces.com/contest/1698/problem/D) | [GNU C++20 (64)](./codeforces/1698/D.cpp) | `binary search` `constructive algorithms` `interactive` | Jun/28/2022 21:37 | 
+732 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [GNU C++20 (64)](./codeforces/1698/C.cpp) | `brute force` `data structures` | Jun/28/2022 21:04 | 
+731 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++20 (64)](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:00 | 
+730 | [B - Rising Sand](https://codeforces.com/contest/1698/problem/B) | [GNU C++20 (64)](./codeforces/1698/B.cpp) | `constructive algorithms` `greedy` `implementation` | Jun/28/2022 20:49 | 
 729 | [D - PriceFixed](https://codeforces.com/contest/1539/problem/D) | [GNU C++20 (64)](./codeforces/1539/D.cpp) | `binary search` `greedy` `implementation` `sortings` `two pointers` `*1600` | Jun/26/2022 12:22 | 
 728 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++20 (64)](./codeforces/1505/F.cpp) | `*special problem` `math` `*2200` | Jun/26/2022 11:44 | 
 727 | [F - Interesting Function](https://codeforces.com/contest/1538/problem/F) | [GNU C++20 (64)](./codeforces/1538/F.cpp) | `binary search` `dp` `math` `number theory` `*1500` | Jun/26/2022 01:03 | 
