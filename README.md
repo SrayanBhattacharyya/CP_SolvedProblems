@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-746 | [D - Make Them Equal](https://codeforces.com/contest/1417/problem/D) | [GNU C++20 (64)](./codeforces/1417/D.cpp) | `constructive algorithms` `greedy` `math` `*2000` | Jun/29/2022 17:03 | 
-745 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [GNU C++20 (64)](./codeforces/1426/C.cpp) | `binary search` `constructive algorithms` `math` `*1100` | Jun/29/2022 16:28 | 
-744 | [D - Non-zero Segments](https://codeforces.com/contest/1426/problem/D) | [GNU C++20 (64)](./codeforces/1426/D.cpp) | `constructive algorithms` `data structures` `greedy` `sortings` `*1500` | Jun/29/2022 16:19 | 
-743 | [E - Rock, Paper, Scissors](https://codeforces.com/contest/1426/problem/E) | [GNU C++20 (64)](./codeforces/1426/E.cpp) | `brute force` `constructive algorithms` `flows` `greedy` `math` `*1800` | Jun/29/2022 15:53 | 
-742 | [B - Arrays Sum](https://codeforces.com/contest/1408/problem/B) | [GNU C++20 (64)](./codeforces/1408/B.cpp) | `constructive algorithms` `greedy` `math` `*1400` | Jun/29/2022 14:58 | 
+747 | [D - Make Them Equal](https://codeforces.com/contest/1417/problem/D) | [GNU C++20 (64)](./codeforces/1417/D.cpp) | `constructive algorithms` `greedy` `math` `*2000` | Jun/29/2022 17:03 | 
+746 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [GNU C++20 (64)](./codeforces/1426/C.cpp) | `binary search` `constructive algorithms` `math` `*1100` | Jun/29/2022 16:28 | 
+745 | [D - Non-zero Segments](https://codeforces.com/contest/1426/problem/D) | [GNU C++20 (64)](./codeforces/1426/D.cpp) | `constructive algorithms` `data structures` `greedy` `sortings` `*1500` | Jun/29/2022 16:19 | 
+744 | [E - Rock, Paper, Scissors](https://codeforces.com/contest/1426/problem/E) | [GNU C++20 (64)](./codeforces/1426/E.cpp) | `brute force` `constructive algorithms` `flows` `greedy` `math` `*1800` | Jun/29/2022 15:53 | 
+743 | [B - Arrays Sum](https://codeforces.com/contest/1408/problem/B) | [GNU C++20 (64)](./codeforces/1408/B.cpp) | `constructive algorithms` `greedy` `math` `*1400` | Jun/29/2022 14:58 | 
+742 | [F - Two Different](https://codeforces.com/contest/1408/problem/F) | [GNU C++20 (64)](./codeforces/1408/F.cpp) | `constructive algorithms` `divide and conquer` `*2300` | Jun/29/2022 14:39 | 
 741 | [D - Fixed Point Guessing](https://codeforces.com/contest/1698/problem/D) | [GNU C++20 (64)](./codeforces/1698/D.cpp) | `binary search` `constructive algorithms` `interactive` | Jun/28/2022 21:37 | 
 740 | [C - 3SUM Closure](https://codeforces.com/contest/1698/problem/C) | [GNU C++20 (64)](./codeforces/1698/C.cpp) | `brute force` `data structures` | Jun/28/2022 21:04 | 
 739 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [GNU C++20 (64)](./codeforces/1698/A.cpp) | `bitmasks` `brute force` | Jun/28/2022 21:00 | 
