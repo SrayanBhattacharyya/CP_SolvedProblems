@@ -63,10 +63,8 @@ vll divisors(ll n){
 vll findPrimeFactors(ll n){
     vll primeFactors;
     while (n%2== 0) primeFactors.push_back(2), n = n/2;
-    for (ll i = 3; i*i <= n; i = i+2)
-    {
-        while (n%i == 0)
-        {   
+    for (ll i = 3; i*i <= n; i = i+2){
+        while (n%i == 0){   
             primeFactors.push_back(i);
             n = n/i;
         }
@@ -128,9 +126,9 @@ int main(){
     cin >> t;
     while (t--){
         ll n; cin >> n;
-        vll a(n); rep(i, n) cin >> a[i];
-        st(a);
-        cout << a[0] << "\n";
+        vll a(n);
+        rep(i, n) cin >> a[i];
+        cout << a[1] << "\n";
     }    
     return 0;
 }
