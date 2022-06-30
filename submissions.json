@@ -13237,6 +13237,22 @@
     ],
     "timestamp": "Jun/29/2022 17:03"
   },
+  "CF162360997": {
+    "contest_id": 333,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\333\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Secrets",
+    "problem_url": "https://codeforces.com/contest/333/problem/A",
+    "submission_id": "CF162360997",
+    "submission_url": "https://codeforces.com/contest/333/submission/162360997",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jun/30/2022 21:55"
+  },
   "CF162362262": {
     "contest_id": 797,
     "language": "GNU C++20 (64)",
