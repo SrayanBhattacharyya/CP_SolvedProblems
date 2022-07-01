@@ -13237,6 +13237,24 @@
     ],
     "timestamp": "Jun/29/2022 17:03"
   },
+  "CF162433576": {
+    "contest_id": 429,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\429\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tricky Function",
+    "problem_url": "https://codeforces.com/contest/429/problem/D",
+    "submission_id": "CF162433576",
+    "submission_url": "https://codeforces.com/contest/429/submission/162433576",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "geometry",
+      "*2200"
+    ],
+    "timestamp": "Jul/01/2022 17:50"
+  },
   "CF162437903": {
     "contest_id": 593,
     "language": "GNU C++20 (64)",
