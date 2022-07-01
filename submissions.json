@@ -13237,6 +13237,23 @@
     ],
     "timestamp": "Jun/29/2022 17:03"
   },
+  "CF162453968": {
+    "contest_id": 1210,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1210\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Marcin and Training Camp",
+    "problem_url": "https://codeforces.com/contest/1210/problem/B",
+    "submission_id": "CF162453968",
+    "submission_url": "https://codeforces.com/contest/1210/submission/162453968",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jul/01/2022 20:30"
+  },
   "CF162468544": {
     "contest_id": 1428,
     "language": "GNU C++20 (64)",
