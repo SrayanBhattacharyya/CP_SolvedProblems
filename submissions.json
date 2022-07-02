@@ -13694,6 +13694,23 @@
     ],
     "timestamp": "Jul/02/2022 01:47"
   },
+  "CF162509136": {
+    "contest_id": 229,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\229\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shifts",
+    "problem_url": "https://codeforces.com/contest/229/problem/A",
+    "submission_id": "CF162509136",
+    "submission_url": "https://codeforces.com/contest/229/submission/162509136",
+    "tags": [
+      "brute force",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jul/02/2022 11:29"
+  },
   "CF162513894": {
     "contest_id": 935,
     "language": "GNU C++20 (64)",
