@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-783 | [F - ATM and Students](https://codeforces.com/contest/1611/problem/F) | [GNU C++20 (64)](./codeforces/1611/F.cpp) | `binary search` `data structures` `two pointers` `*1800` | Jul/04/2022 23:35 | 
-782 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++20 (64)](./codeforces/1699/A.cpp) | `constructive algorithms` `math` | Jul/04/2022 21:52 | 
-781 | [B - Almost Ternary Matrix](https://codeforces.com/contest/1699/problem/B) | [GNU C++20 (64)](./codeforces/1699/B.cpp) | `2-sat` `bitmasks` `constructive algorithms` `matrices` | Jul/04/2022 21:51 | 
-780 | [C - The Third Problem](https://codeforces.com/contest/1699/problem/C) | [GNU C++20 (64)](./codeforces/1699/C.cpp) | `combinatorics` `math` `two pointers` | Jul/04/2022 21:51 | 
-779 | [C - Manhattan Subarrays](https://codeforces.com/contest/1550/problem/C) | [GNU C++20 (64)](./codeforces/1550/C.cpp) | `brute force` `geometry` `greedy` `implementation` `*1700` | Jul/04/2022 19:56 | 
-778 | [A - Bits](https://codeforces.com/contest/484/problem/A) | [GNU C++20 (64)](./codeforces/484/A.cpp) | `bitmasks` `constructive algorithms` `*1700` | Jul/04/2022 19:26 | 
-777 | [B - Maximum Value](https://codeforces.com/contest/484/problem/B) | [GNU C++20 (64)](./codeforces/484/B.cpp) | `binary search` `math` `sortings` `two pointers` `*2100` | Jul/04/2022 19:15 | 
-776 | [B - Zmei Gorynich](https://codeforces.com/contest/1217/problem/B) | [GNU C++20 (64)](./codeforces/1217/B.cpp) | `greedy` `math` `*1600` | Jul/03/2022 21:34 | 
-775 | [C - The Number Of Good Substrings](https://codeforces.com/contest/1217/problem/C) | [GNU C++20 (64)](./codeforces/1217/C.cpp) | `binary search` `bitmasks` `brute force` `*1700` | Jul/03/2022 21:15 | 
-774 | [A - Triangle](https://codeforces.com/contest/407/problem/A) | [GNU C++20 (64)](./codeforces/407/A.cpp) | `brute force` `geometry` `implementation` `math` `*1600` | Jul/03/2022 20:20 | 
+784 | [F - ATM and Students](https://codeforces.com/contest/1611/problem/F) | [GNU C++20 (64)](./codeforces/1611/F.cpp) | `binary search` `data structures` `two pointers` `*1800` | Jul/04/2022 23:35 | 
+783 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++20 (64)](./codeforces/1699/A.cpp) | `constructive algorithms` `math` | Jul/04/2022 21:52 | 
+782 | [B - Almost Ternary Matrix](https://codeforces.com/contest/1699/problem/B) | [GNU C++20 (64)](./codeforces/1699/B.cpp) | `2-sat` `bitmasks` `constructive algorithms` `matrices` | Jul/04/2022 21:51 | 
+781 | [C - The Third Problem](https://codeforces.com/contest/1699/problem/C) | [GNU C++20 (64)](./codeforces/1699/C.cpp) | `combinatorics` `math` `two pointers` | Jul/04/2022 21:51 | 
+780 | [C - Manhattan Subarrays](https://codeforces.com/contest/1550/problem/C) | [GNU C++20 (64)](./codeforces/1550/C.cpp) | `brute force` `geometry` `greedy` `implementation` `*1700` | Jul/04/2022 19:56 | 
+779 | [A - Bits](https://codeforces.com/contest/484/problem/A) | [GNU C++20 (64)](./codeforces/484/A.cpp) | `bitmasks` `constructive algorithms` `*1700` | Jul/04/2022 19:26 | 
+778 | [B - Maximum Value](https://codeforces.com/contest/484/problem/B) | [GNU C++20 (64)](./codeforces/484/B.cpp) | `binary search` `math` `sortings` `two pointers` `*2100` | Jul/04/2022 19:15 | 
+777 | [B - Zmei Gorynich](https://codeforces.com/contest/1217/problem/B) | [GNU C++20 (64)](./codeforces/1217/B.cpp) | `greedy` `math` `*1600` | Jul/03/2022 21:34 | 
+776 | [C - The Number Of Good Substrings](https://codeforces.com/contest/1217/problem/C) | [GNU C++20 (64)](./codeforces/1217/C.cpp) | `binary search` `bitmasks` `brute force` `*1700` | Jul/03/2022 21:15 | 
+775 | [A - Triangle](https://codeforces.com/contest/407/problem/A) | [GNU C++20 (64)](./codeforces/407/A.cpp) | `brute force` `geometry` `implementation` `math` `*1600` | Jul/03/2022 20:20 | 
+774 | [B - Long Path](https://codeforces.com/contest/407/problem/B) | [GNU C++20 (64)](./codeforces/407/B.cpp) | `dp` `implementation` `*1600` | Jul/03/2022 19:55 | 
 773 | [D - Renting Bikes](https://codeforces.com/contest/363/problem/D) | [GNU C++20 (64)](./codeforces/363/D.cpp) | `binary search` `greedy` `*1800` | Jul/02/2022 01:47 | 
 772 | [B - Magic, Wizardry and Wonders](https://codeforces.com/contest/231/problem/B) | [GNU C++20 (64)](./codeforces/231/B.cpp) | `constructive algorithms` `greedy` `*1500` | Jul/02/2022 01:26 | 
 771 | [C - To Add or Not to Add](https://codeforces.com/contest/231/problem/C) | [GNU C++20 (64)](./codeforces/231/C.cpp) | `binary search` `sortings` `two pointers` `*1600` | Jul/02/2022 01:04 | 
