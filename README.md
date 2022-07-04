@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+774 | [F - ATM and Students](https://codeforces.com/contest/1611/problem/F) | [GNU C++20 (64)](./codeforces/1611/F.cpp) | `binary search` `data structures` `two pointers` `*1800` | Jul/04/2022 23:35 | 
 773 | [D - Renting Bikes](https://codeforces.com/contest/363/problem/D) | [GNU C++20 (64)](./codeforces/363/D.cpp) | `binary search` `greedy` `*1800` | Jul/02/2022 01:47 | 
 772 | [B - Magic, Wizardry and Wonders](https://codeforces.com/contest/231/problem/B) | [GNU C++20 (64)](./codeforces/231/B.cpp) | `constructive algorithms` `greedy` `*1500` | Jul/02/2022 01:26 | 
 771 | [C - To Add or Not to Add](https://codeforces.com/contest/231/problem/C) | [GNU C++20 (64)](./codeforces/231/C.cpp) | `binary search` `sortings` `two pointers` `*1600` | Jul/02/2022 01:04 | 
