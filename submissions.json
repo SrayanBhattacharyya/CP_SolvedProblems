@@ -13694,6 +13694,25 @@
     ],
     "timestamp": "Jul/02/2022 01:47"
   },
+  "CF162755291": {
+    "contest_id": 1550,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1550\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Manhattan Subarrays",
+    "problem_url": "https://codeforces.com/contest/1550/problem/C",
+    "submission_id": "CF162755291",
+    "submission_url": "https://codeforces.com/contest/1550/submission/162755291",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/04/2022 19:56"
+  },
   "CF162803889": {
     "contest_id": 1699,
     "language": "GNU C++20 (64)",
