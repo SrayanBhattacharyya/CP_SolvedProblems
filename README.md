@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-793 | [E - Cheese Board](https://codeforces.com/contest/952/problem/E) | [GNU C++20 (64)](./codeforces/952/E.cpp) | `*2000` | Jul/05/2022 22:31 | 
-792 | [I - Mysterious language again, seriously?](https://codeforces.com/contest/1505/problem/I) | [Secret 2021](./codeforces/1505/I.sec21) | `*special problem` `*2200` | Jul/05/2022 22:27 | 
-791 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++20 (64)](./codeforces/1505/C.cpp) | `*special problem` `implementation` `*1400` | Jul/05/2022 22:25 | 
+794 | [E - Cheese Board](https://codeforces.com/contest/952/problem/E) | [GNU C++20 (64)](./codeforces/952/E.cpp) | `*2000` | Jul/05/2022 22:31 | 
+793 | [I - Mysterious language again, seriously?](https://codeforces.com/contest/1505/problem/I) | [Secret 2021](./codeforces/1505/I.sec21) | `*special problem` `*2200` | Jul/05/2022 22:27 | 
+792 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++20 (64)](./codeforces/1505/C.cpp) | `*special problem` `implementation` `*1400` | Jul/05/2022 22:25 | 
+791 | [D - I'm Feeling Lucky!](https://codeforces.com/contest/952/problem/D) | [GNU C++20 (64)](./codeforces/952/D.cpp) | `probabilities` `*1800` | Jul/05/2022 22:22 | 
 790 | [F - ATM and Students](https://codeforces.com/contest/1611/problem/F) | [GNU C++20 (64)](./codeforces/1611/F.cpp) | `binary search` `data structures` `two pointers` `*1800` | Jul/04/2022 23:35 | 
 789 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++20 (64)](./codeforces/1699/A.cpp) | `constructive algorithms` `math` | Jul/04/2022 21:52 | 
 788 | [C - The Third Problem](https://codeforces.com/contest/1699/problem/C) | [GNU C++20 (64)](./codeforces/1699/C.cpp) | `combinatorics` `math` `two pointers` | Jul/04/2022 21:51 | 
