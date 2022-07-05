@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-797 | [E - Cheese Board](https://codeforces.com/contest/952/problem/E) | [GNU C++20 (64)](./codeforces/952/E.cpp) | `*2000` | Jul/05/2022 22:31 | 
-796 | [I - Mysterious language again, seriously?](https://codeforces.com/contest/1505/problem/I) | [Secret 2021](./codeforces/1505/I.sec21) | `*special problem` `*2200` | Jul/05/2022 22:27 | 
-795 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++20 (64)](./codeforces/1505/C.cpp) | `*special problem` `implementation` `*1400` | Jul/05/2022 22:25 | 
-794 | [D - I'm Feeling Lucky!](https://codeforces.com/contest/952/problem/D) | [GNU C++20 (64)](./codeforces/952/D.cpp) | `probabilities` `*1800` | Jul/05/2022 22:22 | 
-793 | [C - Phone Numbers](https://codeforces.com/contest/940/problem/C) | [GNU C++20 (64)](./codeforces/940/C.cpp) | `constructive algorithms` `implementation` `strings` `*1500` | Jul/05/2022 22:18 | 
-792 | [D - Alena And The Heater](https://codeforces.com/contest/940/problem/D) | [GNU C++20 (64)](./codeforces/940/D.cpp) | `binary search` `implementation` `*1600` | Jul/05/2022 18:24 | 
-791 | [E1 - Numerical Sequence (easy version)](https://codeforces.com/contest/1216/problem/E1) | [GNU C++20 (64)](./codeforces/1216/E1.cpp) | `binary search` `brute force` `math` `*1900` | Jul/05/2022 09:17 | 
+798 | [E - Cheese Board](https://codeforces.com/contest/952/problem/E) | [GNU C++20 (64)](./codeforces/952/E.cpp) | `*2000` | Jul/05/2022 22:31 | 
+797 | [I - Mysterious language again, seriously?](https://codeforces.com/contest/1505/problem/I) | [Secret 2021](./codeforces/1505/I.sec21) | `*special problem` `*2200` | Jul/05/2022 22:27 | 
+796 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++20 (64)](./codeforces/1505/C.cpp) | `*special problem` `implementation` `*1400` | Jul/05/2022 22:25 | 
+795 | [D - I'm Feeling Lucky!](https://codeforces.com/contest/952/problem/D) | [GNU C++20 (64)](./codeforces/952/D.cpp) | `probabilities` `*1800` | Jul/05/2022 22:22 | 
+794 | [C - Phone Numbers](https://codeforces.com/contest/940/problem/C) | [GNU C++20 (64)](./codeforces/940/C.cpp) | `constructive algorithms` `implementation` `strings` `*1500` | Jul/05/2022 22:18 | 
+793 | [D - Alena And The Heater](https://codeforces.com/contest/940/problem/D) | [GNU C++20 (64)](./codeforces/940/D.cpp) | `binary search` `implementation` `*1600` | Jul/05/2022 18:24 | 
+792 | [E1 - Numerical Sequence (easy version)](https://codeforces.com/contest/1216/problem/E1) | [GNU C++20 (64)](./codeforces/1216/E1.cpp) | `binary search` `brute force` `math` `*1900` | Jul/05/2022 09:17 | 
+791 | [C - White Sheet](https://codeforces.com/contest/1216/problem/C) | [GNU C++20 (64)](./codeforces/1216/C.cpp) | `geometry` `math` `*1700` | Jul/05/2022 08:31 | 
 790 | [F - ATM and Students](https://codeforces.com/contest/1611/problem/F) | [GNU C++20 (64)](./codeforces/1611/F.cpp) | `binary search` `data structures` `two pointers` `*1800` | Jul/04/2022 23:35 | 
 789 | [A - The Third Three Number Problem](https://codeforces.com/contest/1699/problem/A) | [GNU C++20 (64)](./codeforces/1699/A.cpp) | `constructive algorithms` `math` | Jul/04/2022 21:52 | 
 788 | [C - The Third Problem](https://codeforces.com/contest/1699/problem/C) | [GNU C++20 (64)](./codeforces/1699/C.cpp) | `combinatorics` `math` `two pointers` | Jul/04/2022 21:51 | 
