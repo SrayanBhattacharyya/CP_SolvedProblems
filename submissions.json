@@ -14132,6 +14132,21 @@
     ],
     "timestamp": "Jul/05/2022 22:31"
   },
+  "CF162977245": {
+    "contest_id": 952,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\952\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "2 + 2 != 4",
+    "problem_url": "https://codeforces.com/contest/952/problem/F",
+    "submission_id": "CF162977245",
+    "submission_url": "https://codeforces.com/contest/952/submission/162977245",
+    "tags": [
+      "*2400"
+    ],
+    "timestamp": "Jul/06/2022 13:52"
+  },
   "CF162988276": {
     "contest_id": 271,
     "language": "GNU C++20 (64)",
