@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-804 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1583/problem/D) | [GNU C++20 (64)](./codeforces/1583/D.cpp) | `constructive algorithms` `greedy` `interactive` `*1800` | Jul/06/2022 23:27 | 
-803 | [C - Vasya and Basketball](https://codeforces.com/contest/493/problem/C) | [GNU C++20 (64)](./codeforces/493/C.cpp) | `binary search` `brute force` `data structures` `implementation` `sortings` `two pointers` `*1600` | Jul/06/2022 19:53 | 
-802 | [D - Vasya and Chess](https://codeforces.com/contest/493/problem/D) | [GNU C++20 (64)](./codeforces/493/D.cpp) | `constructive algorithms` `games` `math` `*1700` | Jul/06/2022 16:09 | 
-801 | [D - Multiplication Table](https://codeforces.com/contest/448/problem/D) | [GNU C++20 (64)](./codeforces/448/D.cpp) | `binary search` `brute force` `*1800` | Jul/06/2022 16:04 | 
-800 | [D - Good Substrings](https://codeforces.com/contest/271/problem/D) | [GNU C++20 (64)](./codeforces/271/D.cpp) | `data structures` `strings` `*1800` | Jul/06/2022 15:48 | 
-799 | [F - 2 + 2 != 4](https://codeforces.com/contest/952/problem/F) | [GNU C++20 (64)](./codeforces/952/F.cpp) | `*2400` | Jul/06/2022 13:52 | 
+805 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1583/problem/D) | [GNU C++20 (64)](./codeforces/1583/D.cpp) | `constructive algorithms` `greedy` `interactive` `*1800` | Jul/06/2022 23:27 | 
+804 | [C - Vasya and Basketball](https://codeforces.com/contest/493/problem/C) | [GNU C++20 (64)](./codeforces/493/C.cpp) | `binary search` `brute force` `data structures` `implementation` `sortings` `two pointers` `*1600` | Jul/06/2022 19:53 | 
+803 | [D - Vasya and Chess](https://codeforces.com/contest/493/problem/D) | [GNU C++20 (64)](./codeforces/493/D.cpp) | `constructive algorithms` `games` `math` `*1700` | Jul/06/2022 16:09 | 
+802 | [D - Multiplication Table](https://codeforces.com/contest/448/problem/D) | [GNU C++20 (64)](./codeforces/448/D.cpp) | `binary search` `brute force` `*1800` | Jul/06/2022 16:04 | 
+801 | [D - Good Substrings](https://codeforces.com/contest/271/problem/D) | [GNU C++20 (64)](./codeforces/271/D.cpp) | `data structures` `strings` `*1800` | Jul/06/2022 15:48 | 
+800 | [F - 2 + 2 != 4](https://codeforces.com/contest/952/problem/F) | [GNU C++20 (64)](./codeforces/952/F.cpp) | `*2400` | Jul/06/2022 13:52 | 
+799 | [G - Puzzling Language](https://codeforces.com/contest/952/problem/G) | [GNU C++20 (64)](./codeforces/952/G.cpp) | `constructive algorithms` `*2200` | Jul/06/2022 09:44 | 
 798 | [E - Cheese Board](https://codeforces.com/contest/952/problem/E) | [GNU C++20 (64)](./codeforces/952/E.cpp) | `*2000` | Jul/05/2022 22:31 | 
 797 | [I - Mysterious language again, seriously?](https://codeforces.com/contest/1505/problem/I) | [Secret 2021](./codeforces/1505/I.sec21) | `*special problem` `*2200` | Jul/05/2022 22:27 | 
 796 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++20 (64)](./codeforces/1505/C.cpp) | `*special problem` `implementation` `*1400` | Jul/05/2022 22:25 | 
