@@ -14287,6 +14287,23 @@
     ],
     "timestamp": "Jul/06/2022 23:27"
   },
+  "CF163055165": {
+    "contest_id": 1583,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1583\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Omkar and Determination",
+    "problem_url": "https://codeforces.com/contest/1583/problem/C",
+    "submission_id": "CF163055165",
+    "submission_url": "https://codeforces.com/contest/1583/submission/163055165",
+    "tags": [
+      "data structures",
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Jul/07/2022 08:05"
+  },
   "CF163058972": {
     "contest_id": 1584,
     "language": "GNU C++20 (64)",
