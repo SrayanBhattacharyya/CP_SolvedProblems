@@ -14287,6 +14287,25 @@
     ],
     "timestamp": "Jul/06/2022 23:27"
   },
+  "CF163382252": {
+    "contest_id": 1395,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1395\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Boboniu Chats with Du",
+    "problem_url": "https://codeforces.com/contest/1395/problem/D",
+    "submission_id": "CF163382252",
+    "submission_url": "https://codeforces.com/contest/1395/submission/163382252",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jul/09/2022 18:59"
+  },
   "CF163384249": {
     "contest_id": 1395,
     "language": "GNU C++20 (64)",
