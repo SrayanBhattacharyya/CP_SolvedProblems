@@ -14758,6 +14758,25 @@
     ],
     "timestamp": "Jul/09/2022 20:31"
   },
+  "CF163438875": {
+    "contest_id": 1384,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1384\\B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Koa and the Beach (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1384/problem/B2",
+    "submission_id": "CF163438875",
+    "submission_url": "https://codeforces.com/contest/1384/submission/163438875",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Jul/10/2022 13:44"
+  },
   "CF163438943": {
     "contest_id": 1384,
     "language": "GNU C++20 (64)",
