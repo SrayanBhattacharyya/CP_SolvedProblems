@@ -38,6 +38,22 @@ ll mod_pwr(ll a, ll b) { if(b < 0) return 0; ll res = 1; while (b > 0) {if (b & 
 ll mod_div(ll a, ll b) {a = a % MOD; ll inv = mod_inv(b); if (inv == -1) return -1; else {ll ans = (inv * a) % MOD; return ans;}}
 ll mods_div(ll a, ll b) {a = a % MODS; ll inv = mod_inv(b); if (inv == -1) return -1; else {ll ans = (inv * a) % MODS; return ans;}}
 
+struct custom_hash {
+    static uint64_t splitmix64(uint64_t x) {
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
+    }
+
+    size_t operator()(uint64_t x) const {
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
+    }
+};
+
+template <class K, class V> using um = unordered_map <K, V, custom_hash>;
+
 vs split(string s, string del = " "){
     vs ans; ll start = 0; ll end = s.find(del);
     while (end != -1) {
@@ -116,6 +132,7 @@ ll digitsum(ll x){
 	return ans;
 }
 
+void solve(){}
 
 int main(){
     ios_base::sync_with_stdio(0);
@@ -124,8 +141,8 @@ int main(){
     ll t = 1;
     cin >> t;
     while (t--){
-       ll n, q; cin >> n >> q;
-        map <ll, vll> m; vll p(n);
+        ll n, q; cin >> n >> q;
+        um <ll, vll> m; vll p(n);
         rep(i, n) {
             cin >> p[i];
             m[p[i]].push_back(i);
