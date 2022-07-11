@@ -15039,6 +15039,24 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF163648821": {
+    "contest_id": 1622,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1622\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Math Test",
+    "problem_url": "https://codeforces.com/contest/1622/problem/E",
+    "submission_id": "CF163648821",
+    "submission_url": "https://codeforces.com/contest/1622/submission/163648821",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jul/11/2022 14:27"
+  },
   "CF163653276": {
     "contest_id": 1605,
     "language": "GNU C++20 (64)",
