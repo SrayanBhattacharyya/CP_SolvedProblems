@@ -15039,6 +15039,25 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF164055984": {
+    "contest_id": 1703,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1703\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Good Key, Bad Key",
+    "problem_url": "https://codeforces.com/contest/1703/problem/G",
+    "submission_id": "CF164055984",
+    "submission_url": "https://codeforces.com/contest/1703/submission/164055984",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jul/13/2022 21:51"
+  },
   "CF164157878": {
     "contest_id": 1619,
     "language": "GNU C++20 (64)",
