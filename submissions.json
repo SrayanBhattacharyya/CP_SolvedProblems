@@ -15039,6 +15039,25 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF164157878": {
+    "contest_id": 1619,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1619\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Let's Play the Hat?",
+    "problem_url": "https://codeforces.com/contest/1619/problem/F",
+    "submission_id": "CF164157878",
+    "submission_url": "https://codeforces.com/contest/1619/submission/164157878",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jul/14/2022 19:47"
+  },
   "CF164163153": {
     "contest_id": 354,
     "language": "GNU C++20 (64)",
