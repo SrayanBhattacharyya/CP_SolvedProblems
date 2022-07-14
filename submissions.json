@@ -15039,6 +15039,24 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF164178407": {
+    "contest_id": 343,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\343\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Read Time",
+    "problem_url": "https://codeforces.com/contest/343/problem/C",
+    "submission_id": "CF164178407",
+    "submission_url": "https://codeforces.com/contest/343/submission/164178407",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Jul/14/2022 23:32"
+  },
   "CF164181439": {
     "contest_id": 343,
     "language": "GNU C++20 (64)",
