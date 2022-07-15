@@ -15039,6 +15039,23 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF164234698": {
+    "contest_id": 1118,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1118\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindromic Matrix",
+    "problem_url": "https://codeforces.com/contest/1118/problem/C",
+    "submission_id": "CF164234698",
+    "submission_url": "https://codeforces.com/contest/1118/submission/164234698",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/15/2022 14:07"
+  },
   "CF164301215": {
     "contest_id": 1705,
     "language": "GNU C++20 (64)",
