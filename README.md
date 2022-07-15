@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-850 | [D - Mark and Lightbulbs](https://codeforces.com/contest/1705/problem/D) | [GNU C++20 (64)](./codeforces/1705/D.cpp) | `combinatorics` `constructive algorithms` `math` `sortings` | Jul/16/2022 10:17 | 
+851 | [D - Mark and Lightbulbs](https://codeforces.com/contest/1705/problem/D) | [GNU C++20 (64)](./codeforces/1705/D.cpp) | `combinatorics` `constructive algorithms` `math` `sortings` | Jul/16/2022 10:17 | 
+850 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++20 (64)](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/15/2022 20:23 | 
 849 | [F - Equate Multisets](https://codeforces.com/contest/1702/problem/F) | [GNU C++20 (64)](./codeforces/1702/F.cpp) | `constructive algorithms` `data structures` `graph matchings` `greedy` | Jul/11/2022 00:14 | 
 848 | [E - Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | [GNU C++20 (64)](./codeforces/1702/E.cpp) | `dfs and similar` `dsu` `graphs` | Jul/10/2022 23:53 | 
 847 | [C - Train and Queries](https://codeforces.com/contest/1702/problem/C) | [GNU C++20 (64)](./codeforces/1702/C.cpp) | `data structures` `greedy` | Jul/10/2022 22:30 | 
