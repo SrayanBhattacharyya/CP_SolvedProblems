@@ -12,21 +12,22 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-902 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
-901 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
-900 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
-899 | [C - Ladder](https://codeforces.com/contest/279/problem/C) | [GNU C++20 (64)](./codeforces/279/C.cpp) | `dp` `implementation` `two pointers` `*1700` | Jul/17/2022 21:18 | 
-898 | [C - Polo the Penguin and XOR operation](https://codeforces.com/contest/288/problem/C) | [GNU C++20 (64)](./codeforces/288/C.cpp) | `implementation` `math` `*1700` | Jul/17/2022 20:35 | 
-897 | [D - Similar Arrays](https://codeforces.com/contest/1090/problem/D) | [GNU C++20 (64)](./codeforces/1090/D.cpp) | `constructive algorithms` `*1800` | Jul/17/2022 09:40 | 
-896 | [D - Difference Array](https://codeforces.com/contest/1708/problem/D) | [GNU C++20 (64)](./codeforces/1708/D.cpp) | `brute force` `sortings` | Jul/16/2022 23:02 | 
-895 | [C - Doremy's IQ](https://codeforces.com/contest/1708/problem/C) | [GNU C++20 (64)](./codeforces/1708/C.cpp) | `binary search` `greedy` | Jul/16/2022 22:04 | 
-894 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++20 (64)](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/16/2022 21:45 | 
-893 | [A - Difference Operations](https://codeforces.com/contest/1708/problem/A) | [GNU C++20 (64)](./codeforces/1708/A.cpp) | `greedy` `math` | Jul/16/2022 21:40 | 
-892 | [D - Serval and Rooted Tree](https://codeforces.com/contest/1153/problem/D) | [GNU C++20 (64)](./codeforces/1153/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` `*1900` | Jul/16/2022 20:46 | 
-891 | [C - Serval and Parenthesis Sequence](https://codeforces.com/contest/1153/problem/C) | [GNU C++20 (64)](./codeforces/1153/C.cpp) | `greedy` `strings` `*1700` | Jul/16/2022 19:28 | 
-890 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++20 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | Jul/16/2022 18:40 | 
-889 | [D - Equalize the Remainders](https://codeforces.com/contest/999/problem/D) | [GNU C++20 (64)](./codeforces/999/D.cpp) | `data structures` `greedy` `implementation` `*1900` | Jul/16/2022 13:45 | 
-888 | [F - Topforces Strikes Back](https://codeforces.com/contest/1183/problem/F) | [GNU C++20 (64)](./codeforces/1183/F.cpp) | `brute force` `math` `sortings` `*2100` | Jul/16/2022 13:00 | 
+903 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
+902 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
+901 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
+900 | [C - Ladder](https://codeforces.com/contest/279/problem/C) | [GNU C++20 (64)](./codeforces/279/C.cpp) | `dp` `implementation` `two pointers` `*1700` | Jul/17/2022 21:18 | 
+899 | [C - Polo the Penguin and XOR operation](https://codeforces.com/contest/288/problem/C) | [GNU C++20 (64)](./codeforces/288/C.cpp) | `implementation` `math` `*1700` | Jul/17/2022 20:35 | 
+898 | [D - Similar Arrays](https://codeforces.com/contest/1090/problem/D) | [GNU C++20 (64)](./codeforces/1090/D.cpp) | `constructive algorithms` `*1800` | Jul/17/2022 09:40 | 
+897 | [D - Difference Array](https://codeforces.com/contest/1708/problem/D) | [GNU C++20 (64)](./codeforces/1708/D.cpp) | `brute force` `sortings` | Jul/16/2022 23:02 | 
+896 | [C - Doremy's IQ](https://codeforces.com/contest/1708/problem/C) | [GNU C++20 (64)](./codeforces/1708/C.cpp) | `binary search` `greedy` | Jul/16/2022 22:04 | 
+895 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++20 (64)](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/16/2022 21:45 | 
+894 | [A - Difference Operations](https://codeforces.com/contest/1708/problem/A) | [GNU C++20 (64)](./codeforces/1708/A.cpp) | `greedy` `math` | Jul/16/2022 21:40 | 
+893 | [D - Serval and Rooted Tree](https://codeforces.com/contest/1153/problem/D) | [GNU C++20 (64)](./codeforces/1153/D.cpp) | `binary search` `dfs and similar` `dp` `greedy` `trees` `*1900` | Jul/16/2022 20:46 | 
+892 | [C - Serval and Parenthesis Sequence](https://codeforces.com/contest/1153/problem/C) | [GNU C++20 (64)](./codeforces/1153/C.cpp) | `greedy` `strings` `*1700` | Jul/16/2022 19:28 | 
+891 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++20 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | Jul/16/2022 18:40 | 
+890 | [D - Equalize the Remainders](https://codeforces.com/contest/999/problem/D) | [GNU C++20 (64)](./codeforces/999/D.cpp) | `data structures` `greedy` `implementation` `*1900` | Jul/16/2022 13:45 | 
+889 | [F - Topforces Strikes Back](https://codeforces.com/contest/1183/problem/F) | [GNU C++20 (64)](./codeforces/1183/F.cpp) | `brute force` `math` `sortings` `*2100` | Jul/16/2022 13:00 | 
+888 | [D - Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | [GNU C++20 (64)](./codeforces/1374/D.cpp) | `math` `sortings` `two pointers` `*1400` | Jul/16/2022 11:40 | 
 887 | [D - Mark and Lightbulbs](https://codeforces.com/contest/1705/problem/D) | [GNU C++20 (64)](./codeforces/1705/D.cpp) | `combinatorics` `constructive algorithms` `math` `sortings` | Jul/16/2022 10:17 | 
 886 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++20 (64)](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/15/2022 20:23 | 
 885 | [A - Mark the Photographer](https://codeforces.com/contest/1705/problem/A) | [GNU C++20 (64)](./codeforces/1705/A.cpp) | `greedy` | Jul/15/2022 19:53 | 
