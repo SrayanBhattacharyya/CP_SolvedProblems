@@ -15739,6 +15739,22 @@
     ],
     "timestamp": "Jul/16/2022 10:17"
   },
+  "CF164526940": {
+    "contest_id": 1708,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1708\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Doremy's IQ",
+    "problem_url": "https://codeforces.com/contest/1708/problem/C",
+    "submission_id": "CF164526940",
+    "submission_url": "https://codeforces.com/contest/1708/submission/164526940",
+    "tags": [
+      "binary search",
+      "greedy"
+    ],
+    "timestamp": "Jul/16/2022 22:04"
+  },
   "CF164531961": {
     "contest_id": 1708,
     "language": "GNU C++20 (64)",
