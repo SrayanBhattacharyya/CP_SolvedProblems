@@ -15039,6 +15039,24 @@
     ],
     "timestamp": "Jul/11/2022 00:14"
   },
+  "CF164395097": {
+    "contest_id": 1705,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1705\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mark and Lightbulbs",
+    "problem_url": "https://codeforces.com/contest/1705/problem/D",
+    "submission_id": "CF164395097",
+    "submission_url": "https://codeforces.com/contest/1705/submission/164395097",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Jul/16/2022 10:17"
+  },
   "CF96793203": {
     "contest_id": 4,
     "language": "Python 3",
