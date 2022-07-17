@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-892 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
-891 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
-890 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
-889 | [C - Ladder](https://codeforces.com/contest/279/problem/C) | [GNU C++20 (64)](./codeforces/279/C.cpp) | `dp` `implementation` `two pointers` `*1700` | Jul/17/2022 21:18 | 
-888 | [C - Polo the Penguin and XOR operation](https://codeforces.com/contest/288/problem/C) | [GNU C++20 (64)](./codeforces/288/C.cpp) | `implementation` `math` `*1700` | Jul/17/2022 20:35 | 
+893 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
+892 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
+891 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
+890 | [C - Ladder](https://codeforces.com/contest/279/problem/C) | [GNU C++20 (64)](./codeforces/279/C.cpp) | `dp` `implementation` `two pointers` `*1700` | Jul/17/2022 21:18 | 
+889 | [C - Polo the Penguin and XOR operation](https://codeforces.com/contest/288/problem/C) | [GNU C++20 (64)](./codeforces/288/C.cpp) | `implementation` `math` `*1700` | Jul/17/2022 20:35 | 
+888 | [D - Similar Arrays](https://codeforces.com/contest/1090/problem/D) | [GNU C++20 (64)](./codeforces/1090/D.cpp) | `constructive algorithms` `*1800` | Jul/17/2022 09:40 | 
 887 | [D - Mark and Lightbulbs](https://codeforces.com/contest/1705/problem/D) | [GNU C++20 (64)](./codeforces/1705/D.cpp) | `combinatorics` `constructive algorithms` `math` `sortings` | Jul/16/2022 10:17 | 
 886 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++20 (64)](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/15/2022 20:23 | 
 885 | [A - Mark the Photographer](https://codeforces.com/contest/1705/problem/A) | [GNU C++20 (64)](./codeforces/1705/A.cpp) | `greedy` | Jul/15/2022 19:53 | 
