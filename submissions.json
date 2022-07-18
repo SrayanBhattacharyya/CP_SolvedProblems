@@ -16030,6 +16030,23 @@
     ],
     "timestamp": "Jul/17/2022 23:12"
   },
+  "CF164724013": {
+    "contest_id": 1663,
+    "language": "Python 3",
+    "path": "codeforces\\1663\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "P\u014dja Verdon",
+    "problem_url": "https://codeforces.com/contest/1663/problem/C",
+    "submission_id": "CF164724013",
+    "submission_url": "https://codeforces.com/contest/1663/submission/164724013",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/18/2022 18:24"
+  },
   "CF164724060": {
     "contest_id": 1663,
     "language": "Python 3",
