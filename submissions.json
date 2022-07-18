@@ -16030,6 +16030,24 @@
     ],
     "timestamp": "Jul/17/2022 23:12"
   },
+  "CF164723972": {
+    "contest_id": 1663,
+    "language": "Python 3",
+    "path": "codeforces\\1663\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike's Sequence",
+    "problem_url": "https://codeforces.com/contest/1663/problem/B",
+    "submission_id": "CF164723972",
+    "submission_url": "https://codeforces.com/contest/1663/submission/164723972",
+    "tags": [
+      "*special problem",
+      "divide and conquer",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/18/2022 18:23"
+  },
   "CF164724013": {
     "contest_id": 1663,
     "language": "Python 3",
