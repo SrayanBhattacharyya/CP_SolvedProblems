@@ -12,17 +12,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-914 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
-913 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [GNU C++20 (64)](./codeforces/1561/D1.cpp) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Jul/20/2022 23:42 | 
-912 | [E - K-periodic Garland](https://codeforces.com/contest/1353/problem/E) | [GNU C++20 (64)](./codeforces/1353/E.cpp) | `brute force` `dp` `greedy` `*1900` | Jul/20/2022 23:18 | 
-911 | [D - Constructing the Array](https://codeforces.com/contest/1353/problem/D) | [GNU C++20 (64)](./codeforces/1353/D.cpp) | `constructive algorithms` `data structures` `sortings` `*1600` | Jul/20/2022 22:39 | 
-910 | [A - Vitaly and Strings](https://codeforces.com/contest/518/problem/A) | [GNU C++20 (64)](./codeforces/518/A.cpp) | `constructive algorithms` `strings` `*1600` | Jul/20/2022 16:11 | 
-909 | [D - Array Differentiation](https://codeforces.com/contest/1552/problem/D) | [GNU C++20 (64)](./codeforces/1552/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `graphs` `math` `*1800` | Jul/20/2022 15:27 | 
-908 | [F - Vlad and Unfinished Business](https://codeforces.com/contest/1675/problem/F) | [GNU C++20 (64)](./codeforces/1675/F.cpp) | `dfs and similar` `dp` `greedy` `trees` `*1800` | Jul/20/2022 13:40 | 
-907 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++20 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | Jul/20/2022 11:59 | 
-906 | [D1 - Chopping Carrots (Easy Version)](https://codeforces.com/contest/1706/problem/D1) | [GNU C++20 (64)](./codeforces/1706/D1.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `number theory` `*1700` | Jul/19/2022 16:46 | 
-905 | [C - Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C) | [GNU C++20 (64)](./codeforces/1706/C.cpp) | `dp` `flows` `greedy` `implementation` `*1400` | Jul/19/2022 16:33 | 
-904 | [D - Social Network](https://codeforces.com/contest/1609/problem/D) | [GNU C++20 (64)](./codeforces/1609/D.cpp) | `dsu` `graphs` `greedy` `implementation` `trees` `*1600` | Jul/19/2022 16:00 | 
+915 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
+914 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [GNU C++20 (64)](./codeforces/1561/D1.cpp) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Jul/20/2022 23:42 | 
+913 | [E - K-periodic Garland](https://codeforces.com/contest/1353/problem/E) | [GNU C++20 (64)](./codeforces/1353/E.cpp) | `brute force` `dp` `greedy` `*1900` | Jul/20/2022 23:18 | 
+912 | [D - Constructing the Array](https://codeforces.com/contest/1353/problem/D) | [GNU C++20 (64)](./codeforces/1353/D.cpp) | `constructive algorithms` `data structures` `sortings` `*1600` | Jul/20/2022 22:39 | 
+911 | [A - Vitaly and Strings](https://codeforces.com/contest/518/problem/A) | [GNU C++20 (64)](./codeforces/518/A.cpp) | `constructive algorithms` `strings` `*1600` | Jul/20/2022 16:11 | 
+910 | [D - Array Differentiation](https://codeforces.com/contest/1552/problem/D) | [GNU C++20 (64)](./codeforces/1552/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `graphs` `math` `*1800` | Jul/20/2022 15:27 | 
+909 | [F - Vlad and Unfinished Business](https://codeforces.com/contest/1675/problem/F) | [GNU C++20 (64)](./codeforces/1675/F.cpp) | `dfs and similar` `dp` `greedy` `trees` `*1800` | Jul/20/2022 13:40 | 
+908 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++20 (64)](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | Jul/20/2022 11:59 | 
+907 | [D1 - Chopping Carrots (Easy Version)](https://codeforces.com/contest/1706/problem/D1) | [GNU C++20 (64)](./codeforces/1706/D1.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `number theory` `*1700` | Jul/19/2022 16:46 | 
+906 | [C - Qpwoeirut And The City](https://codeforces.com/contest/1706/problem/C) | [GNU C++20 (64)](./codeforces/1706/C.cpp) | `dp` `flows` `greedy` `implementation` `*1400` | Jul/19/2022 16:33 | 
+905 | [D - Social Network](https://codeforces.com/contest/1609/problem/D) | [GNU C++20 (64)](./codeforces/1609/D.cpp) | `dsu` `graphs` `greedy` `implementation` `trees` `*1600` | Jul/19/2022 16:00 | 
+904 | [D - Power Products](https://codeforces.com/contest/1225/problem/D) | [GNU C++20 (64)](./codeforces/1225/D.cpp) | `hashing` `math` `number theory` `*1800` | Jul/19/2022 15:30 | 
 903 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
 902 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
 901 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
