@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+905 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
 904 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
 903 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
 902 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
