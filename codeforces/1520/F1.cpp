@@ -157,6 +157,7 @@ int main(){
 			else hi = mid;
         }
         cout << "! " << lo + 1 << "\n" << flush;
-    }    
+    }   
+    
     return 0;
 }
