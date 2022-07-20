@@ -16030,6 +16030,26 @@
     ],
     "timestamp": "Jul/17/2022 23:12"
   },
+  "CF165041930": {
+    "contest_id": 1561,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1561\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Up the Strip (simplified version)",
+    "problem_url": "https://codeforces.com/contest/1561/problem/D1",
+    "submission_id": "CF165041930",
+    "submission_url": "https://codeforces.com/contest/1561/submission/165041930",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jul/20/2022 23:42"
+  },
   "CF165041967": {
     "contest_id": 1561,
     "language": "GNU C++20 (64)",
