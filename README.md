@@ -12,12 +12,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-910 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
-909 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [GNU C++20 (64)](./codeforces/1561/D1.cpp) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Jul/20/2022 23:42 | 
-908 | [E - K-periodic Garland](https://codeforces.com/contest/1353/problem/E) | [GNU C++20 (64)](./codeforces/1353/E.cpp) | `brute force` `dp` `greedy` `*1900` | Jul/20/2022 23:18 | 
-907 | [D - Constructing the Array](https://codeforces.com/contest/1353/problem/D) | [GNU C++20 (64)](./codeforces/1353/D.cpp) | `constructive algorithms` `data structures` `sortings` `*1600` | Jul/20/2022 22:39 | 
-906 | [A - Vitaly and Strings](https://codeforces.com/contest/518/problem/A) | [GNU C++20 (64)](./codeforces/518/A.cpp) | `constructive algorithms` `strings` `*1600` | Jul/20/2022 16:11 | 
-905 | [D - Array Differentiation](https://codeforces.com/contest/1552/problem/D) | [GNU C++20 (64)](./codeforces/1552/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `graphs` `math` `*1800` | Jul/20/2022 15:27 | 
+911 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
+910 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [GNU C++20 (64)](./codeforces/1561/D1.cpp) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Jul/20/2022 23:42 | 
+909 | [E - K-periodic Garland](https://codeforces.com/contest/1353/problem/E) | [GNU C++20 (64)](./codeforces/1353/E.cpp) | `brute force` `dp` `greedy` `*1900` | Jul/20/2022 23:18 | 
+908 | [D - Constructing the Array](https://codeforces.com/contest/1353/problem/D) | [GNU C++20 (64)](./codeforces/1353/D.cpp) | `constructive algorithms` `data structures` `sortings` `*1600` | Jul/20/2022 22:39 | 
+907 | [A - Vitaly and Strings](https://codeforces.com/contest/518/problem/A) | [GNU C++20 (64)](./codeforces/518/A.cpp) | `constructive algorithms` `strings` `*1600` | Jul/20/2022 16:11 | 
+906 | [D - Array Differentiation](https://codeforces.com/contest/1552/problem/D) | [GNU C++20 (64)](./codeforces/1552/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `graphs` `math` `*1800` | Jul/20/2022 15:27 | 
+905 | [F - Vlad and Unfinished Business](https://codeforces.com/contest/1675/problem/F) | [GNU C++20 (64)](./codeforces/1675/F.cpp) | `dfs and similar` `dp` `greedy` `trees` `*1800` | Jul/20/2022 13:40 | 
 904 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
 903 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
 902 | [C - Periodic integer number](https://codeforces.com/contest/1219/problem/C) | [GNU C++20 (64)](./codeforces/1219/C.cpp) | `implementation` `strings` `*1700` | Jul/17/2022 22:36 | 
