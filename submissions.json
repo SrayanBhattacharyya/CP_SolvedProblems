@@ -16346,6 +16346,24 @@
     ],
     "timestamp": "Jul/20/2022 23:43"
   },
+  "CF165333088": {
+    "contest_id": 1709,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1709\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Recover an RBS",
+    "problem_url": "https://codeforces.com/contest/1709/problem/C",
+    "submission_id": "CF165333088",
+    "submission_url": "https://codeforces.com/contest/1709/submission/165333088",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jul/22/2022 20:58"
+  },
   "CF165339003": {
     "contest_id": 1709,
     "language": "GNU C++20 (64)",
