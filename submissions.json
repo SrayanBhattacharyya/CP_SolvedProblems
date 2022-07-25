@@ -16346,6 +16346,22 @@
     ],
     "timestamp": "Jul/20/2022 23:43"
   },
+  "CF165689430": {
+    "contest_id": 1711,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1711\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Party",
+    "problem_url": "https://codeforces.com/contest/1711/problem/B",
+    "submission_id": "CF165689430",
+    "submission_url": "https://codeforces.com/contest/1711/submission/165689430",
+    "tags": [
+      "brute force",
+      "graphs"
+    ],
+    "timestamp": "Jul/25/2022 20:55"
+  },
   "CF165689585": {
     "contest_id": 1711,
     "language": "GNU C++20 (64)",
