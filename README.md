@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+921 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++20 (64)](./codeforces/1711/A.cpp) | `constructive algorithms` | Jul/25/2022 20:57 | 
 920 | [D2 - Up the Strip](https://codeforces.com/contest/1561/problem/D2) | [GNU C++20 (64)](./codeforces/1561/D2.cpp) | `brute force` `dp` `math` `number theory` `*1900` | Jul/20/2022 23:43 | 
 919 | [D1 - Up the Strip (simplified version)](https://codeforces.com/contest/1561/problem/D1) | [GNU C++20 (64)](./codeforces/1561/D1.cpp) | `brute force` `data structures` `dp` `math` `number theory` `*1700` | Jul/20/2022 23:42 | 
 918 | [E - K-periodic Garland](https://codeforces.com/contest/1353/problem/E) | [GNU C++20 (64)](./codeforces/1353/E.cpp) | `brute force` `dp` `greedy` `*1900` | Jul/20/2022 23:18 | 
@@ -26,8 +27,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 909 | [D - Power Products](https://codeforces.com/contest/1225/problem/D) | [GNU C++20 (64)](./codeforces/1225/D.cpp) | `hashing` `math` `number theory` `*1800` | Jul/19/2022 15:30 | 
 908 | [D - Berserk And Fireball](https://codeforces.com/contest/1380/problem/D) | [GNU C++20 (64)](./codeforces/1380/D.cpp) | `constructive algorithms` `greedy` `implementation` `math` `two pointers` `*2000` | Jul/18/2022 20:49 | 
 907 | [E - Are You Safe?](https://codeforces.com/contest/1663/problem/E) | [GNU C++20 (64)](./codeforces/1663/E.cpp) | `*special problem` `implementation` | Jul/18/2022 18:30 | 
-906 | [D - Is it rated - 3](https://codeforces.com/contest/1663/problem/D) | [Python 3](./codeforces/1663/D.py) | `*special problem` `combinatorics` `dp` `math` | Jul/18/2022 18:24 | 
-905 | [C - Pōja Verdon](https://codeforces.com/contest/1663/problem/C) | [Python 3](./codeforces/1663/C.py) | `*special problem` `implementation` `math` | Jul/18/2022 18:24 | 
+906 | [C - Pōja Verdon](https://codeforces.com/contest/1663/problem/C) | [Python 3](./codeforces/1663/C.py) | `*special problem` `implementation` `math` | Jul/18/2022 18:24 | 
+905 | [D - Is it rated - 3](https://codeforces.com/contest/1663/problem/D) | [Python 3](./codeforces/1663/D.py) | `*special problem` `combinatorics` `dp` `math` | Jul/18/2022 18:24 | 
 904 | [B - Mike's Sequence](https://codeforces.com/contest/1663/problem/B) | [Python 3](./codeforces/1663/B.py) | `*special problem` `divide and conquer` `implementation` `math` | Jul/18/2022 18:23 | 
 903 | [A - Who Tested?](https://codeforces.com/contest/1663/problem/A) | [GNU C++20 (64)](./codeforces/1663/A.cpp) | `expression parsing` `trees` | Jul/17/2022 23:12 | 
 902 | [D - Workout plan](https://codeforces.com/contest/1219/problem/D) | [GNU C++20 (64)](./codeforces/1219/D.cpp) | `data structures` `greedy` `*1500` | Jul/17/2022 23:05 | 
