@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-960 | [A - LCM Challenge](https://codeforces.com/contest/235/problem/A) | [GNU C++20 (64)](./codeforces/235/A.cpp) | `number theory` `*1600` | Jul/29/2022 23:17 | 
-959 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [GNU C++20 (64)](./codeforces/1234/D.cpp) | `data structures` `*1600` | Jul/29/2022 22:43 | 
+961 | [A - LCM Challenge](https://codeforces.com/contest/235/problem/A) | [GNU C++20 (64)](./codeforces/235/A.cpp) | `number theory` `*1600` | Jul/29/2022 23:17 | 
+960 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [GNU C++20 (64)](./codeforces/1234/D.cpp) | `data structures` `*1600` | Jul/29/2022 22:43 | 
+959 | [C - Pipes](https://codeforces.com/contest/1234/problem/C) | [GNU C++20 (64)](./codeforces/1234/C.cpp) | `dp` `implementation` `*1500` | Jul/29/2022 22:24 | 
 958 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++20 (64)](./codeforces/1711/A.cpp) | `constructive algorithms` | Jul/25/2022 20:57 | 
 957 | [B - Party](https://codeforces.com/contest/1711/problem/B) | [GNU C++20 (64)](./codeforces/1711/B.cpp) | `brute force` `graphs` | Jul/25/2022 20:55 | 
 956 | [C - Color the Picture](https://codeforces.com/contest/1711/problem/C) | [GNU C++20 (64)](./codeforces/1711/C.cpp) | `constructive algorithms` `greedy` | Jul/25/2022 20:07 | 
