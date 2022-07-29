@@ -17039,6 +17039,25 @@
     ],
     "timestamp": "Jul/25/2022 20:57"
   },
+  "CF166137596": {
+    "contest_id": 1397,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1397\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Multiples of Length",
+    "problem_url": "https://codeforces.com/contest/1397/problem/C",
+    "submission_id": "CF166137596",
+    "submission_url": "https://codeforces.com/contest/1397/submission/166137596",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jul/29/2022 21:09"
+  },
   "CF166139822": {
     "contest_id": 1397,
     "language": "GNU C++20 (64)",
