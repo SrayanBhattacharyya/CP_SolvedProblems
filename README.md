@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+959 | [A - LCM Challenge](https://codeforces.com/contest/235/problem/A) | [GNU C++20 (64)](./codeforces/235/A.cpp) | `number theory` `*1600` | Jul/29/2022 23:17 | 
 958 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++20 (64)](./codeforces/1711/A.cpp) | `constructive algorithms` | Jul/25/2022 20:57 | 
 957 | [B - Party](https://codeforces.com/contest/1711/problem/B) | [GNU C++20 (64)](./codeforces/1711/B.cpp) | `brute force` `graphs` | Jul/25/2022 20:55 | 
 956 | [C - Color the Picture](https://codeforces.com/contest/1711/problem/C) | [GNU C++20 (64)](./codeforces/1711/C.cpp) | `constructive algorithms` `greedy` | Jul/25/2022 20:07 | 
-955 | [F1 - Nearest Beautiful Number (easy version)](https://codeforces.com/contest/1560/problem/F1) | [GNU C++20 (64)](./codeforces/1560/F1.cpp) | `binary search` `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `greedy` `*1900` | Jul/24/2022 22:12 | 
-954 | [F2 - Nearest Beautiful Number (hard version)](https://codeforces.com/contest/1560/problem/F2) | [GNU C++20 (64)](./codeforces/1560/F2.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `greedy` `*2100` | Jul/24/2022 22:12 | 
+955 | [F2 - Nearest Beautiful Number (hard version)](https://codeforces.com/contest/1560/problem/F2) | [GNU C++20 (64)](./codeforces/1560/F2.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dp` `greedy` `*2100` | Jul/24/2022 22:12 | 
+954 | [F1 - Nearest Beautiful Number (easy version)](https://codeforces.com/contest/1560/problem/F1) | [GNU C++20 (64)](./codeforces/1560/F1.cpp) | `binary search` `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `greedy` `*1900` | Jul/24/2022 22:12 | 
 953 | [C - Chocolate Bunny](https://codeforces.com/contest/1407/problem/C) | [GNU C++20 (64)](./codeforces/1407/C.cpp) | `constructive algorithms` `interactive` `math` `two pointers` `*1600` | Jul/24/2022 19:05 | 
 952 | [E - Kuroni and the Score Distribution](https://codeforces.com/contest/1305/problem/E) | [GNU C++20 (64)](./codeforces/1305/E.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*2200` | Jul/24/2022 14:44 | 
 951 | [C - Kuroni and Impossible Calculation](https://codeforces.com/contest/1305/problem/C) | [GNU C++20 (64)](./codeforces/1305/C.cpp) | `brute force` `combinatorics` `math` `number theory` `*1600` | Jul/24/2022 13:50 | 
