@@ -17465,6 +17465,22 @@
     ],
     "timestamp": "Jul/29/2022 23:17"
   },
+  "CF166210587": {
+    "contest_id": 139,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\139\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Digits Permutations",
+    "problem_url": "https://codeforces.com/contest/139/problem/D",
+    "submission_id": "CF166210587",
+    "submission_url": "https://codeforces.com/contest/139/submission/166210587",
+    "tags": [
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Jul/30/2022 15:16"
+  },
   "CF166348868": {
     "contest_id": 939,
     "language": "GNU C++20 (64)",
