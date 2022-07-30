@@ -17465,6 +17465,22 @@
     ],
     "timestamp": "Jul/29/2022 23:17"
   },
+  "CF166186228": {
+    "contest_id": 1607,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1607\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Banquet Preparations 1",
+    "problem_url": "https://codeforces.com/contest/1607/problem/G",
+    "submission_id": "CF166186228",
+    "submission_url": "https://codeforces.com/contest/1607/submission/166186228",
+    "tags": [
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jul/30/2022 10:29"
+  },
   "CF166190253": {
     "contest_id": 1607,
     "language": "GNU C++20 (64)",
