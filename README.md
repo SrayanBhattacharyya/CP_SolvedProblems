@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-986 | [D - Magical Array](https://codeforces.com/contest/1704/problem/D) | [GNU C++20 (64)](./codeforces/1704/D.cpp) | `combinatorics` `constructive algorithms` `hashing` `math` | Aug/01/2022 23:47 | 
-985 | [C - Minimum  Varied Number](https://codeforces.com/contest/1714/problem/C) | [GNU C++20 (64)](./codeforces/1714/C.cpp) | `bitmasks` `brute force` `greedy` | Aug/01/2022 23:30 | 
-984 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [GNU C++20 (64)](./codeforces/1714/D.cpp) | `dp` `greedy` `strings` | Aug/01/2022 23:24 | 
-983 | [E - Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | [GNU C++20 (64)](./codeforces/1714/E.cpp) | `math` `number theory` | Aug/01/2022 22:59 | 
+987 | [D - Magical Array](https://codeforces.com/contest/1704/problem/D) | [GNU C++20 (64)](./codeforces/1704/D.cpp) | `combinatorics` `constructive algorithms` `hashing` `math` | Aug/01/2022 23:47 | 
+986 | [C - Minimum  Varied Number](https://codeforces.com/contest/1714/problem/C) | [GNU C++20 (64)](./codeforces/1714/C.cpp) | `bitmasks` `brute force` `greedy` | Aug/01/2022 23:30 | 
+985 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [GNU C++20 (64)](./codeforces/1714/D.cpp) | `dp` `greedy` `strings` | Aug/01/2022 23:24 | 
+984 | [E - Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | [GNU C++20 (64)](./codeforces/1714/E.cpp) | `math` `number theory` | Aug/01/2022 22:59 | 
+983 | [C - Virus](https://codeforces.com/contest/1704/problem/C) | [GNU C++20 (64)](./codeforces/1704/C.cpp) | `greedy` `sortings` | Jul/31/2022 23:52 | 
 982 | [A - LCM Challenge](https://codeforces.com/contest/235/problem/A) | [GNU C++20 (64)](./codeforces/235/A.cpp) | `number theory` `*1600` | Jul/29/2022 23:17 | 
 981 | [D - Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [GNU C++20 (64)](./codeforces/1234/D.cpp) | `data structures` `*1600` | Jul/29/2022 22:43 | 
 980 | [C - Pipes](https://codeforces.com/contest/1234/problem/C) | [GNU C++20 (64)](./codeforces/1234/C.cpp) | `dp` `implementation` `*1500` | Jul/29/2022 22:24 | 
