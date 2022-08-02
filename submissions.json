@@ -17725,6 +17725,26 @@
     ],
     "timestamp": "Aug/01/2022 23:47"
   },
+  "CF166728902": {
+    "contest_id": 1586,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1586\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Omkar and Determination",
+    "problem_url": "https://codeforces.com/contest/1586/problem/C",
+    "submission_id": "CF166728902",
+    "submission_url": "https://codeforces.com/contest/1586/submission/166728902",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Aug/02/2022 23:37"
+  },
   "CF166729639": {
     "contest_id": 1060,
     "language": "GNU C++20 (64)",
