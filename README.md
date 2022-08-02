@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1002 | [C - Make It Equal](https://codeforces.com/contest/1065/problem/C) | [GNU C++20 (64)](./codeforces/1065/C.cpp) | `greedy` `*1600` | Aug/03/2022 18:00 | 
-1001 | [C - Tesla](https://codeforces.com/contest/996/problem/C) | [GNU C++20 (64)](./codeforces/996/C.cpp) | `*2100` | Aug/03/2022 16:17 | 
-1000 | [D - Social Circles](https://codeforces.com/contest/1060/problem/D) | [GNU C++20 (64)](./codeforces/1060/D.cpp) | `greedy` `math` `*1900` | Aug/02/2022 23:44 | 
-999 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [GNU C++20 (64)](./codeforces/1586/C.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` `*1700` | Aug/02/2022 23:37 | 
-998 | [C - Liebig's Barrels](https://codeforces.com/contest/985/problem/C) | [GNU C++20 (64)](./codeforces/985/C.cpp) | `greedy` `*1500` | Aug/02/2022 10:45 | 
+1003 | [C - Make It Equal](https://codeforces.com/contest/1065/problem/C) | [GNU C++20 (64)](./codeforces/1065/C.cpp) | `greedy` `*1600` | Aug/03/2022 18:00 | 
+1002 | [C - Tesla](https://codeforces.com/contest/996/problem/C) | [GNU C++20 (64)](./codeforces/996/C.cpp) | `*2100` | Aug/03/2022 16:17 | 
+1001 | [D - Social Circles](https://codeforces.com/contest/1060/problem/D) | [GNU C++20 (64)](./codeforces/1060/D.cpp) | `greedy` `math` `*1900` | Aug/02/2022 23:44 | 
+1000 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [GNU C++20 (64)](./codeforces/1586/C.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` `*1700` | Aug/02/2022 23:37 | 
+999 | [C - Liebig's Barrels](https://codeforces.com/contest/985/problem/C) | [GNU C++20 (64)](./codeforces/985/C.cpp) | `greedy` `*1500` | Aug/02/2022 10:45 | 
+998 | [D - Sand Fortress](https://codeforces.com/contest/985/problem/D) | [GNU C++20 (64)](./codeforces/985/D.cpp) | `binary search` `constructive algorithms` `math` `*2100` | Aug/02/2022 10:29 | 
 997 | [D - Magical Array](https://codeforces.com/contest/1704/problem/D) | [GNU C++20 (64)](./codeforces/1704/D.cpp) | `combinatorics` `constructive algorithms` `hashing` `math` | Aug/01/2022 23:47 | 
 996 | [C - Minimum  Varied Number](https://codeforces.com/contest/1714/problem/C) | [GNU C++20 (64)](./codeforces/1714/C.cpp) | `bitmasks` `brute force` `greedy` | Aug/01/2022 23:30 | 
 995 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [GNU C++20 (64)](./codeforces/1714/D.cpp) | `dp` `greedy` `strings` | Aug/01/2022 23:24 | 
