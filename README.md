@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-998 | [C - Make It Equal](https://codeforces.com/contest/1065/problem/C) | [GNU C++20 (64)](./codeforces/1065/C.cpp) | `greedy` `*1600` | Aug/03/2022 18:00 | 
+999 | [C - Make It Equal](https://codeforces.com/contest/1065/problem/C) | [GNU C++20 (64)](./codeforces/1065/C.cpp) | `greedy` `*1600` | Aug/03/2022 18:00 | 
+998 | [C - Tesla](https://codeforces.com/contest/996/problem/C) | [GNU C++20 (64)](./codeforces/996/C.cpp) | `*2100` | Aug/03/2022 16:17 | 
 997 | [D - Magical Array](https://codeforces.com/contest/1704/problem/D) | [GNU C++20 (64)](./codeforces/1704/D.cpp) | `combinatorics` `constructive algorithms` `hashing` `math` | Aug/01/2022 23:47 | 
 996 | [C - Minimum  Varied Number](https://codeforces.com/contest/1714/problem/C) | [GNU C++20 (64)](./codeforces/1714/C.cpp) | `bitmasks` `brute force` `greedy` | Aug/01/2022 23:30 | 
 995 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [GNU C++20 (64)](./codeforces/1714/D.cpp) | `dp` `greedy` `strings` | Aug/01/2022 23:24 | 
