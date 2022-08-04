@@ -17865,6 +17865,23 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167018207": {
+    "contest_id": 706,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\706\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hard problem",
+    "problem_url": "https://codeforces.com/contest/706/problem/C",
+    "submission_id": "CF167018207",
+    "submission_url": "https://codeforces.com/contest/706/submission/167018207",
+    "tags": [
+      "dp",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Aug/04/2022 23:17"
+  },
   "CF167121320": {
     "contest_id": 1372,
     "language": "GNU C++20 (64)",
