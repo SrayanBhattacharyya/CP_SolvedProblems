@@ -17865,6 +17865,23 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167193877": {
+    "contest_id": 1716,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1716\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Chain",
+    "problem_url": "https://codeforces.com/contest/1716/problem/B",
+    "submission_id": "CF167193877",
+    "submission_url": "https://codeforces.com/contest/1716/submission/167193877",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/06/2022 13:39"
+  },
   "CF167194361": {
     "contest_id": 1716,
     "language": "GNU C++20 (64)",
