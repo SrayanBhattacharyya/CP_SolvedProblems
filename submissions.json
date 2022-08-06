@@ -17865,6 +17865,22 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167225070": {
+    "contest_id": 1121,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1121\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "System Testing",
+    "problem_url": "https://codeforces.com/contest/1121/problem/C",
+    "submission_id": "CF167225070",
+    "submission_url": "https://codeforces.com/contest/1121/submission/167225070",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Aug/06/2022 19:11"
+  },
   "CF167359809": {
     "contest_id": 1713,
     "language": "GNU C++20 (64)",
