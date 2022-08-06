@@ -17865,6 +17865,26 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167187564": {
+    "contest_id": 1716,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1716\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Robot in a Hallway",
+    "problem_url": "https://codeforces.com/contest/1716/problem/C",
+    "submission_id": "CF167187564",
+    "submission_url": "https://codeforces.com/contest/1716/submission/167187564",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "ternary search",
+      "*2000"
+    ],
+    "timestamp": "Aug/06/2022 12:30"
+  },
   "CF167193877": {
     "contest_id": 1716,
     "language": "GNU C++20 (64)",
