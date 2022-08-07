@@ -17865,6 +17865,26 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167359809": {
+    "contest_id": 1713,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1713\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tournament Countdown",
+    "problem_url": "https://codeforces.com/contest/1713/problem/D",
+    "submission_id": "CF167359809",
+    "submission_url": "https://codeforces.com/contest/1713/submission/167359809",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "number theory",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "Aug/07/2022 12:23"
+  },
   "CF167362365": {
     "contest_id": 1713,
     "language": "GNU C++20 (64)",
