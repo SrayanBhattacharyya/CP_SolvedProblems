@@ -17865,6 +17865,23 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167362946": {
+    "contest_id": 1713,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1713\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Reduction",
+    "problem_url": "https://codeforces.com/contest/1713/problem/B",
+    "submission_id": "CF167362946",
+    "submission_url": "https://codeforces.com/contest/1713/submission/167362946",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Aug/07/2022 12:53"
+  },
   "CF167363935": {
     "contest_id": 372,
     "language": "GNU C++20 (64)",
