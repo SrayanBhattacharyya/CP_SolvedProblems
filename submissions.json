@@ -17865,6 +17865,24 @@
     ],
     "timestamp": "Aug/03/2022 18:00"
   },
+  "CF167544274": {
+    "contest_id": 1375,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1375\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Inversion SwapSort",
+    "problem_url": "https://codeforces.com/contest/1375/problem/E",
+    "submission_id": "CF167544274",
+    "submission_url": "https://codeforces.com/contest/1375/submission/167544274",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "Aug/08/2022 22:52"
+  },
   "CF167547693": {
     "contest_id": 1371,
     "language": "GNU C++20 (64)",
