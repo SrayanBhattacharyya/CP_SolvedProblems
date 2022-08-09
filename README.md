@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1036 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [GNU C++20 (64)](./codeforces/1359/E.cpp) | `combinatorics` `math` `number theory` `*2000` | Aug/10/2022 10:01 | 
+1037 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [GNU C++20 (64)](./codeforces/1359/E.cpp) | `combinatorics` `math` `number theory` `*2000` | Aug/10/2022 10:01 | 
+1036 | [E - Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E) | [GNU C++20 (64)](./codeforces/1365/E.cpp) | `brute force` `constructive algorithms` `*1900` | Aug/09/2022 20:06 | 
 1035 | [C - Tennis Championship](https://codeforces.com/contest/735/problem/C) | [GNU C++20 (64)](./codeforces/735/C.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1600` | Aug/09/2022 08:31 | 
 1034 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [GNU C++20 (64)](./codeforces/735/D.cpp) | `math` `number theory` `*1600` | Aug/08/2022 23:43 | 
 1033 | [E1 - Asterism (Easy Version)](https://codeforces.com/contest/1371/problem/E1) | [GNU C++20 (64)](./codeforces/1371/E1.cpp) | `binary search` `brute force` `combinatorics` `math` `number theory` `sortings` `*1900` | Aug/08/2022 23:30 | 
