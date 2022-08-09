@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1006 | [C - Tennis Championship](https://codeforces.com/contest/735/problem/C) | [GNU C++20 (64)](./codeforces/735/C.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1600` | Aug/09/2022 08:31 | 
 1005 | [C - Make It Equal](https://codeforces.com/contest/1065/problem/C) | [GNU C++20 (64)](./codeforces/1065/C.cpp) | `greedy` `*1600` | Aug/03/2022 18:00 | 
 1004 | [C - Tesla](https://codeforces.com/contest/996/problem/C) | [GNU C++20 (64)](./codeforces/996/C.cpp) | `*2100` | Aug/03/2022 16:17 | 
 1003 | [D - Social Circles](https://codeforces.com/contest/1060/problem/D) | [GNU C++20 (64)](./codeforces/1060/D.cpp) | `greedy` `math` `*1900` | Aug/02/2022 23:44 | 
