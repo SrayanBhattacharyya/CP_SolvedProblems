@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1040 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [GNU C++20 (64)](./codeforces/1359/E.cpp) | `combinatorics` `math` `number theory` `*2000` | Aug/10/2022 10:01 | 
-1039 | [E - Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E) | [GNU C++20 (64)](./codeforces/1365/E.cpp) | `brute force` `constructive algorithms` `*1900` | Aug/09/2022 20:06 | 
-1038 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) | `constructive algorithms` `greedy` `math` `*1300` | Aug/09/2022 19:43 | 
-1037 | [F - Swaps Again](https://codeforces.com/contest/1365/problem/F) | [GNU C++20 (64)](./codeforces/1365/F.cpp) | `constructive algorithms` `implementation` `sortings` `*2100` | Aug/09/2022 19:26 | 
-1036 | [D1 - Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | [GNU C++20 (64)](./codeforces/1203/D1.cpp) | `greedy` `implementation` `*1600` | Aug/09/2022 08:55 | 
+1041 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [GNU C++20 (64)](./codeforces/1359/E.cpp) | `combinatorics` `math` `number theory` `*2000` | Aug/10/2022 10:01 | 
+1040 | [E - Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E) | [GNU C++20 (64)](./codeforces/1365/E.cpp) | `brute force` `constructive algorithms` `*1900` | Aug/09/2022 20:06 | 
+1039 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) | `constructive algorithms` `greedy` `math` `*1300` | Aug/09/2022 19:43 | 
+1038 | [F - Swaps Again](https://codeforces.com/contest/1365/problem/F) | [GNU C++20 (64)](./codeforces/1365/F.cpp) | `constructive algorithms` `implementation` `sortings` `*2100` | Aug/09/2022 19:26 | 
+1037 | [D1 - Remove the Substring (easy version)](https://codeforces.com/contest/1203/problem/D1) | [GNU C++20 (64)](./codeforces/1203/D1.cpp) | `greedy` `implementation` `*1600` | Aug/09/2022 08:55 | 
+1036 | [D2 - Remove the Substring (hard version)](https://codeforces.com/contest/1203/problem/D2) | [GNU C++20 (64)](./codeforces/1203/D2.cpp) | `binary search` `greedy` `implementation` `two pointers` `*1700` | Aug/09/2022 08:54 | 
 1035 | [C - Tennis Championship](https://codeforces.com/contest/735/problem/C) | [GNU C++20 (64)](./codeforces/735/C.cpp) | `combinatorics` `constructive algorithms` `greedy` `math` `*1600` | Aug/09/2022 08:31 | 
 1034 | [D - Taxes](https://codeforces.com/contest/735/problem/D) | [GNU C++20 (64)](./codeforces/735/D.cpp) | `math` `number theory` `*1600` | Aug/08/2022 23:43 | 
 1033 | [E1 - Asterism (Easy Version)](https://codeforces.com/contest/1371/problem/E1) | [GNU C++20 (64)](./codeforces/1371/E1.cpp) | `binary search` `brute force` `combinatorics` `math` `number theory` `sortings` `*1900` | Aug/08/2022 23:30 | 
