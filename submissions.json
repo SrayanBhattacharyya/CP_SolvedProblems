@@ -18514,6 +18514,25 @@
     ],
     "timestamp": "Aug/10/2022 10:01"
   },
+  "CF167850204": {
+    "contest_id": 1553,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1553\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Backspace",
+    "problem_url": "https://codeforces.com/contest/1553/problem/D",
+    "submission_id": "CF167850204",
+    "submission_url": "https://codeforces.com/contest/1553/submission/167850204",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Aug/11/2022 15:03"
+  },
   "CF167874171": {
     "contest_id": 1272,
     "language": "GNU C++20 (64)",
