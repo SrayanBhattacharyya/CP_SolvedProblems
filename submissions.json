@@ -18514,6 +18514,26 @@
     ],
     "timestamp": "Aug/10/2022 10:01"
   },
+  "CF167951550": {
+    "contest_id": 1338,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1338\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perfect Triples",
+    "problem_url": "https://codeforces.com/contest/1338/problem/C",
+    "submission_id": "CF167951550",
+    "submission_url": "https://codeforces.com/contest/1338/submission/167951550",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "divide and conquer",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Aug/12/2022 14:16"
+  },
   "CF168046878": {
     "contest_id": 1272,
     "language": "GNU C++20 (64)",
