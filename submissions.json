@@ -18514,6 +18514,25 @@
     ],
     "timestamp": "Aug/10/2022 10:01"
   },
+  "CF167934942": {
+    "contest_id": 1543,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1543\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "RPD and Rap Sheet (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1543/problem/D1",
+    "submission_id": "CF167934942",
+    "submission_url": "https://codeforces.com/contest/1543/submission/167934942",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/12/2022 10:45"
+  },
   "CF167941453": {
     "contest_id": 1365,
     "language": "GNU C++17",
