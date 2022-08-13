@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1050 | [C - Moamen and XOR](https://codeforces.com/contest/1557/problem/C) | [GNU C++20 (64)](./codeforces/1557/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `matrices` `*1700` | Aug/15/2022 22:24 | 
-1049 | [D - Cleaning](https://codeforces.com/contest/1474/problem/D) | [GNU C++20 (64)](./codeforces/1474/D.cpp) | `data structures` `dp` `greedy` `math` `*2200` | Aug/15/2022 20:46 | 
-1048 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [GNU C++20 (64)](./codeforces/1474/C.cpp) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Aug/15/2022 19:46 | 
-1047 | [A - Wonderful Permutation](https://codeforces.com/contest/1712/problem/A) | [GNU C++20 (64)](./codeforces/1712/A.cpp) | `greedy` `implementation` `*800` | Aug/14/2022 12:29 | 
-1046 | [B - Woeful Permutation](https://codeforces.com/contest/1712/problem/B) | [GNU C++20 (64)](./codeforces/1712/B.cpp) | `constructive algorithms` `greedy` `number theory` `*800` | Aug/14/2022 12:25 | 
-1045 | [C - Sort Zero](https://codeforces.com/contest/1712/problem/C) | [GNU C++20 (64)](./codeforces/1712/C.cpp) | `greedy` `sortings` `*1100` | Aug/14/2022 12:11 | 
-1044 | [D - Empty Graph](https://codeforces.com/contest/1712/problem/D) | [GNU C++20 (64)](./codeforces/1712/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `shortest paths` `*2000` | Aug/14/2022 11:46 | 
-1043 | [E1 - LCM Sum (easy version)](https://codeforces.com/contest/1712/problem/E1) | [GNU C++20 (64)](./codeforces/1712/E1.cpp) | `binary search` `brute force` `combinatorics` `math` `number theory` `two pointers` `*2300` | Aug/14/2022 11:20 | 
-1042 | [C - Number of Ways](https://codeforces.com/contest/466/problem/C) | [GNU C++20 (64)](./codeforces/466/C.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Aug/13/2022 23:40 | 
+1051 | [C - Moamen and XOR](https://codeforces.com/contest/1557/problem/C) | [GNU C++20 (64)](./codeforces/1557/C.cpp) | `bitmasks` `combinatorics` `dp` `math` `matrices` `*1700` | Aug/15/2022 22:24 | 
+1050 | [D - Cleaning](https://codeforces.com/contest/1474/problem/D) | [GNU C++20 (64)](./codeforces/1474/D.cpp) | `data structures` `dp` `greedy` `math` `*2200` | Aug/15/2022 20:46 | 
+1049 | [C - Array Destruction](https://codeforces.com/contest/1474/problem/C) | [GNU C++20 (64)](./codeforces/1474/C.cpp) | `brute force` `constructive algorithms` `data structures` `greedy` `implementation` `sortings` `*1700` | Aug/15/2022 19:46 | 
+1048 | [A - Wonderful Permutation](https://codeforces.com/contest/1712/problem/A) | [GNU C++20 (64)](./codeforces/1712/A.cpp) | `greedy` `implementation` `*800` | Aug/14/2022 12:29 | 
+1047 | [B - Woeful Permutation](https://codeforces.com/contest/1712/problem/B) | [GNU C++20 (64)](./codeforces/1712/B.cpp) | `constructive algorithms` `greedy` `number theory` `*800` | Aug/14/2022 12:25 | 
+1046 | [C - Sort Zero](https://codeforces.com/contest/1712/problem/C) | [GNU C++20 (64)](./codeforces/1712/C.cpp) | `greedy` `sortings` `*1100` | Aug/14/2022 12:11 | 
+1045 | [D - Empty Graph](https://codeforces.com/contest/1712/problem/D) | [GNU C++20 (64)](./codeforces/1712/D.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `shortest paths` `*2000` | Aug/14/2022 11:46 | 
+1044 | [E1 - LCM Sum (easy version)](https://codeforces.com/contest/1712/problem/E1) | [GNU C++20 (64)](./codeforces/1712/E1.cpp) | `binary search` `brute force` `combinatorics` `math` `number theory` `two pointers` `*2300` | Aug/14/2022 11:20 | 
+1043 | [C - Number of Ways](https://codeforces.com/contest/466/problem/C) | [GNU C++20 (64)](./codeforces/466/C.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Aug/13/2022 23:40 | 
+1042 | [E - Down or Right](https://codeforces.com/contest/1023/problem/E) | [GNU C++20 (64)](./codeforces/1023/E.cpp) | `constructive algorithms` `interactive` `matrices` `*2100` | Aug/13/2022 22:53 | 
 1041 | [E - Modular Stability](https://codeforces.com/contest/1359/problem/E) | [GNU C++20 (64)](./codeforces/1359/E.cpp) | `combinatorics` `math` `number theory` `*2000` | Aug/10/2022 10:01 | 
 1040 | [E - Maximum Subsequence Value](https://codeforces.com/contest/1365/problem/E) | [GNU C++20 (64)](./codeforces/1365/E.cpp) | `brute force` `constructive algorithms` `*1900` | Aug/09/2022 20:06 | 
 1039 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) | `constructive algorithms` `greedy` `math` `*1300` | Aug/09/2022 19:43 | 
