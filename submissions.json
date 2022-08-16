@@ -19042,6 +19042,25 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF168479218": {
+    "contest_id": 1575,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1575\\L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Longest Array Deconstruction",
+    "problem_url": "https://codeforces.com/contest/1575/problem/L",
+    "submission_id": "CF168479218",
+    "submission_url": "https://codeforces.com/contest/1575/submission/168479218",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Aug/16/2022 14:10"
+  },
   "CF168513990": {
     "contest_id": 1574,
     "language": "GNU C++20 (64)",
