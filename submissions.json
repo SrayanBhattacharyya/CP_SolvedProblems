@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF168653567": {
+    "contest_id": 730,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\730\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Toda 2",
+    "problem_url": "https://codeforces.com/contest/730/problem/A",
+    "submission_id": "CF168653567",
+    "submission_url": "https://codeforces.com/contest/730/submission/168653567",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Aug/17/2022 11:10"
+  },
   "CF168703478": {
     "contest_id": 1133,
     "language": "GNU C++20 (64)",
