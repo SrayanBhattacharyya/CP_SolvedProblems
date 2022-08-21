@@ -19042,6 +19042,26 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF169229146": {
+    "contest_id": 1569,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1569\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Inconvenient Pairs",
+    "problem_url": "https://codeforces.com/contest/1569/problem/D",
+    "submission_id": "CF169229146",
+    "submission_url": "https://codeforces.com/contest/1569/submission/169229146",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/21/2022 16:45"
+  },
   "CF169252249": {
     "contest_id": 1715,
     "language": "GNU C++20 (64)",
