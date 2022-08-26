@@ -19042,6 +19042,28 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF169666208": {
+    "contest_id": 1572,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1572\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Book",
+    "problem_url": "https://codeforces.com/contest/1572/problem/A",
+    "submission_id": "CF169666208",
+    "submission_url": "https://codeforces.com/contest/1572/submission/169666208",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Aug/26/2022 10:41"
+  },
   "CF169673767": {
     "contest_id": 1572,
     "language": "GNU C++20 (64)",
