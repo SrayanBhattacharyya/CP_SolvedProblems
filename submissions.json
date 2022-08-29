@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170025485": {
+    "contest_id": 1721,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1721\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Min-Max Array Transformation",
+    "problem_url": "https://codeforces.com/contest/1721/problem/C",
+    "submission_id": "CF170025485",
+    "submission_url": "https://codeforces.com/contest/1721/submission/170025485",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Aug/29/2022 09:23"
+  },
   "CF170030027": {
     "contest_id": 1721,
     "language": "GNU C++20 (64)",
