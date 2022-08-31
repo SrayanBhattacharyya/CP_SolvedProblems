@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170400619": {
+    "contest_id": 1722,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1722\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Even-Odd XOR",
+    "problem_url": "https://codeforces.com/contest/1722/problem/G",
+    "submission_id": "CF170400619",
+    "submission_url": "https://codeforces.com/contest/1722/submission/170400619",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Aug/31/2022 20:32"
+  },
   "CF170407122": {
     "contest_id": 1722,
     "language": "GNU C++20 (64)",
