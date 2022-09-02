@@ -19042,6 +19042,22 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170654040": {
+    "contest_id": 1717,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1717\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Madoka and Formal Statement",
+    "problem_url": "https://codeforces.com/contest/1717/problem/C",
+    "submission_id": "CF170654040",
+    "submission_url": "https://codeforces.com/contest/1717/submission/170654040",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Sep/02/2022 22:57"
+  },
   "CF170704976": {
     "contest_id": 1717,
     "language": "GNU C++20 (64)",
