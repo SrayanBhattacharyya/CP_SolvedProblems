@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170587081": {
+    "contest_id": 1182,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1182\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Lyrics",
+    "problem_url": "https://codeforces.com/contest/1182/problem/C",
+    "submission_id": "CF170587081",
+    "submission_url": "https://codeforces.com/contest/1182/submission/170587081",
+    "tags": [
+      "data structures",
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Sep/02/2022 18:59"
+  },
   "CF170592986": {
     "contest_id": 691,
     "language": "GNU C++20 (64)",
