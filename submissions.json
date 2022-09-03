@@ -19042,6 +19042,25 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170704976": {
+    "contest_id": 1717,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1717\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Madoka and The Corruption Scheme",
+    "problem_url": "https://codeforces.com/contest/1717/problem/D",
+    "submission_id": "CF170704976",
+    "submission_url": "https://codeforces.com/contest/1717/submission/170704976",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Sep/03/2022 12:45"
+  },
   "CF170852712": {
     "contest_id": 1717,
     "language": "GNU C++20 (64)",
