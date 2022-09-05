@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170980874": {
+    "contest_id": 1717,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1717\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Madoka and The Best University",
+    "problem_url": "https://codeforces.com/contest/1717/problem/E",
+    "submission_id": "CF170980874",
+    "submission_url": "https://codeforces.com/contest/1717/submission/170980874",
+    "tags": [
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Sep/05/2022 23:21"
+  },
   "CF171006942": {
     "contest_id": 1551,
     "language": "GNU C++20 (64)",
