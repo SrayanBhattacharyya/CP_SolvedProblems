@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF170909941": {
+    "contest_id": 981,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\981\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bookshelves",
+    "problem_url": "https://codeforces.com/contest/981/problem/D",
+    "submission_id": "CF170909941",
+    "submission_url": "https://codeforces.com/contest/981/submission/170909941",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Sep/05/2022 10:10"
+  },
   "CF170944103": {
     "contest_id": 1521,
     "language": "GNU C++20 (64)",
