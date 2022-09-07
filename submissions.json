@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF171257616": {
+    "contest_id": 1726,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1726\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mainak and Interesting Sequence",
+    "problem_url": "https://codeforces.com/contest/1726/problem/B",
+    "submission_id": "CF171257616",
+    "submission_url": "https://codeforces.com/contest/1726/submission/171257616",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/07/2022 21:47"
+  },
   "CF171262506": {
     "contest_id": 1726,
     "language": "GNU C++20 (64)",
