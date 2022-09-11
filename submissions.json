@@ -19042,6 +19042,26 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF171691553": {
+    "contest_id": 1728,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1728\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Red-Black Pepper",
+    "problem_url": "https://codeforces.com/contest/1728/problem/E",
+    "submission_id": "CF171691553",
+    "submission_url": "https://codeforces.com/contest/1728/submission/171691553",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "Sep/11/2022 14:41"
+  },
   "CF171725232": {
     "contest_id": 1497,
     "language": "GNU C++20 (64)",
