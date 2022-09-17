@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF172487549": {
+    "contest_id": 1129,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1129\\A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Toy Train (Simplified)",
+    "problem_url": "https://codeforces.com/contest/1129/problem/A1",
+    "submission_id": "CF172487549",
+    "submission_url": "https://codeforces.com/contest/1129/submission/172487549",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Sep/17/2022 23:36"
+  },
   "CF172657414": {
     "contest_id": 1129,
     "language": "GNU C++20 (64)",
