@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF172434799": {
+    "contest_id": 1725,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1725\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Garage",
+    "problem_url": "https://codeforces.com/contest/1725/problem/G",
+    "submission_id": "CF172434799",
+    "submission_url": "https://codeforces.com/contest/1725/submission/172434799",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Sep/17/2022 14:22"
+  },
   "CF172438198": {
     "contest_id": 1725,
     "language": "GNU C++20 (64)",
