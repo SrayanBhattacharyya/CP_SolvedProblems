@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF172438198": {
+    "contest_id": 1725,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1725\\H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hot Black Hot White",
+    "problem_url": "https://codeforces.com/contest/1725/problem/H",
+    "submission_id": "CF172438198",
+    "submission_url": "https://codeforces.com/contest/1725/submission/172438198",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Sep/17/2022 15:01"
+  },
   "CF172487530": {
     "contest_id": 1129,
     "language": "GNU C++20 (64)",
