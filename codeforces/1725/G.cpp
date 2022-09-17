@@ -8,13 +8,9 @@ int main(){
     cin.tie(0);
     cout.tie(0);
     ll n; cin >> n;
-    ll l = 1, r = 2e9;
-    while (l < r){
-        ll m = (l + r) / 2;
-        ll temp = (m + 1) / 2 - 1 + (m - 4) / 4;
-        if (temp < n) l = m + 1;
-        else r = m;
-    }
-    cout << l << "\n";
+    ll n1 = 4 * (n / 3) + (3 + (n % 3));
+    if (n == 1) cout << 3 << "\n";
+    else if (n == 2) cout << 5 << "\n";
+    else cout << n1 << "\n";
     return 0;
 }
