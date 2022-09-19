@@ -19042,6 +19042,22 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF172657414": {
+    "contest_id": 1129,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1129\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wrong Answer",
+    "problem_url": "https://codeforces.com/contest/1129/problem/B",
+    "submission_id": "CF172657414",
+    "submission_url": "https://codeforces.com/contest/1129/submission/172657414",
+    "tags": [
+      "constructive algorithms",
+      "*2000"
+    ],
+    "timestamp": "Sep/19/2022 18:36"
+  },
   "CF172684947": {
     "contest_id": 1725,
     "language": "GNU C++20 (64)",
