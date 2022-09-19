@@ -19042,6 +19042,26 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF172684947": {
+    "contest_id": 1725,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1725\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circular Mirror",
+    "problem_url": "https://codeforces.com/contest/1725/problem/C",
+    "submission_id": "CF172684947",
+    "submission_url": "https://codeforces.com/contest/1725/submission/172684947",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "geometry",
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Sep/19/2022 20:31"
+  },
   "CF172741736": {
     "contest_id": 1733,
     "language": "GNU C++20 (64)",
