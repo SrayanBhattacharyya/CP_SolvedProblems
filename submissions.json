@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF173049411": {
+    "contest_id": 983,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\983\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Finite or not?",
+    "problem_url": "https://codeforces.com/contest/983/problem/A",
+    "submission_id": "CF173049411",
+    "submission_url": "https://codeforces.com/contest/983/submission/173049411",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/22/2022 16:36"
+  },
   "CF173095397": {
     "contest_id": 416,
     "language": "GNU C++20 (64)",
