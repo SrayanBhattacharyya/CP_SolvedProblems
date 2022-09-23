@@ -19042,6 +19042,25 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF173240381": {
+    "contest_id": 1734,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1734\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Slime Escape",
+    "problem_url": "https://codeforces.com/contest/1734/problem/D",
+    "submission_id": "CF173240381",
+    "submission_url": "https://codeforces.com/contest/1734/submission/173240381",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Sep/23/2022 22:06"
+  },
   "CF173242237": {
     "contest_id": 1734,
     "language": "GNU C++20 (64)",
