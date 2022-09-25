@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF173494700": {
+    "contest_id": 1163,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1163\\B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Cat Party (Hard Edition)",
+    "problem_url": "https://codeforces.com/contest/1163/problem/B2",
+    "submission_id": "CF173494700",
+    "submission_url": "https://codeforces.com/contest/1163/submission/173494700",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Sep/25/2022 22:28"
+  },
   "CF173496361": {
     "contest_id": 1163,
     "language": "GNU C++20 (64)",
