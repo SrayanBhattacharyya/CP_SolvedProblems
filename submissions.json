@@ -19042,6 +19042,24 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF174216351": {
+    "contest_id": 1739,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1739\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1739/problem/C",
+    "submission_id": "CF174216351",
+    "submission_url": "https://codeforces.com/contest/1739/submission/174216351",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "games"
+    ],
+    "timestamp": "Oct/01/2022 13:04"
+  },
   "CF174430093": {
     "contest_id": 1730,
     "language": "GNU C++20 (64)",
