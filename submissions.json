@@ -19042,6 +19042,23 @@
     ],
     "timestamp": "Aug/15/2022 22:24"
   },
+  "CF174438552": {
+    "contest_id": 1738,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1738\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Glory Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/A",
+    "submission_id": "CF174438552",
+    "submission_url": "https://codeforces.com/contest/1738/submission/174438552",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Oct/02/2022 23:59"
+  },
   "CF174532744": {
     "contest_id": 1738,
     "language": "GNU C++20 (64)",
