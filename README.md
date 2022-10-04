@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1228 | [A - Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | [GNU C++20 (64)](./codeforces/1151/A.cpp) | `brute force` `strings` `*1000` | Oct/05/2022 23:14 | 
-1227 | [D - Meta-set](https://codeforces.com/contest/1735/problem/D) | [GNU C++20 (64)](./codeforces/1735/D.cpp) | `brute force` `combinatorics` `data structures` `hashing` `math` `*1700` | Oct/05/2022 20:26 | 
-1226 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [GNU C++20 (64)](./codeforces/1735/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Oct/05/2022 19:39 | 
+1229 | [A - Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | [GNU C++20 (64)](./codeforces/1151/A.cpp) | `brute force` `strings` `*1000` | Oct/05/2022 23:14 | 
+1228 | [D - Meta-set](https://codeforces.com/contest/1735/problem/D) | [GNU C++20 (64)](./codeforces/1735/D.cpp) | `brute force` `combinatorics` `data structures` `hashing` `math` `*1700` | Oct/05/2022 20:26 | 
+1227 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [GNU C++20 (64)](./codeforces/1735/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Oct/05/2022 19:39 | 
+1226 | [B - Tea with Tangerines](https://codeforces.com/contest/1735/problem/B) | [GNU C++20 (64)](./codeforces/1735/B.cpp) | `greedy` `math` `*900` | Oct/04/2022 22:02 | 
 1225 | [C - Even Number Addicts](https://codeforces.com/contest/1738/problem/C) | [GNU C++20 (64)](./codeforces/1738/C.cpp) | `dp` `games` `greedy` | Oct/03/2022 22:25 | 
 1224 | [B - Prefix Sum Addicts](https://codeforces.com/contest/1738/problem/B) | [GNU C++20 (64)](./codeforces/1738/B.cpp) | `constructive algorithms` `greedy` `math` `sortings` | Oct/03/2022 21:16 | 
 1223 | [A - Glory Addicts](https://codeforces.com/contest/1738/problem/A) | [GNU C++20 (64)](./codeforces/1738/A.cpp) | `greedy` `implementation` `sortings` | Oct/02/2022 23:59 | 
