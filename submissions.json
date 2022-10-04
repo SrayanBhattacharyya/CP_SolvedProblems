@@ -21865,6 +21865,24 @@
     ],
     "timestamp": "Oct/03/2022 22:25"
   },
+  "CF174641273": {
+    "contest_id": 1730,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1730\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Prefixes and Suffixes",
+    "problem_url": "https://codeforces.com/contest/1730/problem/D",
+    "submission_id": "CF174641273",
+    "submission_url": "https://codeforces.com/contest/1730/submission/174641273",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "Oct/04/2022 20:51"
+  },
   "CF174643602": {
     "contest_id": 1735,
     "language": "GNU C++20 (64)",
