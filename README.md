@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1226 | [A - Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | [GNU C++20 (64)](./codeforces/1151/A.cpp) | `brute force` `strings` `*1000` | Oct/05/2022 23:14 | 
 1225 | [C - Even Number Addicts](https://codeforces.com/contest/1738/problem/C) | [GNU C++20 (64)](./codeforces/1738/C.cpp) | `dp` `games` `greedy` | Oct/03/2022 22:25 | 
 1224 | [B - Prefix Sum Addicts](https://codeforces.com/contest/1738/problem/B) | [GNU C++20 (64)](./codeforces/1738/B.cpp) | `constructive algorithms` `greedy` `math` `sortings` | Oct/03/2022 21:16 | 
 1223 | [A - Glory Addicts](https://codeforces.com/contest/1738/problem/A) | [GNU C++20 (64)](./codeforces/1738/A.cpp) | `greedy` `implementation` `sortings` | Oct/02/2022 23:59 | 
@@ -155,12 +156,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 1085 | [C - Corners](https://codeforces.com/contest/1720/problem/C) | [GNU C++20 (64)](./codeforces/1720/C.cpp) | `greedy` `implementation` `*1200` | Aug/20/2022 23:28 | 
 1084 | [D1 - Xor-Subsequence (easy version)](https://codeforces.com/contest/1720/problem/D1) | [GNU C++20 (64)](./codeforces/1720/D1.cpp) | `bitmasks` `brute force` `dp` `strings` `trees` `two pointers` `*1800` | Aug/20/2022 22:34 | 
 1083 | [C - Fighting Tournament](https://codeforces.com/contest/1719/problem/C) | [GNU C++20 (64)](./codeforces/1719/C.cpp) | `binary search` `data structures` `implementation` `two pointers` `*1400` | Aug/19/2022 22:53 | 
-1082 | [D1 - Burenka and Traditions (easy version)](https://codeforces.com/contest/1719/problem/D1) | [GNU C++20 (64)](./codeforces/1719/D1.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1800` | Aug/19/2022 19:29 | 
-1081 | [D2 - Burenka and Traditions (hard version)](https://codeforces.com/contest/1719/problem/D2) | [GNU C++20 (64)](./codeforces/1719/D2.cpp) | `bitmasks` `dp` `greedy` `math` `*1900` | Aug/19/2022 19:29 | 
+1082 | [D2 - Burenka and Traditions (hard version)](https://codeforces.com/contest/1719/problem/D2) | [GNU C++20 (64)](./codeforces/1719/D2.cpp) | `bitmasks` `dp` `greedy` `math` `*1900` | Aug/19/2022 19:29 | 
+1081 | [D1 - Burenka and Traditions (easy version)](https://codeforces.com/contest/1719/problem/D1) | [GNU C++20 (64)](./codeforces/1719/D1.cpp) | `bitmasks` `brute force` `dp` `greedy` `*1800` | Aug/19/2022 19:29 | 
 1080 | [D1 - Domino (easy version)](https://codeforces.com/contest/1551/problem/D1) | [GNU C++20 (64)](./codeforces/1551/D1.cpp) | `constructive algorithms` `math` `*1700` | Aug/18/2022 23:20 | 
 1079 | [D2 - Chopping Carrots (Hard Version)](https://codeforces.com/contest/1706/problem/D2) | [GNU C++20 (64)](./codeforces/1706/D2.cpp) | `brute force` `constructive algorithms` `data structures` `dp` `greedy` `math` `number theory` `two pointers` `*2400` | Aug/18/2022 22:25 | 
-1078 | [E1 - Three Blocks Palindrome (easy version)](https://codeforces.com/contest/1335/problem/E1) | [GNU C++20 (64)](./codeforces/1335/E1.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Aug/18/2022 20:26 | 
-1077 | [E2 - Three Blocks Palindrome (hard version)](https://codeforces.com/contest/1335/problem/E2) | [GNU C++20 (64)](./codeforces/1335/E2.cpp) | `brute force` `data structures` `dp` `two pointers` `*1800` | Aug/18/2022 20:26 | 
+1078 | [E2 - Three Blocks Palindrome (hard version)](https://codeforces.com/contest/1335/problem/E2) | [GNU C++20 (64)](./codeforces/1335/E2.cpp) | `brute force` `data structures` `dp` `two pointers` `*1800` | Aug/18/2022 20:26 | 
+1077 | [E1 - Three Blocks Palindrome (easy version)](https://codeforces.com/contest/1335/problem/E1) | [GNU C++20 (64)](./codeforces/1335/E1.cpp) | `binary search` `brute force` `data structures` `dp` `two pointers` `*1700` | Aug/18/2022 20:26 | 
 1076 | [C - Mixing Water](https://codeforces.com/contest/1359/problem/C) | [GNU C++20 (64)](./codeforces/1359/C.cpp) | `binary search` `math` `*1700` | Aug/17/2022 20:20 | 
 1075 | [E - K Balanced Teams](https://codeforces.com/contest/1133/problem/E) | [GNU C++20 (64)](./codeforces/1133/E.cpp) | `dp` `sortings` `two pointers` `*1800` | Aug/17/2022 19:01 | 
 1074 | [A - Toda 2](https://codeforces.com/contest/730/problem/A) | [GNU C++20 (64)](./codeforces/730/A.cpp) | `greedy` `implementation` `*1800` | Aug/17/2022 11:10 | 
