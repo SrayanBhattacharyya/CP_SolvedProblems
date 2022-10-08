@@ -21976,6 +21976,24 @@
     ],
     "timestamp": "Oct/05/2022 23:14"
   },
+  "CF175162061": {
+    "contest_id": 1737,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1737\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ela's Fitness and the Luxury Number",
+    "problem_url": "https://codeforces.com/contest/1737/problem/B",
+    "submission_id": "CF175162061",
+    "submission_url": "https://codeforces.com/contest/1737/submission/175162061",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/08/2022 21:54"
+  },
   "CF175167628": {
     "contest_id": 1552,
     "language": "GNU C++20 (64)",
