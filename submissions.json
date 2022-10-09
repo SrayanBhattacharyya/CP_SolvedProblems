@@ -21976,6 +21976,25 @@
     ],
     "timestamp": "Oct/05/2022 23:14"
   },
+  "CF175262944": {
+    "contest_id": 1737,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1737\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ela and Crickets",
+    "problem_url": "https://codeforces.com/contest/1737/problem/C",
+    "submission_id": "CF175262944",
+    "submission_url": "https://codeforces.com/contest/1737/submission/175262944",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Oct/09/2022 21:27"
+  },
   "CF175274826": {
     "contest_id": 1547,
     "language": "GNU C++20 (64)",
