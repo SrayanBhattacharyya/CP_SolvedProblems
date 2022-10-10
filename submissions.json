@@ -21976,6 +21976,23 @@
     ],
     "timestamp": "Oct/05/2022 23:14"
   },
+  "CF175451605": {
+    "contest_id": 1736,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1736\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Good Subarrays (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1736/problem/C1",
+    "submission_id": "CF175451605",
+    "submission_url": "https://codeforces.com/contest/1736/submission/175451605",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers"
+    ],
+    "timestamp": "Oct/10/2022 23:26"
+  },
   "CF175664069": {
     "contest_id": 1736,
     "language": "GNU C++20 (64)",
