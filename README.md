@@ -12,20 +12,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1245 | [C - Permutation Operations](https://codeforces.com/contest/1746/problem/C) | [GNU C++20 (64)](./codeforces/1746/C.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Oct/16/2022 08:40 | 
-1244 | [F - Smaller](https://codeforces.com/contest/1742/problem/F) | [GNU C++20 (64)](./codeforces/1742/F.cpp) | `constructive algorithms` `greedy` `strings` `*1500` | Oct/15/2022 13:26 | 
-1243 | [E - Scuza](https://codeforces.com/contest/1742/problem/E) | [GNU C++20 (64)](./codeforces/1742/E.cpp) | `binary search` `greedy` `math` `*1200` | Oct/15/2022 09:43 | 
-1242 | [D - Coprime](https://codeforces.com/contest/1742/problem/D) | [GNU C++20 (64)](./codeforces/1742/D.cpp) | `brute force` `greedy` `number theory` `*1100` | Oct/14/2022 23:23 | 
-1241 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++20 (64)](./codeforces/1742/C.cpp) | `implementation` `*900` | Oct/14/2022 20:08 | 
-1240 | [B - Increasing](https://codeforces.com/contest/1742/problem/B) | [GNU C++20 (64)](./codeforces/1742/B.cpp) | `greedy` `implementation` `sortings` `*800` | Oct/14/2022 17:30 | 
-1239 | [A - Sum](https://codeforces.com/contest/1742/problem/A) | [GNU C++20 (64)](./codeforces/1742/A.cpp) | `implementation` `*800` | Oct/13/2022 23:03 | 
-1238 | [D - Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | [GNU C++20 (64)](./codeforces/1741/D.cpp) | `dfs and similar` `divide and conquer` `graphs` `sortings` `trees` `*1300` | Oct/12/2022 22:37 | 
-1237 | [C - Minimize the Thickness](https://codeforces.com/contest/1741/problem/C) | [GNU C++20 (64)](./codeforces/1741/C.cpp) | `brute force` `greedy` `math` `two pointers` `*1100` | Oct/12/2022 20:33 | 
-1236 | [B - Funny Permutation](https://codeforces.com/contest/1741/problem/B) | [GNU C++20 (64)](./codeforces/1741/B.cpp) | `constructive algorithms` `math` `*800` | Oct/12/2022 19:47 | 
-1235 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [GNU C++20 (64)](./codeforces/1741/A.cpp) | `implementation` `implementation` `strings` `*800` | Oct/11/2022 23:23 | 
-1234 | [E - Sending a Sequence Over the Network](https://codeforces.com/contest/1741/problem/E) | [GNU C++20 (64)](./codeforces/1741/E.cpp) | `dp` `*1600` | Oct/11/2022 23:07 | 
-1233 | [B - Playing with GCD](https://codeforces.com/contest/1736/problem/B) | [GNU C++20 (64)](./codeforces/1736/B.cpp) | `math` `number theory` | Oct/11/2022 22:33 | 
-1232 | [C1 - Good Subarrays (Easy Version)](https://codeforces.com/contest/1736/problem/C1) | [GNU C++20 (64)](./codeforces/1736/C1.cpp) | `binary search` `data structures` `two pointers` | Oct/10/2022 23:26 | 
+1246 | [C - Permutation Operations](https://codeforces.com/contest/1746/problem/C) | [GNU C++20 (64)](./codeforces/1746/C.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Oct/16/2022 08:40 | 
+1245 | [F - Smaller](https://codeforces.com/contest/1742/problem/F) | [GNU C++20 (64)](./codeforces/1742/F.cpp) | `constructive algorithms` `greedy` `strings` `*1500` | Oct/15/2022 13:26 | 
+1244 | [E - Scuza](https://codeforces.com/contest/1742/problem/E) | [GNU C++20 (64)](./codeforces/1742/E.cpp) | `binary search` `greedy` `math` `*1200` | Oct/15/2022 09:43 | 
+1243 | [D - Coprime](https://codeforces.com/contest/1742/problem/D) | [GNU C++20 (64)](./codeforces/1742/D.cpp) | `brute force` `greedy` `number theory` `*1100` | Oct/14/2022 23:23 | 
+1242 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++20 (64)](./codeforces/1742/C.cpp) | `implementation` `*900` | Oct/14/2022 20:08 | 
+1241 | [B - Increasing](https://codeforces.com/contest/1742/problem/B) | [GNU C++20 (64)](./codeforces/1742/B.cpp) | `greedy` `implementation` `sortings` `*800` | Oct/14/2022 17:30 | 
+1240 | [A - Sum](https://codeforces.com/contest/1742/problem/A) | [GNU C++20 (64)](./codeforces/1742/A.cpp) | `implementation` `*800` | Oct/13/2022 23:03 | 
+1239 | [D - Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | [GNU C++20 (64)](./codeforces/1741/D.cpp) | `dfs and similar` `divide and conquer` `graphs` `sortings` `trees` `*1300` | Oct/12/2022 22:37 | 
+1238 | [C - Minimize the Thickness](https://codeforces.com/contest/1741/problem/C) | [GNU C++20 (64)](./codeforces/1741/C.cpp) | `brute force` `greedy` `math` `two pointers` `*1100` | Oct/12/2022 20:33 | 
+1237 | [B - Funny Permutation](https://codeforces.com/contest/1741/problem/B) | [GNU C++20 (64)](./codeforces/1741/B.cpp) | `constructive algorithms` `math` `*800` | Oct/12/2022 19:47 | 
+1236 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [GNU C++20 (64)](./codeforces/1741/A.cpp) | `implementation` `implementation` `strings` `*800` | Oct/11/2022 23:23 | 
+1235 | [E - Sending a Sequence Over the Network](https://codeforces.com/contest/1741/problem/E) | [GNU C++20 (64)](./codeforces/1741/E.cpp) | `dp` `*1600` | Oct/11/2022 23:07 | 
+1234 | [B - Playing with GCD](https://codeforces.com/contest/1736/problem/B) | [GNU C++20 (64)](./codeforces/1736/B.cpp) | `math` `number theory` | Oct/11/2022 22:33 | 
+1233 | [C1 - Good Subarrays (Easy Version)](https://codeforces.com/contest/1736/problem/C1) | [GNU C++20 (64)](./codeforces/1736/C1.cpp) | `binary search` `data structures` `two pointers` | Oct/10/2022 23:26 | 
+1232 | [A - Make A Equal to B](https://codeforces.com/contest/1736/problem/A) | [GNU C++20 (64)](./codeforces/1736/A.cpp) | `brute force` `greedy` `sortings` | Oct/10/2022 23:25 | 
 1231 | [A - Maxim and Biology](https://codeforces.com/contest/1151/problem/A) | [GNU C++20 (64)](./codeforces/1151/A.cpp) | `brute force` `strings` `*1000` | Oct/05/2022 23:14 | 
 1230 | [D - Meta-set](https://codeforces.com/contest/1735/problem/D) | [GNU C++20 (64)](./codeforces/1735/D.cpp) | `brute force` `combinatorics` `data structures` `hashing` `math` `*1700` | Oct/05/2022 20:26 | 
 1229 | [C - Phase Shift](https://codeforces.com/contest/1735/problem/C) | [GNU C++20 (64)](./codeforces/1735/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `implementation` `strings` `*1400` | Oct/05/2022 19:39 | 
