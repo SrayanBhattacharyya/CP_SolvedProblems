@@ -21976,6 +21976,27 @@
     ],
     "timestamp": "Oct/05/2022 23:14"
   },
+  "CF175361823": {
+    "contest_id": 1738,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1738\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Permutation Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/D",
+    "submission_id": "CF175361823",
+    "submission_url": "https://codeforces.com/contest/1738/submission/175361823",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Oct/10/2022 18:51"
+  },
   "CF175451523": {
     "contest_id": 1736,
     "language": "GNU C++20 (64)",
