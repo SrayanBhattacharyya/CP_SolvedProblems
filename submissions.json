@@ -21976,6 +21976,24 @@
     ],
     "timestamp": "Oct/05/2022 23:14"
   },
+  "CF176417332": {
+    "contest_id": 1746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1746\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Permutation Operations",
+    "problem_url": "https://codeforces.com/contest/1746/problem/C",
+    "submission_id": "CF176417332",
+    "submission_url": "https://codeforces.com/contest/1746/submission/176417332",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Oct/16/2022 08:40"
+  },
   "CF96793203": {
     "contest_id": 4,
     "language": "Python 3",
