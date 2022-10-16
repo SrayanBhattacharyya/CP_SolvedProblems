@@ -22460,6 +22460,24 @@
     ],
     "timestamp": "Oct/16/2022 08:40"
   },
+  "CF176418055": {
+    "contest_id": 1746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1746\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rebellion",
+    "problem_url": "https://codeforces.com/contest/1746/problem/B",
+    "submission_id": "CF176418055",
+    "submission_url": "https://codeforces.com/contest/1746/submission/176418055",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Oct/16/2022 08:52"
+  },
   "CF176418351": {
     "contest_id": 1746,
     "language": "GNU C++20 (64)",
