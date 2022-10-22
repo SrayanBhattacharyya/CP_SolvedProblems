@@ -22460,6 +22460,22 @@
     ],
     "timestamp": "Oct/16/2022 08:40"
   },
+  "CF177473988": {
+    "contest_id": 665,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\665\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shopping",
+    "problem_url": "https://codeforces.com/contest/665/problem/B",
+    "submission_id": "CF177473988",
+    "submission_url": "https://codeforces.com/contest/665/submission/177473988",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "Oct/22/2022 21:39"
+  },
   "CF177475175": {
     "contest_id": 665,
     "language": "GNU C++20 (64)",
