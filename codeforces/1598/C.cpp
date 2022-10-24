@@ -12,7 +12,7 @@ int main(){
     cin >> t;
     while (t--){
         ll n;
-        cin >>  n;
+        cin >> n;
         vector <ll> v(n);
         ll s = 0;
         for(ll i=0;i<n;i++){
