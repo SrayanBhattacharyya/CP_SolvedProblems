@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1263 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Oct/28/2022 21:36 | 
-1262 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++20 (64)](./codeforces/1754/A.cpp) | `greedy` `*800` | Oct/28/2022 21:30 | 
-1261 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++20 (64)](./codeforces/1754/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Oct/27/2022 23:01 | 
-1260 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [GNU C++20 (64)](./codeforces/1551/A.cpp) | `greedy` `math` `*800` | Oct/26/2022 21:20 | 
-1259 | [C - Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | [GNU C++20 (64)](./codeforces/1598/C.cpp) | `data structures` `dp` `implementation` `math` `two pointers` `*1200` | Oct/26/2022 21:10 | 
+1264 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Oct/28/2022 21:36 | 
+1263 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++20 (64)](./codeforces/1754/A.cpp) | `greedy` `*800` | Oct/28/2022 21:30 | 
+1262 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++20 (64)](./codeforces/1754/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Oct/27/2022 23:01 | 
+1261 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [GNU C++20 (64)](./codeforces/1551/A.cpp) | `greedy` `math` `*800` | Oct/26/2022 21:20 | 
+1260 | [C - Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | [GNU C++20 (64)](./codeforces/1598/C.cpp) | `data structures` `dp` `implementation` `math` `two pointers` `*1200` | Oct/26/2022 21:10 | 
+1259 | [A - Collecting Coins](https://codeforces.com/contest/1294/problem/A) | [GNU C++20 (64)](./codeforces/1294/A.cpp) | `math` `*800` | Oct/25/2022 18:56 | 
 1258 | [C - Permutation Operations](https://codeforces.com/contest/1746/problem/C) | [GNU C++20 (64)](./codeforces/1746/C.cpp) | `constructive algorithms` `greedy` `implementation` `math` | Oct/16/2022 08:40 | 
 1257 | [F - Smaller](https://codeforces.com/contest/1742/problem/F) | [GNU C++20 (64)](./codeforces/1742/F.cpp) | `constructive algorithms` `greedy` `strings` `*1500` | Oct/15/2022 13:26 | 
 1256 | [E - Scuza](https://codeforces.com/contest/1742/problem/E) | [GNU C++20 (64)](./codeforces/1742/E.cpp) | `binary search` `greedy` `math` `*1200` | Oct/15/2022 09:43 | 
