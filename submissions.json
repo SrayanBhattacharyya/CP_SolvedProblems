@@ -23104,6 +23104,25 @@
     ],
     "timestamp": "Oct/28/2022 21:36"
   },
+  "CF178708318": {
+    "contest_id": 1740,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1740\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bricks and Bags",
+    "problem_url": "https://codeforces.com/contest/1740/problem/C",
+    "submission_id": "CF178708318",
+    "submission_url": "https://codeforces.com/contest/1740/submission/178708318",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Oct/31/2022 20:44"
+  },
   "CF178710568": {
     "contest_id": 1740,
     "language": "GNU C++20 (64)",
