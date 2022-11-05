@@ -23104,6 +23104,24 @@
     ],
     "timestamp": "Oct/28/2022 21:36"
   },
+  "CF179448340": {
+    "contest_id": 1716,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1716\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Chip Move",
+    "problem_url": "https://codeforces.com/contest/1716/problem/D",
+    "submission_id": "CF179448340",
+    "submission_url": "https://codeforces.com/contest/1716/submission/179448340",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Nov/05/2022 20:32"
+  },
   "CF179538547": {
     "contest_id": 1206,
     "language": "GNU C++20 (64)",
