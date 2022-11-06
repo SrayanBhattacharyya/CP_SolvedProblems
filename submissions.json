@@ -23104,6 +23104,23 @@
     ],
     "timestamp": "Oct/28/2022 21:36"
   },
+  "CF179683479": {
+    "contest_id": 1206,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1206\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost Equal",
+    "problem_url": "https://codeforces.com/contest/1206/problem/C",
+    "submission_id": "CF179683479",
+    "submission_url": "https://codeforces.com/contest/1206/submission/179683479",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/06/2022 22:43"
+  },
   "CF179985867": {
     "contest_id": 1750,
     "language": "GNU C++20 (64)",
