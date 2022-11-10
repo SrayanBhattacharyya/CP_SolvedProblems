@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1295 | [C - Python Indentation](https://codeforces.com/contest/909/problem/C) | [GNU C++20 (64)](./codeforces/909/C.cpp) | `dp` `*1800` | Nov/10/2022 22:43 | 
-1294 | [A - The Fair Nut and the Best Path](https://codeforces.com/contest/1083/problem/A) | [GNU C++20 (64)](./codeforces/1083/A.cpp) | `data structures` `dp` `trees` `*1800` | Nov/10/2022 20:20 | 
+1296 | [C - Python Indentation](https://codeforces.com/contest/909/problem/C) | [GNU C++20 (64)](./codeforces/909/C.cpp) | `dp` `*1800` | Nov/10/2022 22:43 | 
+1295 | [A - The Fair Nut and the Best Path](https://codeforces.com/contest/1083/problem/A) | [GNU C++20 (64)](./codeforces/1083/A.cpp) | `data structures` `dp` `trees` `*1800` | Nov/10/2022 20:20 | 
+1294 | [C - The Tag Game](https://codeforces.com/contest/813/problem/C) | [GNU C++20 (64)](./codeforces/813/C.cpp) | `dfs and similar` `graphs` `*1700` | Nov/10/2022 19:29 | 
 1293 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Oct/28/2022 21:36 | 
 1292 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++20 (64)](./codeforces/1754/A.cpp) | `greedy` `*800` | Oct/28/2022 21:30 | 
 1291 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++20 (64)](./codeforces/1754/B.cpp) | `constructive algorithms` `greedy` `math` `*800` | Oct/27/2022 23:01 | 
