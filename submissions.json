@@ -23726,6 +23726,23 @@
     ],
     "timestamp": "Nov/10/2022 22:43"
   },
+  "CF180481984": {
+    "contest_id": 909,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\909\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Segments",
+    "problem_url": "https://codeforces.com/contest/909/problem/B",
+    "submission_id": "CF180481984",
+    "submission_url": "https://codeforces.com/contest/909/submission/180481984",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/11/2022 20:34"
+  },
   "CF180482734": {
     "contest_id": 909,
     "language": "GNU C++20 (64)",
