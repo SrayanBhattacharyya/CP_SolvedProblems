@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1334 | [C - Infected Tree](https://codeforces.com/contest/1689/problem/C) | [GNU C++20 (64)](./codeforces/1689/C.cpp) | `dfs and similar` `dp` `trees` `*1600` | Nov/12/2022 14:09 | 
-1333 | [G - Orray](https://codeforces.com/contest/1742/problem/G) | [GNU C++20 (64)](./codeforces/1742/G.cpp) | `bitmasks` `brute force` `greedy` `math` `sortings` `*1500` | Nov/12/2022 13:39 | 
-1332 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++20 (64)](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1900` | Nov/12/2022 13:23 | 
-1331 | [E - Paint it really, really dark gray](https://codeforces.com/contest/717/problem/E) | [GNU C++20 (64)](./codeforces/717/E.cpp) | `dfs and similar` `*1900` | Nov/12/2022 08:33 | 
-1330 | [C - Potions Homework](https://codeforces.com/contest/717/problem/C) | [GNU C++20 (64)](./codeforces/717/C.cpp) | `implementation` `sortings` `*1200` | Nov/11/2022 23:07 | 
+1335 | [C - Infected Tree](https://codeforces.com/contest/1689/problem/C) | [GNU C++20 (64)](./codeforces/1689/C.cpp) | `dfs and similar` `dp` `trees` `*1600` | Nov/12/2022 14:09 | 
+1334 | [G - Orray](https://codeforces.com/contest/1742/problem/G) | [GNU C++20 (64)](./codeforces/1742/G.cpp) | `bitmasks` `brute force` `greedy` `math` `sortings` `*1500` | Nov/12/2022 13:39 | 
+1333 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++20 (64)](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1900` | Nov/12/2022 13:23 | 
+1332 | [E - Paint it really, really dark gray](https://codeforces.com/contest/717/problem/E) | [GNU C++20 (64)](./codeforces/717/E.cpp) | `dfs and similar` `*1900` | Nov/12/2022 08:33 | 
+1331 | [C - Potions Homework](https://codeforces.com/contest/717/problem/C) | [GNU C++20 (64)](./codeforces/717/C.cpp) | `implementation` `sortings` `*1200` | Nov/11/2022 23:07 | 
+1330 | [A - Generate Login](https://codeforces.com/contest/909/problem/A) | [GNU C++20 (64)](./codeforces/909/A.cpp) | `brute force` `greedy` `sortings` `*1000` | Nov/11/2022 20:40 | 
 1329 | [C - Python Indentation](https://codeforces.com/contest/909/problem/C) | [GNU C++20 (64)](./codeforces/909/C.cpp) | `dp` `*1800` | Nov/10/2022 22:43 | 
 1328 | [A - The Fair Nut and the Best Path](https://codeforces.com/contest/1083/problem/A) | [GNU C++20 (64)](./codeforces/1083/A.cpp) | `data structures` `dp` `trees` `*1800` | Nov/10/2022 20:20 | 
 1327 | [C - The Tag Game](https://codeforces.com/contest/813/problem/C) | [GNU C++20 (64)](./codeforces/813/C.cpp) | `dfs and similar` `graphs` `*1700` | Nov/10/2022 19:29 | 
