@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1330 | [C - Infected Tree](https://codeforces.com/contest/1689/problem/C) | [GNU C++20 (64)](./codeforces/1689/C.cpp) | `dfs and similar` `dp` `trees` `*1600` | Nov/12/2022 14:09 | 
 1329 | [C - Python Indentation](https://codeforces.com/contest/909/problem/C) | [GNU C++20 (64)](./codeforces/909/C.cpp) | `dp` `*1800` | Nov/10/2022 22:43 | 
 1328 | [A - The Fair Nut and the Best Path](https://codeforces.com/contest/1083/problem/A) | [GNU C++20 (64)](./codeforces/1083/A.cpp) | `data structures` `dp` `trees` `*1800` | Nov/10/2022 20:20 | 
 1327 | [C - The Tag Game](https://codeforces.com/contest/813/problem/C) | [GNU C++20 (64)](./codeforces/813/C.cpp) | `dfs and similar` `graphs` `*1700` | Nov/10/2022 19:29 | 
@@ -45,8 +46,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 1299 | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/1740/C.cpp) | `constructive algorithms` `games` `greedy` `sortings` `*1400` | Oct/31/2022 20:44 | 
 1298 | [D - Knowledge Cards](https://codeforces.com/contest/1740/problem/D) | [GNU C++20 (64)](./codeforces/1740/D.cpp) | `constructive algorithms` `data structures` `*1500` | Oct/31/2022 20:31 | 
 1297 | [C - The Sports Festival](https://codeforces.com/contest/1509/problem/C) | [GNU C++20 (64)](./codeforces/1509/C.cpp) | `dp` `greedy` `*1800` | Oct/30/2022 23:13 | 
-1296 | [C1 - Make Nonzero Sum (easy version)](https://codeforces.com/contest/1754/problem/C1) | [GNU C++20 (64)](./codeforces/1754/C1.cpp) | `constructive algorithms` `*1300` | Oct/30/2022 20:36 | 
-1295 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [GNU C++20 (64)](./codeforces/1754/C2.cpp) | `constructive algorithms` `implementation` `*1500` | Oct/30/2022 20:36 | 
+1296 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [GNU C++20 (64)](./codeforces/1754/C2.cpp) | `constructive algorithms` `implementation` `*1500` | Oct/30/2022 20:36 | 
+1295 | [C1 - Make Nonzero Sum (easy version)](https://codeforces.com/contest/1754/problem/C1) | [GNU C++20 (64)](./codeforces/1754/C1.cpp) | `constructive algorithms` `*1300` | Oct/30/2022 20:36 | 
 1294 | [A - Odd Selection](https://codeforces.com/contest/1363/problem/A) | [GNU C++20 (64)](./codeforces/1363/A.cpp) | `brute force` `implementation` `math` `*1200` | Oct/29/2022 18:47 | 
 1293 | [A - Cheap Travel](https://codeforces.com/contest/466/problem/A) | [GNU C++20 (64)](./codeforces/466/A.cpp) | `implementation` `*1200` | Oct/28/2022 21:36 | 
 1292 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++20 (64)](./codeforces/1754/A.cpp) | `greedy` `*800` | Oct/28/2022 21:30 | 
