@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1347 | [C - Permutation Partitions](https://codeforces.com/contest/1326/problem/C) | [GNU C++20 (64)](./codeforces/1326/C.cpp) | `combinatorics` `greedy` `math` `*1300` | Nov/16/2022 21:15 | 
-1346 | [C - Rooks Defenders](https://codeforces.com/contest/1679/problem/C) | [GNU C++20 (64)](./codeforces/1679/C.cpp) | `data structures` `implementation` `*1400` | Nov/16/2022 20:48 | 
-1345 | [D - Toss a Coin to Your Graph...](https://codeforces.com/contest/1679/problem/D) | [GNU C++20 (64)](./codeforces/1679/D.cpp) | `binary search` `dfs and similar` `dp` `graphs` `*1900` | Nov/16/2022 20:03 | 
-1344 | [D1 - Prefix-Suffix Palindrome (Easy version)](https://codeforces.com/contest/1326/problem/D1) | [GNU C++20 (64)](./codeforces/1326/D1.cpp) | `hashing` `string suffix structures` `strings` `*1500` | Nov/15/2022 23:01 | 
-1343 | [D2 - Prefix-Suffix Palindrome (Hard version)](https://codeforces.com/contest/1326/problem/D2) | [GNU C++20 (64)](./codeforces/1326/D2.cpp) | `binary search` `greedy` `hashing` `string suffix structures` `strings` `*1800` | Nov/15/2022 23:01 | 
-1342 | [G - Petya's Exams](https://codeforces.com/contest/978/problem/G) | [GNU C++20 (64)](./codeforces/978/G.cpp) | `greedy` `implementation` `sortings` `*1700` | Nov/15/2022 20:40 | 
-1341 | [C - Where is the Pizza?](https://codeforces.com/contest/1670/problem/C) | [GNU C++20 (64)](./codeforces/1670/C.cpp) | `data structures` `dfs and similar` `dsu` `graphs` `implementation` `math` `*1400` | Nov/14/2022 23:06 | 
-1340 | [E - Yet Another Array Counting Problem](https://codeforces.com/contest/1748/problem/E) | [GNU C++20 (64)](./codeforces/1748/E.cpp) | `data structures` `divide and conquer` `dp` `flows` `math` `trees` `*2300` | Nov/14/2022 20:39 | 
-1339 | [D - ConstructOR ](https://codeforces.com/contest/1748/problem/D) | [GNU C++20 (64)](./codeforces/1748/D.cpp) | `bitmasks` `chinese remainder theorem` `combinatorics` `constructive algorithms` `fft` `math` `number theory` `*2100` | Nov/14/2022 18:46 | 
-1338 | [C - Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C) | [GNU C++20 (64)](./codeforces/1748/C.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `*1600` | Nov/13/2022 18:25 | 
+1348 | [C - Permutation Partitions](https://codeforces.com/contest/1326/problem/C) | [GNU C++20 (64)](./codeforces/1326/C.cpp) | `combinatorics` `greedy` `math` `*1300` | Nov/16/2022 21:15 | 
+1347 | [C - Rooks Defenders](https://codeforces.com/contest/1679/problem/C) | [GNU C++20 (64)](./codeforces/1679/C.cpp) | `data structures` `implementation` `*1400` | Nov/16/2022 20:48 | 
+1346 | [D - Toss a Coin to Your Graph...](https://codeforces.com/contest/1679/problem/D) | [GNU C++20 (64)](./codeforces/1679/D.cpp) | `binary search` `dfs and similar` `dp` `graphs` `*1900` | Nov/16/2022 20:03 | 
+1345 | [D1 - Prefix-Suffix Palindrome (Easy version)](https://codeforces.com/contest/1326/problem/D1) | [GNU C++20 (64)](./codeforces/1326/D1.cpp) | `hashing` `string suffix structures` `strings` `*1500` | Nov/15/2022 23:01 | 
+1344 | [D2 - Prefix-Suffix Palindrome (Hard version)](https://codeforces.com/contest/1326/problem/D2) | [GNU C++20 (64)](./codeforces/1326/D2.cpp) | `binary search` `greedy` `hashing` `string suffix structures` `strings` `*1800` | Nov/15/2022 23:01 | 
+1343 | [G - Petya's Exams](https://codeforces.com/contest/978/problem/G) | [GNU C++20 (64)](./codeforces/978/G.cpp) | `greedy` `implementation` `sortings` `*1700` | Nov/15/2022 20:40 | 
+1342 | [C - Where is the Pizza?](https://codeforces.com/contest/1670/problem/C) | [GNU C++20 (64)](./codeforces/1670/C.cpp) | `data structures` `dfs and similar` `dsu` `graphs` `implementation` `math` `*1400` | Nov/14/2022 23:06 | 
+1341 | [E - Yet Another Array Counting Problem](https://codeforces.com/contest/1748/problem/E) | [GNU C++20 (64)](./codeforces/1748/E.cpp) | `data structures` `divide and conquer` `dp` `flows` `math` `trees` `*2300` | Nov/14/2022 20:39 | 
+1340 | [D - ConstructOR ](https://codeforces.com/contest/1748/problem/D) | [GNU C++20 (64)](./codeforces/1748/D.cpp) | `bitmasks` `chinese remainder theorem` `combinatorics` `constructive algorithms` `fft` `math` `number theory` `*2100` | Nov/14/2022 18:46 | 
+1339 | [C - Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C) | [GNU C++20 (64)](./codeforces/1748/C.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `*1600` | Nov/13/2022 18:25 | 
+1338 | [B - Diverse Substrings](https://codeforces.com/contest/1748/problem/B) | [GNU C++20 (64)](./codeforces/1748/B.cpp) | `brute force` `implementation` `strings` `*1400` | Nov/13/2022 12:44 | 
 1337 | [C - Infected Tree](https://codeforces.com/contest/1689/problem/C) | [GNU C++20 (64)](./codeforces/1689/C.cpp) | `dfs and similar` `dp` `trees` `*1600` | Nov/12/2022 14:09 | 
 1336 | [G - Orray](https://codeforces.com/contest/1742/problem/G) | [GNU C++20 (64)](./codeforces/1742/G.cpp) | `bitmasks` `brute force` `greedy` `math` `sortings` `*1500` | Nov/12/2022 13:39 | 
 1335 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++20 (64)](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1900` | Nov/12/2022 13:23 | 
