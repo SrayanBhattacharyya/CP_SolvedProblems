@@ -23869,6 +23869,28 @@
     ],
     "timestamp": "Nov/12/2022 14:09"
   },
+  "CF180979089": {
+    "contest_id": 1748,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1748\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "ConstructOR ",
+    "problem_url": "https://codeforces.com/contest/1748/problem/D",
+    "submission_id": "CF180979089",
+    "submission_url": "https://codeforces.com/contest/1748/submission/180979089",
+    "tags": [
+      "bitmasks",
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "fft",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "Nov/14/2022 18:46"
+  },
   "CF180991902": {
     "contest_id": 1748,
     "language": "GNU C++20 (64)",
