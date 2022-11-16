@@ -23869,6 +23869,25 @@
     ],
     "timestamp": "Nov/12/2022 14:09"
   },
+  "CF181213613": {
+    "contest_id": 1679,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1679\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Toss a Coin to Your Graph...",
+    "problem_url": "https://codeforces.com/contest/1679/problem/D",
+    "submission_id": "CF181213613",
+    "submission_url": "https://codeforces.com/contest/1679/submission/181213613",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*1900"
+    ],
+    "timestamp": "Nov/16/2022 20:03"
+  },
   "CF181218258": {
     "contest_id": 1679,
     "language": "GNU C++20 (64)",
