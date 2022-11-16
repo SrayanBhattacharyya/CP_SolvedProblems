@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1338 | [C - Permutation Partitions](https://codeforces.com/contest/1326/problem/C) | [GNU C++20 (64)](./codeforces/1326/C.cpp) | `combinatorics` `greedy` `math` `*1300` | Nov/16/2022 21:15 | 
 1337 | [C - Infected Tree](https://codeforces.com/contest/1689/problem/C) | [GNU C++20 (64)](./codeforces/1689/C.cpp) | `dfs and similar` `dp` `trees` `*1600` | Nov/12/2022 14:09 | 
 1336 | [G - Orray](https://codeforces.com/contest/1742/problem/G) | [GNU C++20 (64)](./codeforces/1742/G.cpp) | `bitmasks` `brute force` `greedy` `math` `sortings` `*1500` | Nov/12/2022 13:39 | 
 1335 | [D - Genius's Gambit](https://codeforces.com/contest/1492/problem/D) | [GNU C++20 (64)](./codeforces/1492/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*1900` | Nov/12/2022 13:23 | 
